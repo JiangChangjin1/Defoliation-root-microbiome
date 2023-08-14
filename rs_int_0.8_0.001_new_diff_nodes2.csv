@@ -1,0 +1,705 @@
+Id,Label,timeset,label3,module,kingdom,phylum,class,order,family,genus,species,name,abun,modularity_class
+Zotu102,Zotu102,,other,1,Bacteria,Chlorobi,Ignavibacteria,Ignavibacteriales,BSV26,uncultured bacterium,NA,Zotu102,0.002084,13
+Zotu1017,Zotu1017,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,GR-WP33-30,uncultured bacterium,NA,NA,Zotu1017,0.000224,13
+Zotu1024,Zotu1024,,other,1,Bacteria,Verrucomicrobia,OPB35 soil group,uncultured bacterium,NA,NA,NA,Zotu1024,0.000215,13
+Zotu1027,Zotu1027,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Sva0485,NA,NA,NA,Zotu1027,0.000195,13
+Zotu104,Zotu104,,diff,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Denitratisoma,uncultured bacterium,Zotu104,0.000905,11
+Zotu1,Zotu1,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,NA,NA,Zotu1,0.021957,11
+Zotu10430,Zotu10430,,diff,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,uncultured,NA,Zotu10430,0.000195,11
+Zotu10300,Zotu10300,,diff,3,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Gallionellaceae,Sideroxydans,uncultured bacterium,Zotu10300,0.000241,11
+Zotu10514,Zotu10514,,other,1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Arenimonas,uncultured bacterium,Zotu10514,0.000314,9
+Zotu1044,Zotu1044,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Phenylobacterium,NA,Zotu1044,0.00018,9
+Zotu1080,Zotu1080,,other,8,Bacteria,TA06,uncultured bacterium,NA,NA,NA,NA,Zotu1080,0.000233,3
+Zotu1072,Zotu1072,,other,8,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),uncultured organism,NA,NA,Zotu1072,0.000241,3
+Zotu1102,Zotu1102,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Phenylobacterium,NA,Zotu1102,0.0002,14
+Zotu1103,Zotu1103,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Sva0485,NA,NA,NA,Zotu1103,0.000197,13
+Zotu1007,Zotu1007,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Haliangiaceae,Haliangium,uncultured bacterium,Zotu1007,0.000199,13
+Zotu1110,Zotu1110,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Phenylobacterium,NA,Zotu1110,0.000156,14
+Zotu1111,Zotu1111,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Haliangiaceae,Haliangium,uncultured bacterium,Zotu1111,0.000137,13
+Zotu11141,Zotu11141,,diff,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Azospira,uncultured bacterium,Zotu11141,0.000147,11
+Zotu1119,Zotu1119,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,uncultured,NA,Zotu1119,0.000194,13
+Zotu113,Zotu113,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,SC-I-84,NA,NA,NA,Zotu113,0.001589,9
+Zotu1045,Zotu1045,,other,1,Bacteria,Proteobacteria,NA,NA,NA,NA,NA,Zotu1045,0.000197,9
+Zotu1069,Zotu1069,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,GR-WP33-58,NA,NA,Zotu1069,0.000182,13
+Zotu114,Zotu114,,other,4,Bacteria,Gemmatimonadetes,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,uncultured,NA,Zotu114,0.001766,11
+Zotu1034,Zotu1034,,other,4,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Saprospiraceae,uncultured,uncultured bacterium,Zotu1034,0.00021,12
+Zotu1065,Zotu1065,,other,6,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,BVA59,uncultured bacterium,NA,Zotu1065,0.000247,11
+Zotu1141,Zotu1141,,other,2,Bacteria,Chlamydiae,Chlamydiae,Chlamydiales,WA-aaa01f12,uncultured prokaryote,NA,Zotu1141,0.000243,14
+Zotu10402,Zotu10402,,other,1,Bacteria,Bacteroidetes,Bacteroidetes vadinHA17,uncultured bacterium,NA,NA,NA,Zotu10402,0.000966,14
+Zotu1142,Zotu1142,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,uncultured,NA,Zotu1142,0.000116,11
+Zotu1151,Zotu1151,,other,2,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylomonas,uncultured bacterium,Zotu1151,0.00016,14
+Zotu116,Zotu116,,other,1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 13,uncultured bacterium,Zotu116,0.000342,1
+Zotu1161,Zotu1161,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,uncultured,NA,Zotu1161,0.000181,13
+Zotu11729,Zotu11729,,diff,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,NA,NA,Zotu11729,0.000969,11
+Zotu11736,Zotu11736,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Zoogloea,NA,Zotu11736,0.000154,11
+Zotu118,Zotu118,,other,8,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylomicrobium,NA,Zotu118,0.001771,0
+Zotu1133,Zotu1133,,other,8,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylomicrobium,NA,Zotu1133,0.000211,0
+Zotu1185,Zotu1185,,other,8,Bacteria,TA06,uncultured bacterium,NA,NA,NA,NA,Zotu1185,0.000191,3
+Zotu1194,Zotu1194,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,43F-1404R,uncultured Syntrophaceae bacterium,NA,NA,Zotu1194,0.000226,13
+Zotu1204,Zotu1204,,other,8,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,NA,NA,Zotu1204,0.000167,0
+Zotu1205,Zotu1205,,other,4,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,Acidimicrobiaceae,uncultured,NA,Zotu1205,0.000222,9
+Zotu121,Zotu121,,other,6,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Dechloromonas,uncultured bacterium,Zotu121,0.001044,11
+Zotu117,Zotu117,,diff,6,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Dechloromonas,uncultured bacterium,Zotu117,0.000746,11
+Zotu12105,Zotu12105,,diff,3,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,uncultured,NA,Zotu12105,0.000161,11
+Zotu1220,Zotu1220,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,uncultured,uncultured bacterium,Zotu1220,0.00017,13
+Zotu1225,Zotu1225,,other,1,Bacteria,Chloroflexi,TK10,uncultured bacterium,NA,NA,NA,Zotu1225,0.000116,11
+Zotu1074,Zotu1074,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Haliangiaceae,Haliangium,uncultured bacterium,Zotu1074,0.000162,13
+Zotu123,Zotu123,,other,2,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Ideonella,uncultured beta proteobacterium,Zotu123,0.001641,14
+Zotu1195,Zotu1195,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,uncultured,uncultured soil bacterium,Zotu1195,0.000184,14
+Zotu1244,Zotu1244,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Polyangiaceae,Polyangium,uncultured bacterium,Zotu1244,0.000167,13
+Zotu1245,Zotu1245,,other,1,Bacteria,Latescibacteria,uncultured bacterium,NA,NA,NA,NA,Zotu1245,0.000169,13
+Zotu1249,Zotu1249,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,uncultured,uncultured soil bacterium,Zotu1249,0.000176,9
+Zotu125,Zotu125,,other,1,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Thioalkalispira,uncultured bacterium,Zotu125,0.001709,13
+Zotu1006,Zotu1006,,other,1,Bacteria,Proteobacteria,NA,NA,NA,NA,NA,Zotu1006,0.000215,13
+Zotu1240,Zotu1240,,other,1,Bacteria,Spirochaetae,Spirochaetes,Spirochaetales,Spirochaetaceae,Spirochaeta 2,NA,Zotu1240,0.000163,13
+Zotu1252,Zotu1252,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,mle1-27,uncultured bacterium,NA,Zotu1252,0.000143,14
+Zotu1256,Zotu1256,,other,1,Bacteria,Chloroflexi,uncultured,uncultured Chloroflexi bacterium,NA,NA,NA,Zotu1256,0.000124,9
+Zotu1167,Zotu1167,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Bradyrhizobium,NA,Zotu1167,0.000106,9
+Zotu127,Zotu127,,diff,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,NA,NA,Zotu127,0.000805,11
+Zotu1271,Zotu1271,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,BIrii41,uncultured bacterium,NA,Zotu1271,0.000127,9
+Zotu1250,Zotu1250,,other,1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,NA,Zotu1250,0.000103,9
+Zotu12783,Zotu12783,,diff,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,NA,NA,Zotu12783,0.000169,11
+Zotu1282,Zotu1282,,other,8,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,NA,NA,NA,Zotu1282,0.000143,0
+Zotu129,Zotu129,,diff,3,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,uncultured bacterium,Zotu129,0.001768,11
+Zotu1291,Zotu1291,,other,1,Bacteria,Actinobacteria,Actinobacteria,Frankiales,Geodermatophilaceae,Blastococcus,NA,Zotu1291,0.000114,9
+Zotu1295,Zotu1295,,other,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 1,NA,Zotu1295,0.000219,1
+Zotu1231,Zotu1231,,diff,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 1,NA,Zotu1231,0.000253,1
+Zotu1298,Zotu1298,,other,1,Bacteria,Acidobacteria,Acidobacteria,Subgroup 3,Unknown Family,Candidatus Solibacter,uncultured Acidobacteria bacterium,Zotu1298,0.000169,13
+Zotu13,Zotu13,,other,9,Bacteria,Spirochaetae,Spirochaetes,Spirochaetales,Leptospiraceae,uncultured,NA,Zotu13,0.003402,11
+Zotu108,Zotu108,,other,3,Bacteria,Acidobacteria,Holophagae,Holophagales,Holophagaceae,NA,NA,Zotu108,0.000845,11
+Zotu1307,Zotu1307,,other,6,Bacteria,Bacteroidetes,Bacteroidetes BD2-2,uncultured bacterium,NA,NA,NA,Zotu1307,0.000155,11
+Zotu130,Zotu130,,diff,6,Bacteria,Bacteroidetes,Bacteroidetes BD2-2,uncultured bacterium,NA,NA,NA,Zotu130,0.000886,11
+Zotu1308,Zotu1308,,other,8,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,NA,NA,Zotu1308,0.000166,0
+Zotu1317,Zotu1317,,other,2,Bacteria,Acidobacteria,Holophagae,Holophagales,Holophagaceae,Holophaga,NA,Zotu1317,0.000218,14
+Zotu1259,Zotu1259,,other,2,Bacteria,Lentisphaerae,Oligosphaeria,Oligosphaerales,uncultured organism,NA,NA,Zotu1259,0.000218,14
+Zotu132,Zotu132,,other,1,Bacteria,Chlorobi,Chlorobia,Chlorobiales,SJA-28,uncultured bacterium,NA,Zotu132,0.001591,13
+Zotu1323,Zotu1323,,other,6,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Cystobacteraceae,Anaeromyxobacter,NA,Zotu1323,0.000294,11
+Zotu1213,Zotu1213,,other,2,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,NA,Zotu1213,0.000249,11
+Zotu13236,Zotu13236,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,NA,NA,Zotu13236,0.000324,11
+Zotu1324,Zotu1324,,other,2,Bacteria,Acidobacteria,Holophagae,Holophagales,Holophagaceae,uncultured,NA,Zotu1324,0.000121,14
+Zotu1325,Zotu1325,,other,8,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylomicrobium,NA,Zotu1325,0.000159,0
+Zotu1328,Zotu1328,,other,1,Bacteria,Acidobacteria,Holophagae,Subgroup 7,uncultured bacterium,NA,NA,Zotu1328,0.000139,9
+Zotu134,Zotu134,,other,2,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,NA,Zotu134,0.00176,14
+Zotu1347,Zotu1347,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,BIrii41,uncultured bacterium,NA,Zotu1347,0.000136,13
+Zotu1279,Zotu1279,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Haliangiaceae,Haliangium,uncultured bacterium,Zotu1279,0.000139,13
+Zotu135,Zotu135,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,uncultured,uncultured soil bacterium,Zotu135,0.001534,9
+Zotu1355,Zotu1355,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,NA,NA,NA,Zotu1355,0.000113,9
+Zotu1374,Zotu1374,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Hyphomonadaceae,Woodsholea,uncultured bacterium,Zotu1374,0.000128,13
+Zotu1386,Zotu1386,,other,7,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,P3OB-42,NA,NA,Zotu1386,0.000105,11
+Zotu1389,Zotu1389,,other,2,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylomonas,NA,Zotu1389,0.000129,14
+Zotu1390,Zotu1390,,other,4,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,uncultured,uncultured bacterium,Zotu1390,0.000139,12
+Zotu1398,Zotu1398,,other,1,Bacteria,Acidobacteria,Acidobacteria,Subgroup 13,uncultured Acidobacterium sp.,NA,NA,Zotu1398,0.000164,13
+Zotu14,Zotu14,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,43F-1404R,uncultured bacterium,NA,NA,Zotu14,0.015263,13
+Zotu1031,Zotu1031,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophaceae,uncultured,uncultured bacterium,Zotu1031,0.000186,13
+Zotu140,Zotu140,,other,6,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Cystobacteraceae,Anaeromyxobacter,uncultured bacterium,Zotu140,0.000737,11
+Zotu14053,Zotu14053,,diff,3,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Cystobacteraceae,Anaeromyxobacter,uncultured bacterium,Zotu14053,0.000121,11
+Zotu1408,Zotu1408,,other,8,Bacteria,TA06,uncultured bacterium,NA,NA,NA,NA,Zotu1408,0.000156,3
+Zotu141,Zotu141,,other,1,Bacteria,Chlorobi,Chlorobia,Chlorobiales,SJA-28,uncultured bacterium,NA,Zotu141,0.001372,13
+Zotu1412,Zotu1412,,other,1,Bacteria,Chloroflexi,uncultured,uncultured bacterium,NA,NA,NA,Zotu1412,0.000112,9
+Zotu1417,Zotu1417,,other,3,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,NA,Zotu1417,0.000363,11
+Zotu14179,Zotu14179,,diff,3,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Gallionellaceae,Sideroxydans,uncultured bacterium,Zotu14179,0.000267,11
+Zotu143,Zotu143,,diff,2,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Pelomonas,NA,Zotu143,0.001394,14
+Zotu1431,Zotu1431,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,BVA18,uncultured bacterium,NA,Zotu1431,0.000136,13
+Zotu1435,Zotu1435,,other,4,Bacteria,Actinobacteria,Actinobacteria,PeM15,uncultured bacterium,NA,NA,Zotu1435,0.000125,9
+Zotu144,Zotu144,,diff,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Denitratisoma,uncultured bacterium,Zotu144,0.00071,11
+Zotu103,Zotu103,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,uncultured,uncultured bacterium,Zotu103,0.003056,11
+Zotu1443,Zotu1443,,diff,1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 1,NA,Zotu1443,0.000101,1
+Zotu105,Zotu105,,diff,1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 1,uncultured bacterium,Zotu105,0.000896,1
+Zotu145,Zotu145,,other,1,Bacteria,Chlorobi,Chlorobia,Chlorobiales,SJA-28,uncultured bacterium,NA,Zotu145,0.001272,13
+Zotu1397,Zotu1397,,other,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 12,uncultured bacterium,Zotu1397,0.000141,1
+Zotu1451,Zotu1451,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Denitratisoma,uncultured bacterium,Zotu1451,0.000111,11
+Zotu14682,Zotu14682,,diff,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,NA,NA,Zotu14682,0.000932,11
+Zotu1474,Zotu1474,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Polyangiaceae,Sorangium,NA,Zotu1474,0.000142,14
+Zotu1475,Zotu1475,,other,3,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Polyangiaceae,NA,NA,Zotu1475,0.000111,11
+Zotu1479,Zotu1479,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Cystobacteraceae,Anaeromyxobacter,uncultured bacterium,Zotu1479,0.000121,13
+Zotu1485,Zotu1485,,other,1,Bacteria,Bacteroidetes,Bacteroidetes vadinHA17,uncultured bacterium,NA,NA,NA,Zotu1485,0.000125,13
+Zotu149,Zotu149,,diff,7,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,NA,NA,NA,Zotu149,0.001486,2
+Zotu112,Zotu112,,diff,7,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,NA,NA,NA,Zotu112,0.001944,2
+Zotu14902,Zotu14902,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,NA,NA,Zotu14902,0.00013,11
+Zotu15,Zotu15,,other,6,Bacteria,Bacteroidetes,SB-5,uncultured bacterium,NA,NA,NA,Zotu15,0.002092,18
+Zotu1529,Zotu1529,,other,1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 12,uncultured bacterium,Zotu1529,0.000102,1
+Zotu15394,Zotu15394,,other,6,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Cystobacteraceae,Anaeromyxobacter,uncultured bacterium,Zotu15394,0.000141,11
+Zotu15453,Zotu15453,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,NA,NA,Zotu15453,0.000133,11
+Zotu1552,Zotu1552,,other,2,Bacteria,Lentisphaerae,Oligosphaeria,Oligosphaerales,uncultured organism,NA,NA,Zotu1552,0.000186,14
+Zotu1592,Zotu1592,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Nitrospinaceae,uncultured,uncultured bacterium,Zotu1592,0.000117,13
+Zotu16,Zotu16,,other,6,Bacteria,Fibrobacteres,Fibrobacteria,Fibrobacterales,possible family 01,uncultured microorganism,NA,Zotu16,0.002801,14
+Zotu160,Zotu160,,other,1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 1,uncultured bacterium,Zotu160,0.000236,1
+Zotu16045,Zotu16045,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Gallionellaceae,Ferriphaselus,uncultured bacterium,Zotu16045,0.00025,11
+Zotu161,Zotu161,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,NA,NA,NA,Zotu161,0.001162,9
+Zotu1375,Zotu1375,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,GR-WP33-58,NA,NA,Zotu1375,0.000124,9
+Zotu1612,Zotu1612,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Haliangiaceae,Haliangium,uncultured bacterium,Zotu1612,0.000118,9
+Zotu1614,Zotu1614,,other,1,Bacteria,Hydrogenedentes,NA,NA,NA,NA,NA,Zotu1614,0.000114,14
+Zotu16155,Zotu16155,,other,3,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,P3OB-42,NA,NA,Zotu16155,0.000139,11
+Zotu16172,Zotu16172,,other,3,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,NA,NA,NA,Zotu16172,0.000286,11
+Zotu1631,Zotu1631,,other,1,Bacteria,Lentisphaerae,WCHB1-41,uncultured bacterium,NA,NA,NA,Zotu1631,0.000127,14
+Zotu1634,Zotu1634,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,GR-WP33-58,NA,NA,Zotu1634,0.000112,13
+Zotu1486,Zotu1486,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,SC-I-84,uncultured bacterium,NA,NA,Zotu1486,0.000121,13
+Zotu1641,Zotu1641,,other,3,Bacteria,Chloroflexi,uncultured,uncultured bacterium,NA,NA,NA,Zotu1641,0.000117,3
+Zotu1129,Zotu1129,,other,8,Bacteria,Chloroflexi,uncultured,uncultured bacterium,NA,NA,NA,Zotu1129,0.000156,3
+Zotu16478,Zotu16478,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,NA,NA,Zotu16478,0.000186,11
+Zotu165,Zotu165,,diff,2,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,uncultured,uncultured bacterium,Zotu165,0.001532,14
+Zotu1026,Zotu1026,,other,2,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,NA,NA,Zotu1026,0.000162,14
+Zotu1659,Zotu1659,,other,4,Bacteria,Verrucomicrobia,OPB35 soil group,uncultured bacterium,NA,NA,NA,Zotu1659,0.000119,11
+Zotu16601,Zotu16601,,other,3,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Cystobacteraceae,NA,NA,Zotu16601,0.000119,11
+Zotu16621,Zotu16621,,other,7,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,uncultured,uncultured bacterium,Zotu16621,0.000873,11
+Zotu167,Zotu167,,other,1,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,uncultured,uncultured bacterium,Zotu167,0.00117,9
+Zotu1440,Zotu1440,,other,1,Bacteria,Latescibacteria,uncultured bacterium,NA,NA,NA,NA,Zotu1440,0.000136,9
+Zotu1675,Zotu1675,,other,5,Bacteria,Proteobacteria,Deltaproteobacteria,GR-WP33-30,uncultured delta proteobacterium,NA,NA,Zotu1675,0.000128,3
+Zotu1472,Zotu1472,,other,5,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfarculales,Desulfarculaceae,Desulfatiglans,uncultured delta proteobacterium,Zotu1472,0.000166,3
+Zotu1677,Zotu1677,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Sva0485,uncultured delta proteobacterium,NA,NA,Zotu1677,0.00014,11
+Zotu1678,Zotu1678,,other,1,Bacteria,Acidobacteria,Acidobacteria,Subgroup 13,uncultured bacterium,NA,NA,Zotu1678,0.000113,13
+Zotu16799,Zotu16799,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,uncultured,uncultured bacterium,Zotu16799,0.000165,9
+Zotu1683,Zotu1683,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,TRA3-20,uncultured beta proteobacterium,NA,NA,Zotu1683,0.000186,13
+Zotu1689,Zotu1689,,other,8,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),uncultured organism,NA,NA,Zotu1689,0.00015,3
+Zotu1696,Zotu1696,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,uncultured,uncultured bacterium,Zotu1696,0.000128,14
+Zotu1707,Zotu1707,,diff,3,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylocaldum,uncultured bacterium,Zotu1707,0.000114,11
+Zotu1712,Zotu1712,,other,4,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,UASB-TL25,uncultured bacterium,NA,Zotu1712,0.000139,12
+Zotu173,Zotu173,,other,3,Bacteria,Bacteroidetes,SB-5,uncultured bacterium,NA,NA,NA,Zotu173,0.001003,11
+Zotu174,Zotu174,,diff,2,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,uncultured,NA,Zotu174,0.000624,14
+Zotu1756,Zotu1756,,other,6,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,NA,NA,NA,Zotu1756,0.000202,11
+Zotu1764,Zotu1764,,other,2,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidia Incertae Sedis,Draconibacteriaceae,uncultured,uncultured bacterium,Zotu1764,0.000184,14
+Zotu177,Zotu177,,diff,1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,NA,NA,Zotu177,0.000912,1
+Zotu1770,Zotu1770,,other,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 12,uncultured bacterium,Zotu1770,0.000342,1
+Zotu17720,Zotu17720,,diff,2,Bacteria,Proteobacteria,Betaproteobacteria,NA,NA,NA,NA,Zotu17720,0.000514,14
+Zotu1774,Zotu1774,,other,4,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Roseomonas,uncultured bacterium,Zotu1774,0.000115,22
+Zotu107,Zotu107,,other,4,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,uncultured,NA,Zotu107,0.00227,22
+Zotu1788,Zotu1788,,other,2,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,NA,NA,Zotu1788,0.000183,14
+Zotu1792,Zotu1792,,other,1,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,uncultured,uncultured actinobacterium,Zotu1792,0.000101,9
+Zotu181,Zotu181,,other,3,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,P3OB-42,uncultured bacterium,NA,Zotu181,0.00077,11
+Zotu1816,Zotu1816,,other,5,Bacteria,Verrucomicrobia,OPB35 soil group,NA,NA,NA,NA,Zotu1816,0.00014,4
+Zotu1020,Zotu1020,,other,5,Bacteria,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophobacteraceae,Syntrophobacter,uncultured bacterium,Zotu1020,0.000218,4
+Zotu182,Zotu182,,diff,3,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,uncultured bacterium,Zotu182,0.001999,11
+Zotu1824,Zotu1824,,diff,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 1,NA,Zotu1824,0.000169,1
+Zotu1830,Zotu1830,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Desulfuromonadaceae,Desulfuromonas,NA,Zotu1830,0.000118,13
+Zotu1832,Zotu1832,,diff,3,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,NA,NA,Zotu1832,0.000113,11
+Zotu1605,Zotu1605,,other,4,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Tolumonas,uncultured bacterium,Zotu1605,0.000125,11
+Zotu1856,Zotu1856,,other,5,Bacteria,Planctomycetes,Pla3 lineage,uncultured bacterium,NA,NA,NA,Zotu1856,0.000113,3
+Zotu187,Zotu187,,other,3,Bacteria,Bacteroidetes,Bacteroidetes BD2-2,uncultured bacterium,NA,NA,NA,Zotu187,0.000578,11
+Zotu1871,Zotu1871,,other,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 1,uncultured bacterium,Zotu1871,0.000119,1
+Zotu1874,Zotu1874,,other,2,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cytophagaceae,uncultured,uncultured bacterium,Zotu1874,0.000276,18
+Zotu1387,Zotu1387,,diff,2,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cytophagaceae,uncultured,uncultured bacterium,Zotu1387,0.000178,18
+Zotu1888,Zotu1888,,other,4,Bacteria,Lentisphaerae,DEV055,NA,NA,NA,NA,Zotu1888,0.000102,12
+Zotu19,Zotu19,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,NA,NA,Zotu19,0.004362,11
+Zotu1029,Zotu1029,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,uncultured,NA,Zotu1029,0.000137,11
+Zotu1908,Zotu1908,,other,4,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,uncultured bacterium,Zotu1908,0.000101,9
+Zotu1912,Zotu1912,,other,5,Bacteria,Acidobacteria,Acidobacteria,Subgroup 3,Unknown Family,Bryobacter,uncultured bacterium,Zotu1912,0.000213,5
+Zotu1504,Zotu1504,,diff,5,Bacteria,Verrucomicrobia,OPB35 soil group,uncultured bacterium,NA,NA,NA,Zotu1504,0.000158,5
+Zotu1923,Zotu1923,,other,2,Bacteria,Proteobacteria,Gammaproteobacteria,NA,NA,NA,NA,Zotu1923,0.000164,14
+Zotu1924,Zotu1924,,other,5,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfarculales,Desulfarculaceae,Desulfatiglans,uncultured bacterium,Zotu1924,0.000117,3
+Zotu1071,Zotu1071,,other,5,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfarculales,Desulfarculaceae,Desulfatiglans,uncultured bacterium,Zotu1071,0.000243,3
+Zotu193,Zotu193,,diff,1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidia Incertae Sedis,Prolixibacteraceae,Prolixibacter,uncultured bacterium,Zotu193,0.000217,11
+Zotu1933,Zotu1933,,other,8,Bacteria,Gemmatimonadetes,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,uncultured,NA,Zotu1933,0.000104,3
+Zotu1206,Zotu1206,,other,8,Bacteria,Gemmatimonadetes,Gemmatimonadetes,S0134 terrestrial group,NA,NA,NA,Zotu1206,0.000174,3
+Zotu196,Zotu196,,other,9,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,NA,NA,Zotu196,0.001137,13
+Zotu1966,Zotu1966,,other,3,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobacteraceae,uncultured,NA,Zotu1966,0.000152,6
+Zotu1901,Zotu1901,,diff,3,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobacteraceae,uncultured,NA,Zotu1901,0.000186,6
+Zotu1992,Zotu1992,,other,4,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,uncultured,uncultured bacterium,Zotu1992,0.000219,7
+Zotu1801,Zotu1801,,other,4,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Roseomonas,NA,Zotu1801,0.000123,7
+Zotu2,Zotu2,,diff,3,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,P3OB-42,NA,NA,Zotu2,0.00952,11
+Zotu10,Zotu10,,other,3,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,uncultured bacterium,Zotu10,0.002492,11
+Zotu1628,Zotu1628,,other,7,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylocaldum,uncultured bacterium,Zotu1628,0.000245,11
+Zotu200,Zotu200,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,uncultured,NA,Zotu200,0.000782,14
+Zotu2014,Zotu2014,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Sva0485,uncultured bacterium,NA,NA,Zotu2014,0.00011,13
+Zotu203,Zotu203,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,uncultured,uncultured bacterium,Zotu203,0.001074,13
+Zotu205,Zotu205,,other,5,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,Nitrospira,uncultured bacterium,Zotu205,0.001247,8
+Zotu151,Zotu151,,other,5,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Gallionellaceae,NA,NA,Zotu151,0.001991,8
+Zotu2051,Zotu2051,,other,6,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,PS-B29,uncultured organism,NA,Zotu2051,0.000108,14
+Zotu206,Zotu206,,other,1,Bacteria,Chloroflexi,JG30-KF-CM66,NA,NA,NA,NA,Zotu206,0.001117,9
+Zotu1254,Zotu1254,,other,1,Bacteria,Chloroflexi,NA,NA,NA,NA,NA,Zotu1254,0.000181,9
+Zotu2099,Zotu2099,,other,2,Bacteria,Aerophobetes,NA,NA,NA,NA,NA,Zotu2099,0.000123,14
+Zotu21,Zotu21,,diff,3,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Gallionellaceae,Sideroxydans,NA,Zotu21,0.003022,11
+Zotu211,Zotu211,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Variibacter,uncultured bacterium,Zotu211,0.00076,13
+Zotu2116,Zotu2116,,other,2,Bacteria,Bacteroidetes,BSV13,uncultured bacterium,NA,NA,NA,Zotu2116,0.000111,10
+Zotu1608,Zotu1608,,other,2,Bacteria,Bacteroidetes,BSV13,uncultured bacterium,NA,NA,NA,Zotu1608,0.00017,10
+Zotu212,Zotu212,,diff,3,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Haliangiaceae,Haliangium,NA,Zotu212,0.000668,11
+Zotu213,Zotu213,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,uncultured,NA,Zotu213,0.000813,11
+Zotu2136,Zotu2136,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Sva0485,uncultured bacterium,NA,NA,Zotu2136,0.000363,13
+Zotu2152,Zotu2152,,other,3,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobacteraceae,uncultured,uncultured organism,Zotu2152,0.000159,14
+Zotu1177,Zotu1177,,other,2,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidia Incertae Sedis,Draconibacteriaceae,uncultured,NA,Zotu1177,0.0003,14
+Zotu2135,Zotu2135,,other,3,Bacteria,Bacteroidetes,Bacteroidetes vadinHA17,uncultured bacterium,NA,NA,NA,Zotu2135,0.000703,14
+Zotu216,Zotu216,,other,9,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,uncultured bacterium,Zotu216,0.001037,9
+Zotu217,Zotu217,,other,1,Bacteria,Chloroflexi,S085,uncultured bacterium,NA,NA,NA,Zotu217,0.000815,9
+Zotu2170,Zotu2170,,other,2,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,NA,Zotu2170,0.000132,11
+Zotu219,Zotu219,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,NA,Zotu219,0.001294,13
+Zotu1329,Zotu1329,,other,1,Bacteria,Acidobacteria,Holophagae,Subgroup 7,uncultured soil bacterium,NA,NA,Zotu1329,0.000132,13
+Zotu22,Zotu22,,other,7,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Paucibacter,NA,Zotu22,0.004595,11
+Zotu221,Zotu221,,other,4,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadales Incertae Sedis,NA,NA,Zotu221,0.001362,12
+Zotu109,Zotu109,,other,4,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadales Incertae Sedis,uncultured,uncultured gamma proteobacterium,Zotu109,0.002855,12
+Zotu166,Zotu166,,other,4,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,uncultured,uncultured bacterium,Zotu166,0.001495,12
+Zotu222,Zotu222,,other,1,Bacteria,Verrucomicrobia,OPB35 soil group,uncultured bacterium,NA,NA,NA,Zotu222,0.001205,13
+Zotu2221,Zotu2221,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Sulfuritalea,uncultured bacterium,Zotu2221,0.000178,11
+Zotu223,Zotu223,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Hyphomonadaceae,Woodsholea,uncultured bacterium,Zotu223,0.000992,13
+Zotu2230,Zotu2230,,other,1,Bacteria,Bacteroidetes,Bacteroidetes vadinHA17,uncultured bacterium,NA,NA,NA,Zotu2230,0.000396,14
+Zotu2231,Zotu2231,,diff,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 1,uncultured bacterium,Zotu2231,0.000164,1
+Zotu2235,Zotu2235,,other,2,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidia Incertae Sedis,Prolixibacteraceae,Prolixibacter,uncultured bacterium,Zotu2235,0.000109,14
+Zotu2256,Zotu2256,,diff,3,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Haliangiaceae,Haliangium,NA,Zotu2256,0.000113,11
+Zotu1174,Zotu1174,,other,1,Bacteria,Acidobacteria,Holophagae,Subgroup 7,NA,NA,NA,Zotu1174,0.000165,13
+Zotu228,Zotu228,,other,1,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,4-29,uncultured bacterium,NA,Zotu228,0.001023,13
+Zotu2260,Zotu2260,,other,7,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Spiribacter,NA,Zotu2260,0.000113,13
+Zotu229,Zotu229,,other,1,Bacteria,Proteobacteria,Gammaproteobacteria,KI89A clade,uncultured bacterium,NA,NA,Zotu229,0.001074,13
+Zotu23,Zotu23,,other,3,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,uncultured bacterium,Zotu23,0.00107,11
+Zotu230,Zotu230,,diff,6,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,uncultured,uncultured bacterium,Zotu230,0.000222,18
+Zotu231,Zotu231,,diff,2,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Ideonella,NA,Zotu231,0.000527,14
+Zotu233,Zotu233,,other,1,Bacteria,Chlorobi,Ignavibacteria,Ignavibacteriales,BSV26,NA,NA,Zotu233,0.001089,13
+Zotu2335,Zotu2335,,other,6,Bacteria,Bacteroidetes,WCHB1-32,uncultured bacterium,NA,NA,NA,Zotu2335,0.000101,14
+Zotu236,Zotu236,,other,4,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Roseomonas,uncultured bacterium,Zotu236,0.001115,22
+Zotu237,Zotu237,,other,1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 12,uncultured bacterium,Zotu237,0.000192,1
+Zotu2376,Zotu2376,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Cystobacteraceae,Anaeromyxobacter,NA,Zotu2376,0.000101,13
+Zotu239,Zotu239,,other,6,Bacteria,Proteobacteria,Gammaproteobacteria,NA,NA,NA,NA,Zotu239,0.00077,11
+Zotu240,Zotu240,,other,4,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,uncultured,uncultured soil bacterium,Zotu240,0.001043,12
+Zotu241,Zotu241,,diff,1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 1,uncultured bacterium,Zotu241,0.00058,1
+Zotu242,Zotu242,,other,1,Bacteria,TA06,uncultured organism,NA,NA,NA,NA,Zotu242,0.001098,13
+Zotu1042,Zotu1042,,other,5,Bacteria,Acidobacteria,Acidobacteria,Subgroup 3,GOUTB8,uncultured bacterium,NA,Zotu1042,0.000226,13
+Zotu1393,Zotu1393,,other,1,Bacteria,Planctomycetes,Phycisphaerae,MSBL9,uncultured bacterium,NA,NA,Zotu1393,0.000139,13
+Zotu244,Zotu244,,other,1,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Intrasporangiaceae,Intrasporangium,NA,Zotu244,0.000334,9
+Zotu1809,Zotu1809,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Ramlibacter,NA,Zotu1809,0.000132,9
+Zotu251,Zotu251,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,NA,NA,NA,Zotu251,0.000792,9
+Zotu252,Zotu252,,other,1,Bacteria,Chlorobi,Ignavibacteria,Ignavibacteriales,BSV26,NA,NA,Zotu252,0.000948,13
+Zotu253,Zotu253,,diff,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 1,uncultured bacterium,Zotu253,0.001494,1
+Zotu255,Zotu255,,other,1,Bacteria,Spirochaetae,Spirochaetes,Spirochaetales,Spirochaetaceae,Spirochaeta 2,uncultured bacterium,Zotu255,0.000903,13
+Zotu256,Zotu256,,other,3,Bacteria,Chloroflexi,uncultured,uncultured bacterium,NA,NA,NA,Zotu256,0.000868,3
+Zotu257,Zotu257,,other,9,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,NA,NA,NA,Zotu257,0.000889,9
+Zotu2589,Zotu2589,,other,1,Bacteria,Bacteroidetes,Bacteroidetes vadinHA17,NA,NA,NA,NA,Zotu2589,0.000111,15
+Zotu259,Zotu259,,other,1,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Intrasporangiaceae,NA,NA,Zotu259,0.000604,9
+Zotu26,Zotu26,,other,1,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Thioalkalispira,uncultured bacterium,Zotu26,0.006858,13
+Zotu260,Zotu260,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,uncultured,NA,Zotu260,0.000823,13
+Zotu2600,Zotu2600,,other,6,Bacteria,Bacteroidetes,Bacteroidetes vadinHA17,uncultured Bacteroidales bacterium,NA,NA,NA,Zotu2600,0.000103,14
+Zotu265,Zotu265,,other,5,Bacteria,Proteobacteria,Deltaproteobacteria,43F-1404R,uncultured Syntrophaceae bacterium,NA,NA,Zotu265,0.001148,24
+Zotu163,Zotu163,,other,5,Bacteria,Verrucomicrobia,OPB35 soil group,uncultured bacterium,NA,NA,NA,Zotu163,0.00183,24
+Zotu27,Zotu27,,other,6,Bacteria,Spirochaetae,Spirochaetes,Spirochaetales,Spirochaetaceae,Treponema,NA,Zotu27,0.001011,11
+Zotu270,Zotu270,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,NA,Zotu270,0.001002,13
+Zotu271,Zotu271,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,43F-1404R,uncultured delta proteobacterium,NA,NA,Zotu271,0.001003,8
+Zotu272,Zotu272,,other,1,Bacteria,Verrucomicrobia,OPB35 soil group,NA,NA,NA,NA,Zotu272,0.000996,13
+Zotu273,Zotu273,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,uncultured,uncultured bacterium,Zotu273,0.000585,11
+Zotu2748,Zotu2748,,other,2,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,NA,NA,Zotu2748,0.000147,14
+Zotu276,Zotu276,,diff,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 1,uncultured bacterium,Zotu276,0.001309,1
+Zotu1190,Zotu1190,,other,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 1,NA,Zotu1190,0.000239,1
+Zotu1530,Zotu1530,,other,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 8,uncultured bacterium,Zotu1530,0.000159,1
+Zotu2768,Zotu2768,,diff,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,uncultured,NA,Zotu2768,0.000222,11
+Zotu2774,Zotu2774,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,NA,NA,Zotu2774,0.000126,11
+Zotu279,Zotu279,,diff,7,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,NA,Zotu279,0.000748,11
+Zotu282,Zotu282,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,uncultured,uncultured bacterium,Zotu282,0.000709,13
+Zotu1264,Zotu1264,,other,1,Bacteria,Fibrobacteres,Fibrobacteria,possible order 07,uncultured bacterium,NA,NA,Zotu1264,0.000162,13
+Zotu283,Zotu283,,other,8,Bacteria,Gemmatimonadetes,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,uncultured,uncultured bacterium,Zotu283,0.000897,3
+Zotu1423,Zotu1423,,other,8,Bacteria,Proteobacteria,Deltaproteobacteria,GR-WP33-30,uncultured bacterium,NA,NA,Zotu1423,0.000154,3
+Zotu1442,Zotu1442,,other,8,Bacteria,Gemmatimonadetes,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,Gemmatimonas,uncultured Gemmatimonadales bacterium,Zotu1442,0.000131,3
+Zotu285,Zotu285,,diff,7,Bacteria,Proteobacteria,Betaproteobacteria,Methylophilales,Methylophilaceae,uncultured,uncultured bacterium,Zotu285,0.000662,30
+Zotu1381,Zotu1381,,diff,7,Bacteria,Proteobacteria,Betaproteobacteria,NA,NA,NA,NA,Zotu1381,0.000127,30
+Zotu168,Zotu168,,other,7,Bacteria,Proteobacteria,Betaproteobacteria,Methylophilales,Methylophilaceae,NA,NA,Zotu168,0.001185,30
+Zotu2888,Zotu2888,,other,6,Bacteria,Bacteroidetes,Bacteroidetes vadinHA17,uncultured Bacteroidetes bacterium,NA,NA,NA,Zotu2888,0.000153,14
+Zotu29,Zotu29,,other,6,Bacteria,Bacteroidetes,WCHB1-32,uncultured bacterium,NA,NA,NA,Zotu29,0.003047,18
+Zotu208,Zotu208,,other,6,Bacteria,Bacteroidetes,WCHB1-32,uncultured bacterium,NA,NA,NA,Zotu208,0.000636,18
+Zotu291,Zotu291,,other,2,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidia Incertae Sedis,Draconibacteriaceae,uncultured,NA,Zotu291,0.001267,14
+Zotu292,Zotu292,,other,1,Bacteria,Gemmatimonadetes,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,Gemmatimonas,NA,Zotu292,0.000711,13
+Zotu1158,Zotu1158,,other,1,Bacteria,Gemmatimonadetes,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,uncultured,NA,Zotu1158,0.000175,13
+Zotu294,Zotu294,,other,5,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,4-29,uncultured bacterium,NA,Zotu294,0.000897,16
+Zotu214,Zotu214,,other,5,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,4-29,uncultured bacterium,NA,Zotu214,0.00127,16
+Zotu296,Zotu296,,other,6,Bacteria,Spirochaetae,Spirochaetes,Spirochaetales,Spirochaetaceae,uncultured,uncultured bacterium,Zotu296,0.0002,11
+Zotu297,Zotu297,,diff,3,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,uncultured bacterium,Zotu297,0.001158,11
+Zotu1117,Zotu1117,,other,3,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,NA,Zotu1117,0.000542,11
+Zotu3,Zotu3,,diff,7,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Gallionellaceae,Sideroxydans,NA,Zotu3,0.019364,11
+Zotu300,Zotu300,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,uncultured,uncultured Hyphomicrobiaceae bacterium,Zotu300,0.000605,9
+Zotu158,Zotu158,,other,7,Bacteria,Bacteroidetes,SB-5,NA,NA,NA,NA,Zotu158,0.000638,9
+Zotu301,Zotu301,,other,1,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,4-29,uncultured bacterium,NA,Zotu301,0.000814,17
+Zotu192,Zotu192,,other,1,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,4-29,uncultured bacterium,NA,Zotu192,0.001123,17
+Zotu302,Zotu302,,other,2,Bacteria,Proteobacteria,Deltaproteobacteria,Bdellovibrionales,Bdellovibrionaceae,OM27 clade,uncultured bacterium,Zotu302,0.000308,14
+Zotu303,Zotu303,,other,8,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,uncultured,uncultured bacterium,Zotu303,0.000796,3
+Zotu3061,Zotu3061,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,NA,NA,Zotu3061,0.000115,9
+Zotu312,Zotu312,,other,9,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,NA,NA,Zotu312,0.000464,9
+Zotu315,Zotu315,,other,6,Bacteria,Bacteroidetes,Bacteroidetes BD2-2,uncultured bacterium,NA,NA,NA,Zotu315,0.000373,11
+Zotu318,Zotu318,,other,1,Bacteria,Gemmatimonadetes,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,uncultured,uncultured bacterium,Zotu318,0.000687,9
+Zotu1018,Zotu1018,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylocystaceae,uncultured,uncultured bacterium,Zotu1018,0.000158,9
+Zotu32,Zotu32,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,43F-1404R,uncultured bacterium,NA,NA,Zotu32,0.005244,13
+Zotu322,Zotu322,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Nitrospinaceae,uncultured,uncultured bacterium,Zotu322,0.000736,13
+Zotu1718,Zotu1718,,other,1,Bacteria,TA06,uncultured bacterium,NA,NA,NA,NA,Zotu1718,0.000116,13
+Zotu1836,Zotu1836,,other,1,Bacteria,Verrucomicrobia,OPB35 soil group,uncultured bacterium,NA,NA,NA,Zotu1836,0.000108,13
+Zotu325,Zotu325,,other,6,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Cystobacteraceae,Anaeromyxobacter,uncultured bacterium,Zotu325,0.000265,11
+Zotu326,Zotu326,,other,1,Bacteria,Chloroflexi,JG30-KF-CM66,NA,NA,NA,NA,Zotu326,0.00072,9
+Zotu327,Zotu327,,other,6,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,uncultured,uncultured bacterium,Zotu327,0.00032,18
+Zotu33,Zotu33,,diff,2,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,uncultured,Musa ABB Group,Zotu33,0.001897,14
+Zotu1773,Zotu1773,,other,2,Bacteria,Bacteroidetes,BSV13,uncultured bacterium,NA,NA,NA,Zotu1773,0.000169,14
+Zotu330,Zotu330,,other,9,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Agromyces,NA,Zotu330,0.000249,9
+Zotu331,Zotu331,,other,1,Bacteria,TA06,NA,NA,NA,NA,NA,Zotu331,0.00069,13
+Zotu1060,Zotu1060,,other,1,Bacteria,GOUTA4,uncultured bacterium,NA,NA,NA,NA,Zotu1060,0.000202,13
+Zotu332,Zotu332,,other,1,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,uncultured,uncultured bacterium,Zotu332,0.000728,13
+Zotu333,Zotu333,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,uncultured,uncultured bacterium,Zotu333,0.000707,13
+Zotu334,Zotu334,,diff,2,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,NA,Zotu334,0.001203,11
+Zotu335,Zotu335,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,NA,Zotu335,0.000776,9
+Zotu336,Zotu336,,diff,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 1,uncultured bacterium,Zotu336,0.001312,1
+Zotu342,Zotu342,,other,4,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geothermobacter,NA,Zotu342,0.001375,22
+Zotu1747,Zotu1747,,other,4,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geothermobacter,NA,Zotu1747,0.000154,22
+Zotu343,Zotu343,,other,6,Bacteria,Bacteroidetes,Bacteroidetes BD2-2,uncultured organism,NA,NA,NA,Zotu343,0.000415,11
+Zotu344,Zotu344,,other,3,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,P3OB-42,NA,NA,Zotu344,0.000344,11
+Zotu345,Zotu345,,other,1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidia Incertae Sedis,Draconibacteriaceae,uncultured bacterium,NA,Zotu345,0.000753,14
+Zotu346,Zotu346,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,SC-I-84,uncultured bacterium,NA,NA,Zotu346,0.000655,9
+Zotu347,Zotu347,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillales Incertae Sedis,Reyranella,uncultured bacterium,Zotu347,0.000556,13
+Zotu3473,Zotu3473,,other,1,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Intrasporangiaceae,NA,NA,Zotu3473,0.0001,9
+Zotu349,Zotu349,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Sva0485,uncultured bacterium,NA,NA,Zotu349,0.000733,13
+Zotu350,Zotu350,,other,1,Bacteria,Chloroflexi,uncultured Bellilinea sp.,NA,NA,NA,NA,Zotu350,0.00057,13
+Zotu351,Zotu351,,diff,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 5,uncultured bacterium,Zotu351,0.000934,1
+Zotu353,Zotu353,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,uncultured,uncultured bacterium,Zotu353,0.000664,9
+Zotu1314,Zotu1314,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,NA,NA,NA,Zotu1314,0.000153,9
+Zotu1410,Zotu1410,,other,4,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Phenylobacterium,NA,Zotu1410,0.000105,9
+Zotu359,Zotu359,,other,5,Bacteria,Verrucomicrobia,OPB35 soil group,uncultured bacterium,NA,NA,NA,Zotu359,0.00118,24
+Zotu178,Zotu178,,other,5,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,4-29,uncultured bacterium,NA,Zotu178,0.001466,24
+Zotu36,Zotu36,,other,7,Bacteria,Spirochaetae,Spirochaetes,Spirochaetales,Leptospiraceae,uncultured,NA,Zotu36,0.001247,11
+Zotu361,Zotu361,,other,1,Bacteria,Gemmatimonadetes,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,uncultured,uncultured bacterium,Zotu361,0.000782,13
+Zotu1663,Zotu1663,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,NA,NA,NA,Zotu1663,0.000138,13
+Zotu362,Zotu362,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,uncultured,uncultured bacterium,Zotu362,0.000543,9
+Zotu1562,Zotu1562,,other,1,Bacteria,Acidobacteria,Acidobacteria,Subgroup 3,Unknown Family,Candidatus Solibacter,uncultured bacterium,Zotu1562,0.000125,9
+Zotu1737,Zotu1737,,other,1,Bacteria,Acidobacteria,Subgroup 22,uncultured bacterium,NA,NA,NA,Zotu1737,0.000113,9
+Zotu366,Zotu366,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,SC-I-84,uncultured bacterium,NA,NA,Zotu366,0.000624,13
+Zotu368,Zotu368,,other,1,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Thioalkalispira,uncultured bacterium,Zotu368,0.000578,13
+Zotu369,Zotu369,,other,1,Bacteria,Acidobacteria,Acidobacteria,Subgroup 21,uncultured bacterium,NA,NA,Zotu369,0.000581,33
+Zotu339,Zotu339,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophaceae,uncultured,uncultured bacterium,Zotu339,0.000692,33
+Zotu371,Zotu371,,other,1,Bacteria,Latescibacteria,uncultured bacterium,NA,NA,NA,NA,Zotu371,0.000624,13
+Zotu373,Zotu373,,other,1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,NA,Zotu373,0.000239,9
+Zotu374,Zotu374,,other,1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 1,uncultured bacterium,Zotu374,0.000351,1
+Zotu376,Zotu376,,other,1,Bacteria,Actinobacteria,Thermoleophilia,Gaiellales,uncultured,uncultured bacterium,NA,Zotu376,0.000591,9
+Zotu377,Zotu377,,diff,7,Bacteria,Proteobacteria,Betaproteobacteria,Methylophilales,Methylophilaceae,Methylobacillus,NA,Zotu377,0.000387,30
+Zotu378,Zotu378,,other,2,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Propionivibrio,uncultured bacterium,Zotu378,0.000578,14
+Zotu379,Zotu379,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,43F-1404R,NA,NA,NA,Zotu379,0.000677,8
+Zotu38,Zotu38,,diff,3,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,uncultured,uncultured bacterium,Zotu38,0.002519,19
+Zotu248,Zotu248,,other,3,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,uncultured,uncultured bacterium,Zotu248,0.000619,19
+Zotu380,Zotu380,,other,1,Bacteria,GOUTA4,uncultured bacterium,NA,NA,NA,NA,Zotu380,0.000626,13
+Zotu381,Zotu381,,other,6,Bacteria,Bacteroidetes,Bacteroidetes BD2-2,uncultured bacterium,NA,NA,NA,Zotu381,0.000238,11
+Zotu382,Zotu382,,other,5,Bacteria,Verrucomicrobia,OPB35 soil group,uncultured bacterium,NA,NA,NA,Zotu382,0.00087,8
+Zotu384,Zotu384,,other,1,Bacteria,Acidobacteria,Holophagae,Subgroup 7,uncultured bacterium,NA,NA,Zotu384,0.000328,9
+Zotu387,Zotu387,,other,2,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,NA,NA,Zotu387,0.001558,14
+Zotu324,Zotu324,,diff,2,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,BIrii41,uncultured bacterium,NA,Zotu324,0.000178,14
+Zotu391,Zotu391,,other,1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 1,uncultured bacterium,Zotu391,0.000221,1
+Zotu392,Zotu392,,other,5,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Gallionellaceae,NA,NA,Zotu392,0.000748,8
+Zotu393,Zotu393,,other,4,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Polyangiaceae,Polyangium,uncultured bacterium,Zotu393,0.000531,14
+Zotu1224,Zotu1224,,other,4,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Polyangiaceae,Polyangium,uncultured bacterium,Zotu1224,0.000135,14
+Zotu395,Zotu395,,other,8,Bacteria,Proteobacteria,Deltaproteobacteria,SAR324 clade(Marine group B),uncultured bacterium,NA,NA,Zotu395,0.000717,3
+Zotu1131,Zotu1131,,other,8,Bacteria,Chloroflexi,Dehalococcoidia,Dehalococcoidales,uncultured,uncultured bacterium,NA,Zotu1131,0.00019,3
+Zotu3954,Zotu3954,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,uncultured,NA,Zotu3954,0.000226,14
+Zotu4,Zotu4,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Hydrogenophilales,Hydrogenophilaceae,Thiobacillus,uncultured bacterium,Zotu4,0.033549,9
+Zotu40,Zotu40,,other,4,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,uncultured,uncultured bacterium,Zotu40,0.005091,12
+Zotu400,Zotu400,,diff,3,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Haliangiaceae,Haliangium,NA,Zotu400,0.000414,11
+Zotu401,Zotu401,,other,1,Bacteria,Acidobacteria,Acidobacteria,Subgroup 3,Unknown Family,Candidatus Solibacter,NA,Zotu401,0.000577,13
+Zotu403,Zotu403,,other,2,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,uncultured bacterium,Zotu403,0.00054,11
+Zotu404,Zotu404,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,Erythrobacter,NA,Zotu404,0.000484,9
+Zotu405,Zotu405,,other,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 10,uncultured bacterium,Zotu405,0.000265,20
+Zotu1301,Zotu1301,,other,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 8,uncultured bacterium,Zotu1301,0.000121,20
+Zotu406,Zotu406,,other,6,Bacteria,Proteobacteria,Gammaproteobacteria,NA,NA,NA,NA,Zotu406,0.000266,11
+Zotu408,Zotu408,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Polyangiaceae,Sorangium,uncultured bacterium,Zotu408,0.000553,14
+Zotu409,Zotu409,,other,4,Bacteria,Proteobacteria,Betaproteobacteria,SC-I-84,NA,NA,NA,Zotu409,0.000577,12
+Zotu305,Zotu305,,other,4,Bacteria,Proteobacteria,Betaproteobacteria,SC-I-84,uncultured bacterium,NA,NA,Zotu305,0.000814,12
+Zotu410,Zotu410,,diff,1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Intestinibacter,uncultured bacterium,Zotu410,0.000746,1
+Zotu411,Zotu411,,other,3,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,uncultured bacterium,Zotu411,0.000766,11
+Zotu413,Zotu413,,other,7,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Pelomonas,uncultured bacterium,Zotu413,0.000211,11
+Zotu417,Zotu417,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,BAL58 marine group,NA,Zotu417,0.000655,11
+Zotu418,Zotu418,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,SC-I-84,uncultured bacterium,NA,NA,Zotu418,0.000564,9
+Zotu419,Zotu419,,other,1,Bacteria,Chloroflexi,uncultured,uncultured bacterium,NA,NA,NA,Zotu419,0.000482,9
+Zotu388,Zotu388,,other,1,Bacteria,Chloroflexi,uncultured,NA,NA,NA,NA,Zotu388,0.0005,9
+Zotu423,Zotu423,,other,1,Bacteria,Acidobacteria,Acidobacteria,Subgroup 3,Unknown Family,Candidatus Solibacter,NA,Zotu423,0.000495,13
+Zotu425,Zotu425,,other,1,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Saprospiraceae,uncultured,uncultured bacterium,Zotu425,0.000488,9
+Zotu427,Zotu427,,other,1,Bacteria,Acidobacteria,Holophagae,TPD-58,NA,NA,NA,Zotu427,0.00048,13
+Zotu4274,Zotu4274,,other,4,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Chitinophagaceae,uncultured,uncultured bacterium,Zotu4274,0.000415,3
+Zotu1083,Zotu1083,,other,8,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,MA-28-I98C,uncultured delta proteobacterium,NA,Zotu1083,0.000233,3
+Zotu10892,Zotu10892,,other,0,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Chitinophagaceae,Chitinophaga,NA,Zotu10892,0.000146,3
+Zotu1099,Zotu1099,,other,5,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,WCHB1-69,uncultured Bacteroidetes bacterium,NA,Zotu1099,0.000213,3
+Zotu1186,Zotu1186,,other,5,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,WCHB1-69,uncultured Bacteroidetes bacterium,NA,Zotu1186,0.000206,3
+Zotu428,Zotu428,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,TRA3-20,uncultured beta proteobacterium,NA,NA,Zotu428,0.000535,13
+Zotu429,Zotu429,,other,1,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,4-29,uncultured bacterium,NA,Zotu429,0.000552,13
+Zotu43,Zotu43,,diff,6,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,uncultured,NA,Zotu43,0.00113,11
+Zotu101,Zotu101,,other,6,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,uncultured,uncultured bacterium,Zotu101,0.000982,11
+Zotu430,Zotu430,,diff,3,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,NA,Zotu430,0.000594,11
+Zotu432,Zotu432,,other,1,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Intrasporangiaceae,Intrasporangium,NA,Zotu432,0.000264,9
+Zotu1549,Zotu1549,,other,4,Bacteria,Actinobacteria,Actinobacteria,Streptosporangiales,Thermomonosporaceae,NA,NA,Zotu1549,0.000306,9
+Zotu436,Zotu436,,other,1,Bacteria,Acidobacteria,Holophagae,Subgroup 10,ABS-19,NA,NA,Zotu436,0.000355,9
+Zotu437,Zotu437,,other,1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadales Incertae Sedis,uncultured,NA,Zotu437,0.000515,9
+Zotu438,Zotu438,,other,1,Bacteria,Acidobacteria,Holophagae,Subgroup 7,uncultured bacterium,NA,NA,Zotu438,0.000517,14
+Zotu44,Zotu44,,other,6,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Cystobacteraceae,Anaeromyxobacter,uncultured bacterium,Zotu44,0.000678,21
+Zotu30,Zotu30,,other,6,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Cystobacteraceae,Anaeromyxobacter,uncultured bacterium,Zotu30,0.000715,21
+Zotu444,Zotu444,,diff,6,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Cystobacteraceae,Anaeromyxobacter,NA,Zotu444,0.000321,11
+Zotu448,Zotu448,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,P3OB-42,NA,NA,Zotu448,0.000421,13
+Zotu1625,Zotu1625,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,P3OB-42,uncultured bacterium,NA,Zotu1625,0.000106,9
+Zotu449,Zotu449,,other,4,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Roseomonas,NA,Zotu449,0.000595,22
+Zotu454,Zotu454,,other,1,Bacteria,Gemmatimonadetes,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,NA,NA,Zotu454,0.000427,9
+Zotu1297,Zotu1297,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Sva0485,uncultured bacterium,NA,NA,Zotu1297,0.000147,9
+Zotu456,Zotu456,,other,1,Bacteria,Acidobacteria,Holophagae,Subgroup 10,ABS-19,uncultured prokaryote,NA,Zotu456,0.000395,9
+Zotu460,Zotu460,,other,1,Bacteria,Latescibacteria,uncultured bacterium,NA,NA,NA,NA,Zotu460,0.000516,13
+Zotu461,Zotu461,,other,2,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobulbaceae,Desulfobulbus,uncultured bacterium,Zotu461,0.000656,11
+Zotu462,Zotu462,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,GR-WP33-30,uncultured bacterium,NA,NA,Zotu462,0.000445,13
+Zotu4621,Zotu4621,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,NA,NA,Zotu4621,0.000287,11
+Zotu463,Zotu463,,other,1,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,uncultured,uncultured Nitrospirae bacterium,Zotu463,0.000436,23
+Zotu385,Zotu385,,other,1,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,uncultured,uncultured bacterium,Zotu385,0.000566,23
+Zotu464,Zotu464,,other,8,Bacteria,Gemmatimonadetes,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,uncultured,uncultured bacterium,Zotu464,0.000461,3
+Zotu465,Zotu465,,other,2,Bacteria,Bacteroidetes,WCHB1-32,uncultured bacterium,NA,NA,NA,Zotu465,0.000278,18
+Zotu470,Zotu470,,other,1,Bacteria,Acidobacteria,Acidobacteria,Subgroup 21,uncultured bacterium,NA,NA,Zotu470,0.000343,33
+Zotu471,Zotu471,,diff,1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,uncultured,uncultured bacterium,Zotu471,0.000563,1
+Zotu1726,Zotu1726,,diff,1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,uncultured,uncultured bacterium,Zotu1726,0.000137,1
+Zotu477,Zotu477,,other,2,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,NA,NA,NA,Zotu477,0.000312,0
+Zotu1203,Zotu1203,,other,2,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylomonas,uncultured bacterium,Zotu1203,0.000128,0
+Zotu479,Zotu479,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Sandaracinaceae,uncultured,uncultured bacterium,Zotu479,0.000421,13
+Zotu4790,Zotu4790,,other,2,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Shinella,uncultured bacterium,Zotu4790,0.000121,14
+Zotu48,Zotu48,,other,1,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Intrasporangiaceae,Intrasporangium,NA,Zotu48,0.001823,9
+Zotu480,Zotu480,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,uncultured,uncultured bacterium,Zotu480,0.001715,11
+Zotu481,Zotu481,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,NA,NA,NA,NA,Zotu481,0.00048,11
+Zotu1327,Zotu1327,,other,1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Rhodanobacter,NA,Zotu1327,0.000163,11
+Zotu482,Zotu482,,other,6,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobulbaceae,Desulfobulbus,uncultured bacterium,Zotu482,0.000389,11
+Zotu4826,Zotu4826,,other,6,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,uncultured,NA,Zotu4826,0.000215,11
+Zotu486,Zotu486,,other,3,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,uncultured,NA,Zotu486,0.00022,11
+Zotu487,Zotu487,,other,2,Bacteria,Verrucomicrobia,OPB35 soil group,uncultured bacterium,NA,NA,NA,Zotu487,0.000955,14
+Zotu489,Zotu489,,other,5,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfarculales,Desulfarculaceae,Desulfatiglans,uncultured delta proteobacterium,Zotu489,0.000573,3
+Zotu1241,Zotu1241,,other,5,Bacteria,Chlorobi,Ignavibacteria,Ignavibacteriales,BSV26,uncultured bacterium,NA,Zotu1241,0.000194,3
+Zotu1656,Zotu1656,,other,2,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Saprospiraceae,uncultured,uncultured bacterium,Zotu1656,0.000146,3
+Zotu2079,Zotu2079,,other,5,Bacteria,Acidobacteria,Subgroup 22,uncultured bacterium,NA,NA,NA,Zotu2079,0.000127,3
+Zotu49,Zotu49,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,uncultured,NA,Zotu49,0.002275,11
+Zotu491,Zotu491,,other,2,Bacteria,Lentisphaerae,Oligosphaeria,Oligosphaerales,NA,NA,NA,Zotu491,0.000524,14
+Zotu4929,Zotu4929,,other,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 8,uncultured bacterium,Zotu4929,0.000209,1
+Zotu1404,Zotu1404,,other,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 8,uncultured bacterium,Zotu1404,0.000177,1
+Zotu493,Zotu493,,other,1,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,uncultured,uncultured bacterium,Zotu493,0.00035,9
+Zotu494,Zotu494,,other,1,Bacteria,Gemmatimonadetes,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,Gemmatimonas,NA,Zotu494,0.000442,13
+Zotu495,Zotu495,,other,1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 1,uncultured bacterium,Zotu495,0.000198,1
+Zotu497,Zotu497,,other,1,Bacteria,Acidobacteria,Acidobacteria,Subgroup 3,GOUTB8,uncultured soil bacterium,NA,Zotu497,0.000404,13
+Zotu5,Zotu5,,other,9,Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Trichococcus,NA,Zotu5,0.003272,9
+Zotu500,Zotu500,,diff,1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Intestinibacter,uncultured bacterium,Zotu500,0.000589,1
+Zotu503,Zotu503,,other,1,Bacteria,Gemmatimonadetes,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,uncultured,uncultured bacterium,Zotu503,0.000488,13
+Zotu5042,Zotu5042,,other,2,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,NA,Zotu5042,0.000429,11
+Zotu508,Zotu508,,other,1,Bacteria,Spirochaetae,Spirochaetes,Spirochaetales,Spirochaetaceae,Spirochaeta 2,NA,Zotu508,0.00046,13
+Zotu509,Zotu509,,other,8,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,NA,NA,NA,Zotu509,0.000362,0
+Zotu51,Zotu51,,other,3,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,NA,Zotu51,0.003009,11
+Zotu512,Zotu512,,diff,2,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Propionivibrio,NA,Zotu512,0.000196,14
+Zotu515,Zotu515,,other,5,Bacteria,Verrucomicrobia,OPB35 soil group,NA,NA,NA,NA,Zotu515,0.000503,24
+Zotu516,Zotu516,,other,4,Bacteria,Planctomycetes,Phycisphaerae,Phycisphaerales,Phycisphaeraceae,SM1A02,uncultured bacterium,Zotu516,0.00042,9
+Zotu517,Zotu517,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Cystobacteraceae,NA,NA,Zotu517,0.000179,9
+Zotu518,Zotu518,,other,9,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Novosphingobium,NA,Zotu518,0.000296,14
+Zotu519,Zotu519,,other,8,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfarculales,Desulfarculaceae,Desulfatiglans,NA,Zotu519,0.000457,3
+Zotu521,Zotu521,,other,6,Bacteria,Bacteroidetes,Bacteroidetes BD2-2,uncultured bacterium,NA,NA,NA,Zotu521,0.000131,11
+Zotu523,Zotu523,,other,2,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidia Incertae Sedis,Prolixibacteraceae,Prolixibacter,uncultured bacterium,Zotu523,0.000395,11
+Zotu5265,Zotu5265,,other,4,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Desulfuromonadaceae,Pelobacter,NA,Zotu5265,0.000521,25
+Zotu2177,Zotu2177,,other,4,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Polyangiaceae,Byssovorax,uncultured bacterium,Zotu2177,0.000117,25
+Zotu529,Zotu529,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Sh765B-TzT-29,NA,NA,NA,Zotu529,0.000342,14
+Zotu53,Zotu53,,other,1,Bacteria,Bacteroidetes,Bacteroidetes vadinHA17,uncultured bacterium,NA,NA,NA,Zotu53,0.004234,26
+Zotu137,Zotu137,,other,1,Bacteria,Bacteroidetes,Bacteroidetes vadinHA17,uncultured bacterium,NA,NA,NA,Zotu137,0.001748,26
+Zotu531,Zotu531,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,uncultured,uncultured beta proteobacterium,Zotu531,0.000406,13
+Zotu532,Zotu532,,other,1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadales Incertae Sedis,uncultured,uncultured gamma proteobacterium,Zotu532,0.000487,9
+Zotu54,Zotu54,,other,1,Bacteria,Bacteroidetes,Bacteroidetes vadinHA17,uncultured bacterium,NA,NA,NA,Zotu54,0.004209,26
+Zotu540,Zotu540,,other,8,Bacteria,TA06,uncultured bacterium,NA,NA,NA,NA,Zotu540,0.000424,3
+Zotu1716,Zotu1716,,other,8,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,uncultured,uncultured bacterium,Zotu1716,0.00011,3
+Zotu542,Zotu542,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Denitratisoma,uncultured bacterium,Zotu542,0.000467,11
+Zotu365,Zotu365,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,uncultured,NA,Zotu365,0.000528,11
+Zotu547,Zotu547,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillales Incertae Sedis,Reyranella,uncultured bacterium,Zotu547,0.000276,9
+Zotu548,Zotu548,,other,1,Bacteria,Verrucomicrobia,OPB35 soil group,uncultured bacterium,NA,NA,NA,Zotu548,0.000379,13
+Zotu552,Zotu552,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobacteraceae,Sva0081 sediment group,uncultured bacterium,Zotu552,0.000426,13
+Zotu559,Zotu559,,other,5,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,uncultured,uncultured Firmicutes bacterium,Zotu559,0.000505,3
+Zotu1247,Zotu1247,,other,8,Bacteria,Acidobacteria,Subgroup 22,uncultured bacterium,NA,NA,NA,Zotu1247,0.000171,3
+Zotu1906,Zotu1906,,other,5,Bacteria,Candidate division OP3,uncultured bacterium,NA,NA,NA,NA,Zotu1906,0.000117,3
+Zotu56,Zotu56,,other,6,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,NA,NA,Zotu56,0.000868,11
+Zotu561,Zotu561,,other,2,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,uncultured,NA,Zotu561,0.000493,27
+Zotu459,Zotu459,,other,2,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,uncultured,NA,Zotu459,0.000673,27
+Zotu567,Zotu567,,other,1,Bacteria,Chloroflexi,Chloroflexia,Chloroflexales,Roseiflexaceae,Roseiflexus,uncultured bacterium,Zotu567,0.000266,9
+Zotu570,Zotu570,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,uncultured,uncultured bacterium,Zotu570,0.000405,9
+Zotu572,Zotu572,,other,3,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,P3OB-42,uncultured bacterium,NA,Zotu572,0.000124,11
+Zotu575,Zotu575,,other,8,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Chitinophagaceae,Terrimonas,uncultured bacterium,Zotu575,0.000411,3
+Zotu576,Zotu576,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Sva0485,NA,NA,NA,Zotu576,0.000373,13
+Zotu1611,Zotu1611,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,NA,NA,Zotu1611,0.00013,13
+Zotu577,Zotu577,,other,5,Bacteria,Acidobacteria,Acidobacteria,Subgroup 3,GOUTB8,uncultured bacterium,NA,Zotu577,0.000407,13
+Zotu579,Zotu579,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,NA,NA,Zotu579,0.000401,6
+Zotu58,Zotu58,,other,2,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,NA,Zotu58,0.004101,16
+Zotu1649,Zotu1649,,other,5,Bacteria,Acidobacteria,Acidobacteria,Acidobacteriales,Acidobacteriaceae (Subgroup 1),uncultured,uncultured bacterium,Zotu1649,0.000133,16
+Zotu375,Zotu375,,other,2,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,NA,NA,NA,Zotu375,0.000879,16
+Zotu569,Zotu569,,other,2,Bacteria,Proteobacteria,Deltaproteobacteria,43F-1404R,uncultured bacterium,NA,NA,Zotu569,0.000502,16
+Zotu580,Zotu580,,other,1,Bacteria,Acidobacteria,Holophagae,Subgroup 23,uncultured bacterium,NA,NA,Zotu580,0.000365,9
+Zotu581,Zotu581,,other,7,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylocaldum,uncultured bacterium,Zotu581,0.000438,11
+Zotu1934,Zotu1934,,other,7,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylocaldum,uncultured bacterium,Zotu1934,0.000108,11
+Zotu582,Zotu582,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Bradyrhizobium,NA,Zotu582,0.000272,9
+Zotu588,Zotu588,,other,1,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Thioalkalispira,uncultured bacterium,Zotu588,0.00034,9
+Zotu59,Zotu59,,diff,6,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Acidiferrobacter,NA,Zotu59,0.000941,11
+Zotu591,Zotu591,,diff,2,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Rhizobacter,uncultured bacterium,Zotu591,0.00023,14
+Zotu592,Zotu592,,other,1,Bacteria,Chlorobi,Ignavibacteria,Ignavibacteriales,BSV26,uncultured bacterium,NA,Zotu592,0.000423,14
+Zotu5941,Zotu5941,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,M20-Pitesti,NA,NA,Zotu5941,0.001007,28
+Zotu247,Zotu247,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,BVA18,NA,NA,Zotu247,0.001146,28
+Zotu5944,Zotu5944,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,uncultured,uncultured bacterium,Zotu5944,0.000197,11
+Zotu595,Zotu595,,other,1,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,NA,NA,NA,Zotu595,0.000357,13
+Zotu596,Zotu596,,other,8,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,WCHB1-69,uncultured Bacteroidetes bacterium,NA,Zotu596,0.000431,3
+Zotu1697,Zotu1697,,other,8,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,uncultured,uncultured bacterium,Zotu1697,0.000137,3
+Zotu597,Zotu597,,other,1,Bacteria,Spirochaetae,Spirochaetes,Spirochaetales,Spirochaetaceae,Spirochaeta 2,uncultured bacterium,Zotu597,0.000352,13
+Zotu60,Zotu60,,other,6,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Haliangiaceae,Haliangium,NA,Zotu60,0.00166,14
+Zotu496,Zotu496,,other,6,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Haliangiaceae,Haliangium,NA,Zotu496,0.000208,14
+Zotu600,Zotu600,,other,2,Bacteria,Chlorobi,Chlorobia,Chlorobiales,OPB56,uncultured bacterium,NA,Zotu600,0.000497,29
+Zotu289,Zotu289,,other,2,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,uncultured,uncultured bacterium,Zotu289,0.001021,29
+Zotu605,Zotu605,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,NA,NA,Zotu605,0.000329,9
+Zotu608,Zotu608,,other,8,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,NA,NA,NA,Zotu608,0.000295,0
+Zotu609,Zotu609,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Bradyrhizobium,NA,Zotu609,0.000201,9
+Zotu61,Zotu61,,diff,1,Bacteria,Firmicutes,Clostridia,Clostridiales,Family XIII,uncultured,NA,Zotu61,0.001946,14
+Zotu610,Zotu610,,other,5,Bacteria,Verrucomicrobia,OPB35 soil group,NA,NA,NA,NA,Zotu610,0.000458,8
+Zotu611,Zotu611,,diff,7,Bacteria,Proteobacteria,Betaproteobacteria,Methylophilales,Methylophilaceae,uncultured,uncultured bacterium,Zotu611,0.000395,30
+Zotu10706,Zotu10706,,diff,7,Bacteria,Proteobacteria,Betaproteobacteria,Methylophilales,Methylophilaceae,NA,NA,Zotu10706,0.000176,30
+Zotu612,Zotu612,,diff,2,Bacteria,Lentisphaerae,Oligosphaeria,Oligosphaerales,uncultured bacterium,NA,NA,Zotu612,0.000445,14
+Zotu614,Zotu614,,other,6,Bacteria,Bacteroidetes,Bacteroidetes BD2-2,uncultured Cytophagales bacterium,NA,NA,NA,Zotu614,0.000274,11
+Zotu1415,Zotu1415,,other,6,Bacteria,Bacteroidetes,Bacteroidetes BD2-2,uncultured bacterium,NA,NA,NA,Zotu1415,0.000111,11
+Zotu615,Zotu615,,other,2,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Ideonella,uncultured beta proteobacterium,Zotu615,0.000171,14
+Zotu6206,Zotu6206,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Hydrogenophilales,Hydrogenophilaceae,uncultured,uncultured bacterium,Zotu6206,0.003882,9
+Zotu621,Zotu621,,other,1,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Intrasporangiaceae,NA,NA,Zotu621,0.000254,9
+Zotu623,Zotu623,,other,1,Bacteria,TA06,uncultured bacterium,NA,NA,NA,NA,Zotu623,0.000357,13
+Zotu625,Zotu625,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Variibacter,uncultured bacterium,Zotu625,0.000232,13
+Zotu1094,Zotu1094,,other,7,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,uncultured,uncultured bacterium,Zotu1094,0.000187,13
+Zotu630,Zotu630,,diff,6,Bacteria,Proteobacteria,Deltaproteobacteria,Oligoflexales,uncultured bacterium,NA,NA,Zotu630,0.000125,11
+Zotu631,Zotu631,,diff,7,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,NA,NA,NA,Zotu631,0.000193,11
+Zotu558,Zotu558,,diff,7,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylomonas,uncultured bacterium,Zotu558,0.000222,0
+Zotu633,Zotu633,,other,1,Bacteria,Gemmatimonadetes,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,uncultured,uncultured bacterium,Zotu633,0.000355,9
+Zotu636,Zotu636,,other,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,NA,NA,Zotu636,0.000424,1
+Zotu639,Zotu639,,other,6,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,uncultured,NA,Zotu639,0.000287,11
+Zotu640,Zotu640,,other,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 12,uncultured bacterium,Zotu640,0.000407,1
+Zotu643,Zotu643,,other,2,Bacteria,Verrucomicrobia,OPB35 soil group,uncultured bacterium,NA,NA,NA,Zotu643,0.000638,14
+Zotu645,Zotu645,,other,1,Bacteria,Acidobacteria,Holophagae,TPD-58,NA,NA,NA,Zotu645,0.00029,13
+Zotu647,Zotu647,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,NA,NA,NA,NA,Zotu647,0.000351,13
+Zotu648,Zotu648,,other,6,Bacteria,Bacteroidetes,WCHB1-32,uncultured bacterium,NA,NA,NA,Zotu648,0.000369,11
+Zotu649,Zotu649,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Caenimonas,NA,Zotu649,0.000372,13
+Zotu652,Zotu652,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,NA,NA,Zotu652,0.000375,11
+Zotu653,Zotu653,,other,1,Bacteria,Acidobacteria,Acidobacteria,Subgroup 3,Unknown Family,Candidatus Solibacter,NA,Zotu653,0.000324,13
+Zotu654,Zotu654,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,SC-I-84,uncultured bacterium,NA,NA,Zotu654,0.000289,9
+Zotu1341,Zotu1341,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,SC-I-84,NA,NA,NA,Zotu1341,0.000143,9
+Zotu655,Zotu655,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,SC-I-84,uncultured bacterium,NA,NA,Zotu655,0.000343,9
+Zotu659,Zotu659,,other,1,Bacteria,Acidobacteria,Acidobacteria,Subgroup 21,uncultured bacterium,NA,NA,Zotu659,0.000289,9
+Zotu66,Zotu66,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,43F-1404R,NA,NA,NA,Zotu66,0.003707,8
+Zotu663,Zotu663,,other,1,Bacteria,Actinobacteria,MB-A2-108,uncultured bacterium,NA,NA,NA,Zotu663,0.000246,9
+Zotu665,Zotu665,,other,1,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,uncultured,uncultured bacterium,Zotu665,0.000371,13
+Zotu67,Zotu67,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,43F-1404R,NA,NA,NA,Zotu67,0.003327,8
+Zotu671,Zotu671,,other,1,Bacteria,Latescibacteria,uncultured bacterium,NA,NA,NA,NA,Zotu671,0.000304,13
+Zotu672,Zotu672,,other,1,Bacteria,Gemmatimonadetes,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,uncultured,NA,Zotu672,0.000313,13
+Zotu675,Zotu675,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Sva0485,NA,NA,NA,Zotu675,0.000325,13
+Zotu6752,Zotu6752,,other,2,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Dechloromonas,NA,Zotu6752,0.000197,31
+Zotu2839,Zotu2839,,other,2,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,uncultured,uncultured beta proteobacterium,Zotu2839,0.000166,31
+Zotu677,Zotu677,,other,1,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,uncultured,uncultured bacterium,Zotu677,0.000335,8
+Zotu679,Zotu679,,other,6,Bacteria,Bacteroidetes,Bacteroidetes BD2-2,uncultured bacterium,NA,NA,NA,Zotu679,0.000253,11
+Zotu68,Zotu68,,other,6,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,uncultured,uncultured bacterium,Zotu68,0.000823,18
+Zotu100,Zotu100,,other,6,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,uncultured,uncultured bacterium,Zotu100,0.000565,18
+Zotu689,Zotu689,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Sva0485,uncultured bacterium,NA,NA,Zotu689,0.000312,13
+Zotu69,Zotu69,,other,7,Bacteria,Proteobacteria,Betaproteobacteria,Methylophilales,Methylophilaceae,uncultured,uncultured bacterium,Zotu69,0.002857,32
+Zotu372,Zotu372,,other,7,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,NA,NA,NA,Zotu372,0.000653,32
+Zotu693,Zotu693,,other,4,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,uncultured,NA,NA,Zotu693,0.000342,12
+Zotu694,Zotu694,,other,3,Bacteria,Bacteroidetes,SB-5,NA,NA,NA,NA,Zotu694,0.000292,11
+Zotu695,Zotu695,,diff,3,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylomonas,uncultured bacterium,Zotu695,0.000218,0
+Zotu699,Zotu699,,other,3,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,NA,Zotu699,0.000464,11
+Zotu7,Zotu7,,diff,6,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Cystobacteraceae,NA,NA,Zotu7,0.007594,11
+Zotu504,Zotu504,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,uncultured,uncultured bacterium,Zotu504,0.000377,11
+Zotu70,Zotu70,,diff,6,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,4-29,uncultured bacterium,NA,Zotu70,0.001114,11
+Zotu700,Zotu700,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Denitratisoma,uncultured bacterium,Zotu700,0.000467,11
+Zotu701,Zotu701,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylocystaceae,Methylocystis,uncultured bacterium,Zotu701,0.000256,9
+Zotu702,Zotu702,,other,6,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobulbaceae,Desulfobulbus,uncultured bacterium,Zotu702,0.000426,11
+Zotu703,Zotu703,,other,1,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,uncultured,NA,Zotu703,0.000254,9
+Zotu706,Zotu706,,other,9,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Agromyces,NA,Zotu706,0.00011,9
+Zotu709,Zotu709,,other,8,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,NA,NA,NA,Zotu709,0.000243,0
+Zotu711,Zotu711,,diff,3,Bacteria,Firmicutes,Clostridia,Clostridiales,Family XII,Acidaminobacter,uncultured bacterium,Zotu711,0.000312,11
+Zotu714,Zotu714,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,NA,NA,Zotu714,0.000464,11
+Zotu716,Zotu716,,diff,2,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Aquabacterium,NA,Zotu716,0.000229,14
+Zotu7167,Zotu7167,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,uncultured,NA,Zotu7167,0.000105,11
+Zotu72,Zotu72,,diff,1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 1,uncultured bacterium,Zotu72,0.00171,1
+Zotu720,Zotu720,,other,5,Bacteria,Acidobacteria,Acidobacteria,Subgroup 3,Unknown Family,NA,NA,Zotu720,0.000288,13
+Zotu725,Zotu725,,other,1,Bacteria,Spirochaetae,Spirochaetes,Spirochaetales,Spirochaetaceae,Spirochaeta 2,NA,Zotu725,0.000306,13
+Zotu729,Zotu729,,other,1,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Thioalkalispira,uncultured bacterium,Zotu729,0.000293,13
+Zotu730,Zotu730,,other,2,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,NA,Zotu730,0.000428,18
+Zotu737,Zotu737,,other,1,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,Acidimicrobiales Incertae Sedis,Aciditerrimonas,uncultured bacterium,Zotu737,0.000183,9
+Zotu739,Zotu739,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylocystaceae,Methylocystis,NA,Zotu739,0.000205,9
+Zotu1459,Zotu1459,,other,4,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,mle1-27,uncultured delta proteobacterium,NA,Zotu1459,0.000143,9
+Zotu74,Zotu74,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Denitratisoma,uncultured bacterium,Zotu74,0.001563,11
+Zotu740,Zotu740,,other,1,Bacteria,Spirochaetae,Spirochaetes,Spirochaetales,Spirochaetaceae,Spirochaeta 2,uncultured bacterium,Zotu740,0.000275,13
+Zotu745,Zotu745,,other,1,Bacteria,Actinobacteria,Thermoleophilia,Gaiellales,uncultured,uncultured bacterium,NA,Zotu745,0.000246,9
+Zotu746,Zotu746,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Sva0485,uncultured delta proteobacterium,NA,NA,Zotu746,0.000306,13
+Zotu747,Zotu747,,other,1,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,uncultured,uncultured bacterium,Zotu747,0.000244,13
+Zotu750,Zotu750,,other,1,Bacteria,Acidobacteria,Acidobacteria,Subgroup 3,Unknown Family,Bryobacter,uncultured bacterium,Zotu750,0.000297,13
+Zotu752,Zotu752,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Sva0485,NA,NA,NA,Zotu752,0.000368,13
+Zotu759,Zotu759,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,43F-1404R,uncultured Syntrophaceae bacterium,NA,NA,Zotu759,0.000407,8
+Zotu760,Zotu760,,diff,7,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylocaldum,uncultured bacterium,Zotu760,0.000292,32
+Zotu766,Zotu766,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Haliangiaceae,Haliangium,uncultured bacterium,Zotu766,0.000249,13
+Zotu767,Zotu767,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,TRA3-20,uncultured beta proteobacterium,NA,NA,Zotu767,0.000248,13
+Zotu77,Zotu77,,diff,3,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,NA,Zotu77,0.003181,11
+Zotu773,Zotu773,,other,2,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Blvii28 wastewater-sludge group,uncultured bacterium,Zotu773,0.000116,14
+Zotu774,Zotu774,,other,1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 1,uncultured bacterium,Zotu774,0.000223,1
+Zotu775,Zotu775,,diff,1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Sporacetigenium,NA,Zotu775,0.000313,1
+Zotu778,Zotu778,,other,1,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,uncultured,uncultured bacterium,Zotu778,0.000265,13
+Zotu779,Zotu779,,other,1,Bacteria,Acidobacteria,Holophagae,Subgroup 10,ABS-19,NA,NA,Zotu779,0.00022,9
+Zotu781,Zotu781,,other,4,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Roseomonas,uncultured bacterium,Zotu781,0.00029,9
+Zotu783,Zotu783,,other,6,Bacteria,Bacteroidetes,Bacteroidetes BD2-2,uncultured bacterium,NA,NA,NA,Zotu783,0.000158,11
+Zotu785,Zotu785,,other,4,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,AKYH478,uncultured bacterium,NA,Zotu785,0.000244,9
+Zotu79,Zotu79,,diff,6,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,P3OB-42,uncultured bacterium,NA,Zotu79,0.000775,11
+Zotu795,Zotu795,,other,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,NA,NA,Zotu795,0.000317,1
+Zotu799,Zotu799,,other,1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 12,uncultured bacterium,Zotu799,0.000174,1
+Zotu800,Zotu800,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhodobiaceae,NA,NA,Zotu800,0.000192,9
+Zotu807,Zotu807,,other,1,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Nocardioidaceae,Nocardioides,NA,Zotu807,0.000144,9
+Zotu808,Zotu808,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhodobiaceae,NA,NA,Zotu808,0.000183,9
+Zotu809,Zotu809,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,uncultured,NA,Zotu809,0.000401,14
+Zotu81,Zotu81,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,SC-I-84,NA,NA,NA,Zotu81,0.00234,9
+Zotu12057,Zotu12057,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,NA,NA,Zotu12057,0.000441,9
+Zotu811,Zotu811,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,43F-1404R,uncultured Syntrophaceae bacterium,NA,NA,Zotu811,0.000311,13
+Zotu813,Zotu813,,other,4,Bacteria,Proteobacteria,Betaproteobacteria,SC-I-84,NA,NA,NA,Zotu813,0.000324,12
+Zotu815,Zotu815,,other,8,Bacteria,Gemmatimonadetes,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,Gemmatimonas,NA,Zotu815,0.000253,3
+Zotu1049,Zotu1049,,other,8,Bacteria,Gemmatimonadetes,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,Gemmatimonas,uncultured Gemmatimonas sp.,Zotu1049,0.000176,3
+Zotu1229,Zotu1229,,other,8,Bacteria,Verrucomicrobia,Verrucomicrobia Incertae Sedis,Unknown Order,Unknown Family,Candidatus Methylacidiphilum,uncultured bacterium,Zotu1229,0.000137,3
+Zotu817,Zotu817,,other,1,Bacteria,Verrucomicrobia,OPB35 soil group,uncultured bacterium,NA,NA,NA,Zotu817,0.000284,13
+Zotu82,Zotu82,,other,1,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,4-29,uncultured bacterium,NA,Zotu82,0.002944,13
+Zotu8276,Zotu8276,,other,3,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,P3OB-42,uncultured soil bacterium,NA,Zotu8276,0.000242,11
+Zotu837,Zotu837,,other,3,Bacteria,Fibrobacteres,Fibrobacteria,Fibrobacterales,possible family 01,NA,NA,Zotu837,0.000117,11
+Zotu838,Zotu838,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,alphaI cluster,uncultured bacterium,NA,Zotu838,0.000222,9
+Zotu84,Zotu84,,other,1,Bacteria,Latescibacteria,uncultured bacterium,NA,NA,NA,NA,Zotu84,0.002386,13
+Zotu841,Zotu841,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Sva0485,uncultured bacterium,NA,NA,Zotu841,0.000306,11
+Zotu844,Zotu844,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Sva0485,uncultured bacterium,NA,NA,Zotu844,0.000269,13
+Zotu85,Zotu85,,other,6,Bacteria,Bacteroidetes,SB-5,uncultured bacterium,NA,NA,NA,Zotu85,0.001309,11
+Zotu852,Zotu852,,other,1,Bacteria,Acidobacteria,Holophagae,Subgroup 7,uncultured bacterium,NA,NA,Zotu852,0.000236,14
+Zotu858,Zotu858,,other,2,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,NA,NA,Zotu858,0.000194,14
+Zotu86,Zotu86,,other,1,Bacteria,Acidobacteria,Acidobacteria,Subgroup 3,Unknown Family,Bryobacter,uncultured bacterium,Zotu86,0.002261,13
+Zotu861,Zotu861,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Sva0485,NA,NA,NA,Zotu861,0.00024,13
+Zotu863,Zotu863,,other,5,Bacteria,Acidobacteria,Holophagae,Holophagales,Holophagaceae,uncultured,uncultured bacterium,Zotu863,0.000234,3
+Zotu864,Zotu864,,other,8,Bacteria,Gemmatimonadetes,Gemmatimonadetes,S0134 terrestrial group,uncultured Gemmatimonadetes bacterium,NA,NA,Zotu864,0.000265,3
+Zotu866,Zotu866,,other,1,Bacteria,Acidobacteria,Acidobacteria,Acidobacteriales,Acidobacteriaceae (Subgroup 1),uncultured,NA,Zotu866,0.000269,13
+Zotu868,Zotu868,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Sva0485,uncultured bacterium,NA,NA,Zotu868,0.000244,13
+Zotu87,Zotu87,,other,1,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,WCHB1-69,NA,NA,Zotu87,0.002405,13
+Zotu1100,Zotu1100,,other,1,Bacteria,Acidobacteria,Acidobacteria,Subgroup 13,uncultured Holophaga sp.,NA,NA,Zotu1100,0.00021,13
+Zotu870,Zotu870,,diff,1,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,uncultured,uncultured bacterium,Zotu870,0.000312,13
+Zotu871,Zotu871,,other,1,Bacteria,Bacteroidetes,Bacteroidetes vadinHA17,uncultured bacterium,NA,NA,NA,Zotu871,0.000319,15
+Zotu874,Zotu874,,other,2,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,NA,Zotu874,0.000343,14
+Zotu553,Zotu553,,diff,3,Bacteria,Fibrobacteres,Fibrobacteria,Fibrobacterales,possible family 01,uncultured bacterium,NA,Zotu553,0.000114,14
+Zotu876,Zotu876,,diff,6,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,NA,NA,NA,Zotu876,0.001253,11
+Zotu877,Zotu877,,other,1,Bacteria,Actinobacteria,Thermoleophilia,Gaiellales,uncultured,uncultured bacterium,NA,Zotu877,0.000226,9
+Zotu878,Zotu878,,diff,1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 1,uncultured bacterium,Zotu878,0.000138,1
+Zotu884,Zotu884,,other,1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Variibacter,NA,Zotu884,0.000155,9
+Zotu888,Zotu888,,other,1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,NA,NA,NA,Zotu888,0.000244,9
+Zotu889,Zotu889,,other,1,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,4-29,uncultured bacterium,NA,Zotu889,0.000257,13
+Zotu89,Zotu89,,other,1,Bacteria,Chloroflexi,S085,uncultured bacterium,NA,NA,NA,Zotu89,0.001565,9
+Zotu896,Zotu896,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Sva0485,NA,NA,NA,Zotu896,0.000304,13
+Zotu898,Zotu898,,other,8,Bacteria,Gemmatimonadetes,Gemmatimonadetes,S0134 terrestrial group,uncultured bacterium,NA,NA,Zotu898,0.000268,3
+Zotu900,Zotu900,,other,1,Bacteria,Chloroflexi,SHA-26,NA,NA,NA,NA,Zotu900,0.000234,9
+Zotu9076,Zotu9076,,diff,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Candidatus Accumulibacter,NA,Zotu9076,0.000158,11
+Zotu909,Zotu909,,diff,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 1,NA,Zotu909,0.000323,1
+Zotu589,Zotu589,,other,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 8,uncultured bacterium,Zotu589,0.000357,1
+Zotu91,Zotu91,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Denitratisoma,NA,Zotu91,0.001122,11
+Zotu910,Zotu910,,other,1,Bacteria,Chlorobi,Ignavibacteria,Ignavibacteriales,BSV26,uncultured bacterium,NA,Zotu910,0.000237,13
+Zotu911,Zotu911,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobulbaceae,Desulfocapsa,uncultured bacterium,Zotu911,0.000236,13
+Zotu912,Zotu912,,other,1,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,uncultured,uncultured soil bacterium,Zotu912,0.000169,9
+Zotu919,Zotu919,,other,1,Bacteria,Acidobacteria,Holophagae,Subgroup 7,uncultured bacterium,NA,NA,Zotu919,0.000229,13
+Zotu92,Zotu92,,other,9,Bacteria,Spirochaetae,Spirochaetes,Spirochaetales,Leptospiraceae,Turneriella,uncultured organism,Zotu92,0.000418,14
+Zotu367,Zotu367,,other,9,Bacteria,Bacteroidetes,SB-5,NA,NA,NA,NA,Zotu367,0.000122,14
+Zotu921,Zotu921,,other,1,Bacteria,Chloroflexi,TK10,uncultured Chloroflexi bacterium,NA,NA,NA,Zotu921,0.000195,9
+Zotu9243,Zotu9243,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,uncultured,uncultured bacterium,Zotu9243,0.000292,11
+Zotu925,Zotu925,,other,1,Bacteria,Latescibacteria,uncultured bacterium,NA,NA,NA,NA,Zotu925,0.000244,13
+Zotu926,Zotu926,,other,4,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadales Incertae Sedis,uncultured,uncultured gamma proteobacterium,Zotu926,0.000269,12
+Zotu93,Zotu93,,other,3,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,4-29,uncultured bacterium,NA,Zotu93,0.00242,34
+Zotu1059,Zotu1059,,other,3,Bacteria,Verrucomicrobia,OPB35 soil group,uncultured bacterium,NA,NA,NA,Zotu1059,0.00023,34
+Zotu931,Zotu931,,other,1,Bacteria,Chloroflexi,uncultured bacterium,NA,NA,NA,NA,Zotu931,0.000221,9
+Zotu933,Zotu933,,other,3,Bacteria,Chloroflexi,uncultured,uncultured bacterium,NA,NA,NA,Zotu933,0.00021,3
+Zotu934,Zotu934,,other,8,Bacteria,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophaceae,uncultured,NA,Zotu934,0.000259,3
+Zotu938,Zotu938,,other,2,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,uncultured,uncultured bacterium,Zotu938,0.000225,14
+Zotu942,Zotu942,,other,8,Bacteria,Chlorobi,Ignavibacteria,Ignavibacteriales,BSV26,uncultured bacterium,NA,Zotu942,0.00027,3
+Zotu944,Zotu944,,other,1,Bacteria,Acidobacteria,Acidobacteria,Subgroup 3,Unknown Family,Bryobacter,NA,Zotu944,0.000196,13
+Zotu945,Zotu945,,other,1,Bacteria,Actinobacteria,Actinobacteria,Frankiales,Geodermatophilaceae,NA,NA,Zotu945,0.000152,9
+Zotu95,Zotu95,,other,6,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Denitratisoma,NA,Zotu95,0.000903,11
+Zotu956,Zotu956,,other,8,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylomicrobium,uncultured bacterium,Zotu956,0.000254,0
+Zotu957,Zotu957,,other,8,Bacteria,Gemmatimonadetes,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,uncultured,NA,Zotu957,0.000211,3
+Zotu963,Zotu963,,other,3,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,uncultured soil bacterium,Zotu963,0.000259,11
+Zotu966,Zotu966,,other,3,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,NA,Zotu966,0.000316,11
+Zotu967,Zotu967,,diff,3,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,NA,NA,NA,Zotu967,0.000324,0
+Zotu969,Zotu969,,other,6,Bacteria,Bacteroidetes,Bacteroidetes vadinHA17,uncultured bacterium,NA,NA,NA,Zotu969,0.000277,15
+Zotu970,Zotu970,,other,1,Bacteria,Acidobacteria,Acidobacteria,Subgroup 3,Unknown Family,Candidatus Solibacter,NA,Zotu970,0.00021,13
+Zotu975,Zotu975,,other,3,Bacteria,Chloroflexi,uncultured,NA,NA,NA,NA,Zotu975,0.000221,3
+Zotu981,Zotu981,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Desulfuromonadaceae,Desulfuromonas,NA,Zotu981,0.00024,13
+Zotu9875,Zotu9875,,diff,3,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,uncultured,uncultured bacterium,Zotu9875,0.000964,11
+Zotu988,Zotu988,,other,3,Bacteria,Bacteroidetes,SB-5,NA,NA,NA,NA,Zotu988,0.000145,11
+Zotu9905,Zotu9905,,other,1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,NA,NA,NA,Zotu9905,0.000202,13
+Zotu992,Zotu992,,other,1,Bacteria,Chlorobi,Ignavibacteria,Ignavibacteriales,BSV26,uncultured bacterium,NA,Zotu992,0.000186,13
+Zotu993,Zotu993,,other,1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,uncultured bacterium,Zotu993,0.000193,13
+Zotu998,Zotu998,,diff,7,Bacteria,Acidobacteria,Holophagae,Holophagales,Holophagaceae,uncultured,NA,Zotu998,0.000122,11

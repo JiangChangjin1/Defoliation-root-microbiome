@@ -1,0 +1,923 @@
+"label","id","Kingdom","Phylum","Class","Order","Family","Genus","Species","name","abun"
+"Zotu1","Zotu1","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae",NA,NA,"Zotu1",1158.79166666667
+"Zotu10","Zotu10","Bacteria","Firmicutes","Bacilli","Bacillales","Paenibacillaceae","Paenibacillus","uncultured bacterium","Zotu10",194
+"Zotu100","Zotu100","Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Porphyromonadaceae","uncultured","uncultured bacterium","Zotu100",28.0833333333333
+"Zotu1000","Zotu1000","Bacteria","Proteobacteria","Betaproteobacteria","TRA3-20","uncultured bacterium",NA,NA,"Zotu1000",17.2916666666667
+"Zotu1002","Zotu1002","Bacteria","Chloroflexi","JG30-KF-CM66","uncultured Chloroflexi bacterium",NA,NA,NA,"Zotu1002",19.6666666666667
+"Zotu1004","Zotu1004","Bacteria","Proteobacteria","Betaproteobacteria","B1-7BS","uncultured bacterium",NA,NA,"Zotu1004",16.2083333333333
+"Zotu1005","Zotu1005","Bacteria","Planctomycetes","Phycisphaerae","KCLunmb-38-53",NA,NA,NA,"Zotu1005",14.4166666666667
+"Zotu1006","Zotu1006","Bacteria","Proteobacteria",NA,NA,NA,NA,NA,"Zotu1006",20.0416666666667
+"Zotu10065","Zotu10065","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae",NA,NA,"Zotu10065",7.75
+"Zotu1007","Zotu1007","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Haliangiaceae","Haliangium","uncultured bacterium","Zotu1007",15.125
+"Zotu101","Zotu101","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured","uncultured bacterium","Zotu101",41.4166666666667
+"Zotu1010","Zotu1010","Bacteria","Firmicutes","Clostridia","Clostridiales","Family XII","Acidaminobacter","uncultured bacterium","Zotu1010",18.375
+"Zotu1016","Zotu1016","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","uncultured bacterium","Zotu1016",6.70833333333333
+"Zotu1017","Zotu1017","Bacteria","Proteobacteria","Deltaproteobacteria","GR-WP33-30","uncultured bacterium",NA,NA,"Zotu1017",19.5833333333333
+"Zotu1018","Zotu1018","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Methylocystaceae","uncultured","uncultured bacterium","Zotu1018",14.2916666666667
+"Zotu102","Zotu102","Bacteria","Chlorobi","Ignavibacteria","Ignavibacteriales","BSV26","uncultured bacterium",NA,"Zotu102",138.75
+"Zotu1023","Zotu1023","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Pseudorhodoferax",NA,"Zotu1023",28.1666666666667
+"Zotu1024","Zotu1024","Bacteria","Verrucomicrobia","OPB35 soil group","uncultured bacterium",NA,NA,NA,"Zotu1024",15.25
+"Zotu1027","Zotu1027","Bacteria","Proteobacteria","Deltaproteobacteria","Sva0485",NA,NA,NA,"Zotu1027",19.1666666666667
+"Zotu1029","Zotu1029","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured",NA,"Zotu1029",8.125
+"Zotu103","Zotu103","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured","uncultured bacterium","Zotu103",163.375
+"Zotu10300","Zotu10300","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Gallionellaceae","Sideroxydans","uncultured bacterium","Zotu10300",20.7083333333333
+"Zotu1031","Zotu1031","Bacteria","Proteobacteria","Deltaproteobacteria","Syntrophobacterales","Syntrophaceae","uncultured","uncultured bacterium","Zotu1031",22
+"Zotu1034","Zotu1034","Bacteria","Bacteroidetes","Sphingobacteriia","Sphingobacteriales","Saprospiraceae","uncultured","uncultured bacterium","Zotu1034",18.875
+"Zotu104","Zotu104","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","Denitratisoma","uncultured bacterium","Zotu104",64.7916666666667
+"Zotu10402","Zotu10402","Bacteria","Bacteroidetes","Bacteroidetes vadinHA17","uncultured bacterium",NA,NA,NA,"Zotu10402",47.0416666666667
+"Zotu1043","Zotu1043","Bacteria","Acidobacteria","Acidobacteria","Subgroup 3","Unknown Family","Bryobacter","uncultured bacterium","Zotu1043",16.2083333333333
+"Zotu10430","Zotu10430","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured",NA,"Zotu10430",14.0833333333333
+"Zotu1044","Zotu1044","Bacteria","Proteobacteria","Alphaproteobacteria","Caulobacterales","Caulobacteraceae","Phenylobacterium",NA,"Zotu1044",21.375
+"Zotu1045","Zotu1045","Bacteria","Proteobacteria",NA,NA,NA,NA,NA,"Zotu1045",15.4583333333333
+"Zotu1048","Zotu1048","Bacteria","Proteobacteria","Deltaproteobacteria","GR-WP33-30","uncultured bacterium",NA,NA,"Zotu1048",15.6666666666667
+"Zotu1049","Zotu1049","Bacteria","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","Gemmatimonas","uncultured Gemmatimonas sp.","Zotu1049",11.5833333333333
+"Zotu105","Zotu105","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 1","uncultured bacterium","Zotu105",48.3333333333333
+"Zotu10514","Zotu10514","Bacteria","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae","Arenimonas","uncultured bacterium","Zotu10514",30.4583333333333
+"Zotu1059","Zotu1059","Bacteria","Verrucomicrobia","OPB35 soil group","uncultured bacterium",NA,NA,NA,"Zotu1059",9.91666666666667
+"Zotu106","Zotu106","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae",NA,NA,"Zotu106",53.625
+"Zotu1065","Zotu1065","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","BVA59","uncultured bacterium",NA,"Zotu1065",7.25
+"Zotu1069","Zotu1069","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","GR-WP33-58",NA,NA,"Zotu1069",15.0416666666667
+"Zotu10706","Zotu10706","Bacteria","Proteobacteria","Betaproteobacteria","Methylophilales","Methylophilaceae",NA,NA,"Zotu10706",19.75
+"Zotu1071","Zotu1071","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfarculales","Desulfarculaceae","Desulfatiglans","uncultured bacterium","Zotu1071",10.4166666666667
+"Zotu1072","Zotu1072","Bacteria","Proteobacteria","Deltaproteobacteria","SAR324 clade(Marine group B)","uncultured organism",NA,NA,"Zotu1072",10
+"Zotu1073","Zotu1073","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales",NA,NA,NA,"Zotu1073",10.3333333333333
+"Zotu1074","Zotu1074","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Haliangiaceae","Haliangium","uncultured bacterium","Zotu1074",12.5833333333333
+"Zotu1076","Zotu1076","Bacteria","Acidobacteria","Holophagae","Holophagales","Holophagaceae","Geothrix","uncultured bacterium","Zotu1076",8.79166666666667
+"Zotu1077","Zotu1077","Bacteria","Acidobacteria","Holophagae","Subgroup 7","uncultured bacterium",NA,NA,"Zotu1077",11.9166666666667
+"Zotu108","Zotu108","Bacteria","Acidobacteria","Holophagae","Holophagales","Holophagaceae",NA,NA,"Zotu108",46.5
+"Zotu1080","Zotu1080","Bacteria","TA06","uncultured bacterium",NA,NA,NA,NA,"Zotu1080",9.79166666666667
+"Zotu1083","Zotu1083","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","MA-28-I98C","uncultured delta proteobacterium",NA,"Zotu1083",12.9583333333333
+"Zotu1085","Zotu1085","Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","uncultured",NA,"Zotu1085",14.8333333333333
+"Zotu1086","Zotu1086","Bacteria","Verrucomicrobia","OPB35 soil group","uncultured bacterium",NA,NA,NA,"Zotu1086",22.0416666666667
+"Zotu1087","Zotu1087","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Alcaligenaceae","uncultured",NA,"Zotu1087",9.45833333333333
+"Zotu1089","Zotu1089","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","P3OB-42","uncultured bacterium",NA,"Zotu1089",19.5833333333333
+"Zotu109","Zotu109","Bacteria","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadales Incertae Sedis","uncultured","uncultured gamma proteobacterium","Zotu109",210.125
+"Zotu1097","Zotu1097","Bacteria","Chlorobi","Ignavibacteria","Ignavibacteriales","BSV26","uncultured bacterium",NA,"Zotu1097",7.54166666666667
+"Zotu1099","Zotu1099","Bacteria","Bacteroidetes","Sphingobacteriia","Sphingobacteriales","WCHB1-69","uncultured Bacteroidetes bacterium",NA,"Zotu1099",9.91666666666667
+"Zotu1102","Zotu1102","Bacteria","Proteobacteria","Alphaproteobacteria","Caulobacterales","Caulobacteraceae","Phenylobacterium",NA,"Zotu1102",16.125
+"Zotu1103","Zotu1103","Bacteria","Proteobacteria","Deltaproteobacteria","Sva0485",NA,NA,NA,"Zotu1103",16.8333333333333
+"Zotu1106","Zotu1106","Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Roseomonas",NA,"Zotu1106",14.25
+"Zotu1110","Zotu1110","Bacteria","Proteobacteria","Alphaproteobacteria","Caulobacterales","Caulobacteraceae","Phenylobacterium",NA,"Zotu1110",19
+"Zotu1111","Zotu1111","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Haliangiaceae","Haliangium","uncultured bacterium","Zotu1111",11.3333333333333
+"Zotu11141","Zotu11141","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","Azospira","uncultured bacterium","Zotu11141",7.58333333333333
+"Zotu1119","Zotu1119","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured",NA,"Zotu1119",20
+"Zotu112","Zotu112","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales",NA,NA,NA,"Zotu112",162
+"Zotu1128","Zotu1128","Bacteria","Proteobacteria","Gammaproteobacteria","Thiotrichales","Thiotrichaceae","Methylohalomonas",NA,"Zotu1128",9.45833333333333
+"Zotu1129","Zotu1129","Bacteria","Chloroflexi","uncultured","uncultured bacterium",NA,NA,NA,"Zotu1129",11
+"Zotu113","Zotu113","Bacteria","Proteobacteria","Betaproteobacteria","SC-I-84",NA,NA,NA,"Zotu113",134.458333333333
+"Zotu1131","Zotu1131","Bacteria","Chloroflexi","Dehalococcoidia","Dehalococcoidales","uncultured","uncultured bacterium",NA,"Zotu1131",10.7916666666667
+"Zotu1132","Zotu1132","Bacteria","Chloroflexi","uncultured",NA,NA,NA,NA,"Zotu1132",9.29166666666667
+"Zotu1133","Zotu1133","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","Methylococcaceae","Methylomicrobium",NA,"Zotu1133",12.2083333333333
+"Zotu114","Zotu114","Bacteria","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured",NA,"Zotu114",223.166666666667
+"Zotu1140","Zotu1140","Bacteria","Actinobacteria","Actinobacteria","PeM15","uncultured bacterium",NA,NA,"Zotu1140",10.1666666666667
+"Zotu1142","Zotu1142","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured",NA,"Zotu1142",16.75
+"Zotu1146","Zotu1146","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured","uncultured bacterium","Zotu1146",19.7916666666667
+"Zotu1151","Zotu1151","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","Methylococcaceae","Methylomonas","uncultured bacterium","Zotu1151",7
+"Zotu1157","Zotu1157","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfobacterales","Desulfobulbaceae","Desulfobulbus","uncultured bacterium","Zotu1157",10.125
+"Zotu1158","Zotu1158","Bacteria","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured",NA,"Zotu1158",14
+"Zotu1159","Zotu1159","Bacteria","Actinobacteria","OPB41","uncultured bacterium",NA,NA,NA,"Zotu1159",13.5
+"Zotu116","Zotu116","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 13","uncultured bacterium","Zotu116",18.0833333333333
+"Zotu1161","Zotu1161","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured",NA,"Zotu1161",15.7916666666667
+"Zotu1166","Zotu1166","Bacteria","Acidobacteria","Acidobacteria","Subgroup 3","Unknown Family","Candidatus Solibacter","uncultured bacterium","Zotu1166",12.875
+"Zotu1167","Zotu1167","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Bradyrhizobiaceae","Bradyrhizobium",NA,"Zotu1167",11.25
+"Zotu117","Zotu117","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","Dechloromonas","uncultured bacterium","Zotu117",22.125
+"Zotu1170","Zotu1170","Bacteria","Chloroflexi","uncultured","uncultured soil bacterium",NA,NA,NA,"Zotu1170",10.75
+"Zotu1172","Zotu1172","Bacteria","Proteobacteria","Betaproteobacteria","Methylophilales","Methylophilaceae",NA,NA,"Zotu1172",10.0833333333333
+"Zotu11729","Zotu11729","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae",NA,NA,"Zotu11729",72.375
+"Zotu11736","Zotu11736","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","Zoogloea",NA,"Zotu11736",7.16666666666667
+"Zotu1174","Zotu1174","Bacteria","Acidobacteria","Holophagae","Subgroup 7",NA,NA,NA,"Zotu1174",13.2083333333333
+"Zotu1176","Zotu1176","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfobacterales","Desulfobulbaceae","uncultured","uncultured bacterium","Zotu1176",8.20833333333333
+"Zotu1177","Zotu1177","Bacteria","Bacteroidetes","Bacteroidia","Bacteroidia Incertae Sedis","Draconibacteriaceae","uncultured",NA,"Zotu1177",8
+"Zotu1178","Zotu1178","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 10",NA,"Zotu1178",11.0416666666667
+"Zotu118","Zotu118","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","Methylococcaceae","Methylomicrobium",NA,"Zotu118",112.083333333333
+"Zotu1182","Zotu1182","Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Coriobacteriaceae","uncultured","uncultured bacterium","Zotu1182",10.5833333333333
+"Zotu1189","Zotu1189","Bacteria","Chlamydiae","Chlamydiae","Chlamydiales","Simkaniaceae","uncultured",NA,"Zotu1189",9.58333333333333
+"Zotu1190","Zotu1190","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 1",NA,"Zotu1190",10.4583333333333
+"Zotu1194","Zotu1194","Bacteria","Proteobacteria","Deltaproteobacteria","43F-1404R","uncultured Syntrophaceae bacterium",NA,NA,"Zotu1194",13.6666666666667
+"Zotu1195","Zotu1195","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured","uncultured soil bacterium","Zotu1195",17.9583333333333
+"Zotu11993","Zotu11993","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Gallionellaceae","Sideroxydans",NA,"Zotu11993",14.375
+"Zotu1203","Zotu1203","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","Methylococcaceae","Methylomonas","uncultured bacterium","Zotu1203",6.70833333333333
+"Zotu1204","Zotu1204","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","Methylococcaceae",NA,NA,"Zotu1204",10.3333333333333
+"Zotu1205","Zotu1205","Bacteria","Actinobacteria","Acidimicrobiia","Acidimicrobiales","Acidimicrobiaceae","uncultured",NA,"Zotu1205",22.5416666666667
+"Zotu1209","Zotu1209","Bacteria","Bacteroidetes","Bacteroidetes vadinHA17","uncultured bacterium",NA,NA,NA,"Zotu1209",11.5
+"Zotu121","Zotu121","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","Dechloromonas","uncultured bacterium","Zotu121",52.125
+"Zotu12105","Zotu12105","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured",NA,"Zotu12105",12.4166666666667
+"Zotu1213","Zotu1213","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter",NA,"Zotu1213",5.79166666666667
+"Zotu122","Zotu122","Bacteria","Firmicutes","Bacilli","Bacillales","Family XII","Exiguobacterium",NA,"Zotu122",11.25
+"Zotu1220","Zotu1220","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured","uncultured bacterium","Zotu1220",12.25
+"Zotu1224","Zotu1224","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Polyangiaceae","Polyangium","uncultured bacterium","Zotu1224",11
+"Zotu1225","Zotu1225","Bacteria","Chloroflexi","TK10","uncultured bacterium",NA,NA,NA,"Zotu1225",13.2083333333333
+"Zotu1229","Zotu1229","Bacteria","Verrucomicrobia","Verrucomicrobia Incertae Sedis","Unknown Order","Unknown Family","Candidatus Methylacidiphilum","uncultured bacterium","Zotu1229",9.70833333333333
+"Zotu123","Zotu123","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Ideonella","uncultured beta proteobacterium","Zotu123",39.9583333333333
+"Zotu1231","Zotu1231","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 1",NA,"Zotu1231",12.9166666666667
+"Zotu1233","Zotu1233","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Hyphomicrobiaceae","Ancalomicrobium",NA,"Zotu1233",11.0416666666667
+"Zotu1236","Zotu1236","Bacteria","Fibrobacteres","Fibrobacteria","Fibrobacterales","B122","uncultured bacterium",NA,"Zotu1236",13.2083333333333
+"Zotu1238","Zotu1238","Bacteria","Latescibacteria","uncultured bacterium",NA,NA,NA,NA,"Zotu1238",13.6666666666667
+"Zotu1240","Zotu1240","Bacteria","Spirochaetae","Spirochaetes","Spirochaetales","Spirochaetaceae","Spirochaeta 2",NA,"Zotu1240",9.75
+"Zotu12413","Zotu12413","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","P3OB-42",NA,NA,"Zotu12413",6.25
+"Zotu1243","Zotu1243","Bacteria","Proteobacteria","Deltaproteobacteria","Syntrophobacterales","Syntrophaceae","Syntrophus","uncultured bacterium","Zotu1243",12.5
+"Zotu1244","Zotu1244","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Polyangiaceae","Polyangium","uncultured bacterium","Zotu1244",12.625
+"Zotu1245","Zotu1245","Bacteria","Latescibacteria","uncultured bacterium",NA,NA,NA,NA,"Zotu1245",11.1666666666667
+"Zotu1249","Zotu1249","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured","uncultured soil bacterium","Zotu1249",20.5
+"Zotu125","Zotu125","Bacteria","Proteobacteria","Gammaproteobacteria","Chromatiales","Ectothiorhodospiraceae","Thioalkalispira","uncultured bacterium","Zotu125",129.25
+"Zotu1250","Zotu1250","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,"Zotu1250",10.5416666666667
+"Zotu1251","Zotu1251","Bacteria","Actinobacteria","Actinobacteria","Micrococcales","Intrasporangiaceae","Knoellia",NA,"Zotu1251",10.0416666666667
+"Zotu1253","Zotu1253","Bacteria","Proteobacteria","Deltaproteobacteria","Sva0485","uncultured bacterium",NA,NA,"Zotu1253",13.0833333333333
+"Zotu1256","Zotu1256","Bacteria","Chloroflexi","uncultured","uncultured Chloroflexi bacterium",NA,NA,NA,"Zotu1256",9.625
+"Zotu1259","Zotu1259","Bacteria","Lentisphaerae","Oligosphaeria","Oligosphaerales","uncultured organism",NA,NA,"Zotu1259",7.70833333333333
+"Zotu1264","Zotu1264","Bacteria","Fibrobacteres","Fibrobacteria","possible order 07","uncultured bacterium",NA,NA,"Zotu1264",14.625
+"Zotu127","Zotu127","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae",NA,NA,"Zotu127",49
+"Zotu12701","Zotu12701","Bacteria","Acidobacteria","Acidobacteria","Subgroup 3","Unknown Family","Candidatus Solibacter","uncultured bacterium","Zotu12701",23.0416666666667
+"Zotu1271","Zotu1271","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","BIrii41","uncultured bacterium",NA,"Zotu1271",15.1666666666667
+"Zotu1272","Zotu1272","Bacteria","Chloroflexi","uncultured","uncultured bacterium",NA,NA,NA,"Zotu1272",10.125
+"Zotu1276","Zotu1276","Bacteria","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingobium","uncultured bacterium","Zotu1276",8.45833333333333
+"Zotu12783","Zotu12783","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae",NA,NA,"Zotu12783",9.45833333333333
+"Zotu1279","Zotu1279","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Haliangiaceae","Haliangium","uncultured bacterium","Zotu1279",10.875
+"Zotu1282","Zotu1282","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales",NA,NA,NA,"Zotu1282",13.5
+"Zotu12851","Zotu12851","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Methylocystaceae","Pleomorphomonas","uncultured bacterium","Zotu12851",9.33333333333333
+"Zotu1286","Zotu1286","Bacteria","Actinobacteria","Actinobacteria","Frankiales","Sporichthyaceae","uncultured","uncultured bacterium","Zotu1286",8.58333333333333
+"Zotu129","Zotu129","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter","uncultured bacterium","Zotu129",68.2083333333333
+"Zotu1290","Zotu1290","Bacteria","Aminicenantes","uncultured bacterium",NA,NA,NA,NA,"Zotu1290",9
+"Zotu1291","Zotu1291","Bacteria","Actinobacteria","Actinobacteria","Frankiales","Geodermatophilaceae","Blastococcus",NA,"Zotu1291",13.4583333333333
+"Zotu1295","Zotu1295","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 1",NA,"Zotu1295",7.70833333333333
+"Zotu1297","Zotu1297","Bacteria","Proteobacteria","Deltaproteobacteria","Sva0485","uncultured bacterium",NA,NA,"Zotu1297",13.25
+"Zotu1298","Zotu1298","Bacteria","Acidobacteria","Acidobacteria","Subgroup 3","Unknown Family","Candidatus Solibacter","uncultured Acidobacteria bacterium","Zotu1298",13.1666666666667
+"Zotu13","Zotu13","Bacteria","Spirochaetae","Spirochaetes","Spirochaetales","Leptospiraceae","uncultured",NA,"Zotu13",169.5
+"Zotu130","Zotu130","Bacteria","Bacteroidetes","Bacteroidetes BD2-2","uncultured bacterium",NA,NA,NA,"Zotu130",57.125
+"Zotu1304","Zotu1304","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfobacterales","Desulfobacteraceae","uncultured","uncultured bacterium","Zotu1304",11.125
+"Zotu1305","Zotu1305","Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Porphyromonadaceae","uncultured","uncultured bacterium","Zotu1305",18.75
+"Zotu1307","Zotu1307","Bacteria","Bacteroidetes","Bacteroidetes BD2-2","uncultured bacterium",NA,NA,NA,"Zotu1307",8
+"Zotu1308","Zotu1308","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","Methylococcaceae",NA,NA,"Zotu1308",10.3333333333333
+"Zotu1314","Zotu1314","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales",NA,NA,NA,"Zotu1314",15.5833333333333
+"Zotu1316","Zotu1316","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales",NA,NA,NA,"Zotu1316",8
+"Zotu1317","Zotu1317","Bacteria","Acidobacteria","Holophagae","Holophagales","Holophagaceae","Holophaga",NA,"Zotu1317",5.91666666666667
+"Zotu132","Zotu132","Bacteria","Chlorobi","Chlorobia","Chlorobiales","SJA-28","uncultured bacterium",NA,"Zotu132",120.166666666667
+"Zotu1322","Zotu1322","Bacteria","Proteobacteria","Deltaproteobacteria","Sva0485","uncultured bacterium",NA,NA,"Zotu1322",12.0416666666667
+"Zotu1323","Zotu1323","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Cystobacteraceae","Anaeromyxobacter",NA,"Zotu1323",9.20833333333333
+"Zotu13236","Zotu13236","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae",NA,NA,"Zotu13236",18.6666666666667
+"Zotu1325","Zotu1325","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","Methylococcaceae","Methylomicrobium",NA,"Zotu1325",12.7083333333333
+"Zotu1327","Zotu1327","Bacteria","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae","Rhodanobacter",NA,"Zotu1327",12.0833333333333
+"Zotu1328","Zotu1328","Bacteria","Acidobacteria","Holophagae","Subgroup 7","uncultured bacterium",NA,NA,"Zotu1328",11.8333333333333
+"Zotu133","Zotu133","Bacteria","Bacteroidetes","Sphingobacteriia","Sphingobacteriales","WCHB1-69","uncultured bacterium",NA,"Zotu133",94.6666666666667
+"Zotu1332","Zotu1332","Bacteria","Saccharibacteria","uncultured bacterium",NA,NA,NA,NA,"Zotu1332",9.5
+"Zotu1333","Zotu1333","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfobacterales","Desulfobacteraceae",NA,NA,"Zotu1333",12.625
+"Zotu1334","Zotu1334","Bacteria","Chloroflexi","S085","uncultured bacterium",NA,NA,NA,"Zotu1334",12.375
+"Zotu134","Zotu134","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter",NA,"Zotu134",75.5833333333333
+"Zotu1341","Zotu1341","Bacteria","Proteobacteria","Betaproteobacteria","SC-I-84",NA,NA,NA,"Zotu1341",12.375
+"Zotu1342","Zotu1342","Bacteria","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae","Rhodanobacter",NA,"Zotu1342",9.83333333333333
+"Zotu1344","Zotu1344","Bacteria","Actinobacteria","Acidimicrobiia","Acidimicrobiales",NA,NA,NA,"Zotu1344",9
+"Zotu1347","Zotu1347","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","BIrii41","uncultured bacterium",NA,"Zotu1347",9.54166666666667
+"Zotu1348","Zotu1348","Bacteria","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","uncultured",NA,"Zotu1348",12.2916666666667
+"Zotu135","Zotu135","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured","uncultured soil bacterium","Zotu135",140.708333333333
+"Zotu1353","Zotu1353","Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Roseomonas",NA,"Zotu1353",11.0416666666667
+"Zotu1355","Zotu1355","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales",NA,NA,NA,"Zotu1355",12.25
+"Zotu13594","Zotu13594","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","Methylococcaceae",NA,NA,"Zotu13594",24.4583333333333
+"Zotu1370","Zotu1370","Bacteria","Proteobacteria","Deltaproteobacteria","Sva0485","uncultured delta proteobacterium",NA,NA,"Zotu1370",9.70833333333333
+"Zotu1374","Zotu1374","Bacteria","Proteobacteria","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Woodsholea","uncultured bacterium","Zotu1374",11.75
+"Zotu13752","Zotu13752","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Gallionellaceae","Ferriphaselus","uncultured bacterium","Zotu13752",4.75
+"Zotu1377","Zotu1377","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","uncultured",NA,"Zotu1377",11.1666666666667
+"Zotu1386","Zotu1386","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","P3OB-42",NA,NA,"Zotu1386",5.70833333333333
+"Zotu139","Zotu139","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu139",112.333333333333
+"Zotu1390","Zotu1390","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu1390",11.5
+"Zotu1393","Zotu1393","Bacteria","Planctomycetes","Phycisphaerae","MSBL9","uncultured bacterium",NA,NA,"Zotu1393",8.5
+"Zotu1396","Zotu1396","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured","uncultured soil bacterium","Zotu1396",14.5833333333333
+"Zotu1398","Zotu1398","Bacteria","Acidobacteria","Acidobacteria","Subgroup 13","uncultured Acidobacterium sp.",NA,NA,"Zotu1398",12.7916666666667
+"Zotu1399","Zotu1399","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured","uncultured bacterium","Zotu1399",14.75
+"Zotu14","Zotu14","Bacteria","Proteobacteria","Deltaproteobacteria","43F-1404R","uncultured bacterium",NA,NA,"Zotu14",1197.375
+"Zotu140","Zotu140","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Cystobacteraceae","Anaeromyxobacter","uncultured bacterium","Zotu140",45.0833333333333
+"Zotu1402","Zotu1402","Bacteria","Chloroflexi",NA,NA,NA,NA,NA,"Zotu1402",12.5416666666667
+"Zotu14053","Zotu14053","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Cystobacteraceae","Anaeromyxobacter","uncultured bacterium","Zotu14053",7
+"Zotu14058","Zotu14058","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Cystobacteraceae","Anaeromyxobacter","uncultured bacterium","Zotu14058",5.45833333333333
+"Zotu141","Zotu141","Bacteria","Chlorobi","Chlorobia","Chlorobiales","SJA-28","uncultured bacterium",NA,"Zotu141",145
+"Zotu1412","Zotu1412","Bacteria","Chloroflexi","uncultured","uncultured bacterium",NA,NA,NA,"Zotu1412",10.2083333333333
+"Zotu1415","Zotu1415","Bacteria","Bacteroidetes","Bacteroidetes BD2-2","uncultured bacterium",NA,NA,NA,"Zotu1415",5.66666666666667
+"Zotu1417","Zotu1417","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter",NA,"Zotu1417",15.7083333333333
+"Zotu14170","Zotu14170","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Gallionellaceae","Sideroxydans","uncultured bacterium","Zotu14170",5.375
+"Zotu14179","Zotu14179","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Gallionellaceae","Sideroxydans","uncultured bacterium","Zotu14179",19
+"Zotu142","Zotu142","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Bradyrhizobiaceae","Bosea",NA,"Zotu142",22.3333333333333
+"Zotu1423","Zotu1423","Bacteria","Proteobacteria","Deltaproteobacteria","GR-WP33-30","uncultured bacterium",NA,NA,"Zotu1423",13
+"Zotu1427","Zotu1427","Bacteria","Proteobacteria","Deltaproteobacteria","Sh765B-TzT-29","uncultured bacterium",NA,NA,"Zotu1427",9.79166666666667
+"Zotu14275","Zotu14275","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured",NA,"Zotu14275",6.29166666666667
+"Zotu1435","Zotu1435","Bacteria","Actinobacteria","Actinobacteria","PeM15","uncultured bacterium",NA,NA,"Zotu1435",12.2916666666667
+"Zotu1437","Zotu1437","Bacteria","Proteobacteria","Betaproteobacteria","TRA3-20","uncultured beta proteobacterium",NA,NA,"Zotu1437",10.5833333333333
+"Zotu144","Zotu144","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","Denitratisoma","uncultured bacterium","Zotu144",41.2083333333333
+"Zotu1440","Zotu1440","Bacteria","Latescibacteria","uncultured bacterium",NA,NA,NA,NA,"Zotu1440",10.5833333333333
+"Zotu1442","Zotu1442","Bacteria","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","Gemmatimonas","uncultured Gemmatimonadales bacterium","Zotu1442",9.625
+"Zotu1447","Zotu1447","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfobacterales","Desulfobacteraceae","Sva0081 sediment group","uncultured bacterium","Zotu1447",11.75
+"Zotu1449","Zotu1449","Bacteria","Verrucomicrobia","OPB35 soil group","uncultured bacterium",NA,NA,NA,"Zotu1449",9.20833333333333
+"Zotu145","Zotu145","Bacteria","Chlorobi","Chlorobia","Chlorobiales","SJA-28","uncultured bacterium",NA,"Zotu145",124.958333333333
+"Zotu1451","Zotu1451","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","Denitratisoma","uncultured bacterium","Zotu1451",5.875
+"Zotu1455","Zotu1455","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Gallionellaceae","Sideroxydans","uncultured bacterium","Zotu1455",14.0416666666667
+"Zotu1456","Zotu1456","Bacteria","Proteobacteria","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Woodsholea","uncultured bacterium","Zotu1456",10.125
+"Zotu1459","Zotu1459","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","mle1-27","uncultured delta proteobacterium",NA,"Zotu1459",12.0416666666667
+"Zotu14612","Zotu14612","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Rhizobiaceae","Shinella","uncultured bacterium","Zotu14612",21.5
+"Zotu1463","Zotu1463","Bacteria","Verrucomicrobia","OPB35 soil group","uncultured bacterium",NA,NA,NA,"Zotu1463",9.91666666666667
+"Zotu1464","Zotu1464","Bacteria","Proteobacteria","Deltaproteobacteria","Deltaproteobacteria Incertae Sedis","Syntrophorhabdaceae","Syntrophorhabdus","uncultured bacterium","Zotu1464",10.8333333333333
+"Zotu14682","Zotu14682","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae",NA,NA,"Zotu14682",67.5416666666667
+"Zotu147","Zotu147","Bacteria","Actinobacteria","Actinobacteria","Micrococcales","Micrococcaceae","Arthrobacter","uncultured bacterium","Zotu147",39.9583333333333
+"Zotu1474","Zotu1474","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Polyangiaceae","Sorangium",NA,"Zotu1474",14.0833333333333
+"Zotu1475","Zotu1475","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Polyangiaceae",NA,NA,"Zotu1475",5.5
+"Zotu1478","Zotu1478","Bacteria","Bacteroidetes","Bacteroidetes BD2-2","uncultured organism",NA,NA,NA,"Zotu1478",5.79166666666667
+"Zotu1479","Zotu1479","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Cystobacteraceae","Anaeromyxobacter","uncultured bacterium","Zotu1479",9.66666666666667
+"Zotu1483","Zotu1483","Bacteria","Chloroflexi","Chloroflexia","Chloroflexales","Roseiflexaceae","Roseiflexus","uncultured bacterium","Zotu1483",9
+"Zotu1484","Zotu1484","Bacteria","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Novosphingobium","uncultured bacterium","Zotu1484",17.0833333333333
+"Zotu1485","Zotu1485","Bacteria","Bacteroidetes","Bacteroidetes vadinHA17","uncultured bacterium",NA,NA,NA,"Zotu1485",6.625
+"Zotu1486","Zotu1486","Bacteria","Proteobacteria","Betaproteobacteria","SC-I-84","uncultured bacterium",NA,NA,"Zotu1486",10.75
+"Zotu1487","Zotu1487","Bacteria","Proteobacteria","Gammaproteobacteria",NA,NA,NA,NA,"Zotu1487",11.25
+"Zotu1488","Zotu1488","Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Coriobacteriaceae","uncultured","uncultured soil bacterium","Zotu1488",10.2083333333333
+"Zotu149","Zotu149","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales",NA,NA,NA,"Zotu149",120.208333333333
+"Zotu14902","Zotu14902","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae",NA,NA,"Zotu14902",7.91666666666667
+"Zotu1494","Zotu1494","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter",NA,"Zotu1494",9.54166666666667
+"Zotu1495","Zotu1495","Bacteria","Proteobacteria","Gammaproteobacteria","Order Incertae Sedis","Family Incertae Sedis","Marinicella","uncultured gamma proteobacterium","Zotu1495",10.125
+"Zotu14976","Zotu14976","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","4-29","uncultured bacterium",NA,"Zotu14976",8.83333333333333
+"Zotu15","Zotu15","Bacteria","Bacteroidetes","SB-5","uncultured bacterium",NA,NA,NA,"Zotu15",97.625
+"Zotu150","Zotu150","Bacteria","Bacteroidetes","Bacteroidetes vadinHA17","uncultured bacterium",NA,NA,NA,"Zotu150",110
+"Zotu1508","Zotu1508","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Gallionellaceae","Sideroxydans","uncultured bacterium","Zotu1508",11.9583333333333
+"Zotu1509","Zotu1509","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","4-29","uncultured bacterium",NA,"Zotu1509",11.8333333333333
+"Zotu1515","Zotu1515","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu1515",8.54166666666667
+"Zotu1519","Zotu1519","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales",NA,NA,NA,"Zotu1519",7.95833333333333
+"Zotu152","Zotu152","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Vulgatibacteraceae","Vulgatibacter","uncultured compost bacterium","Zotu152",5.25
+"Zotu1524","Zotu1524","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","pLW-20","uncultured bacterium",NA,"Zotu1524",6.29166666666667
+"Zotu1525","Zotu1525","Bacteria","Proteobacteria","Deltaproteobacteria","Sva0485","uncultured bacterium",NA,NA,"Zotu1525",14.25
+"Zotu1527","Zotu1527","Bacteria","Actinobacteria","Actinobacteria","Frankiales","Geodermatophilaceae","uncultured","uncultured bacterium","Zotu1527",14.4166666666667
+"Zotu1528","Zotu1528","Bacteria","Proteobacteria","Deltaproteobacteria","Oligoflexales","uncultured bacterium",NA,NA,"Zotu1528",7.91666666666667
+"Zotu1530","Zotu1530","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 8","uncultured bacterium","Zotu1530",8.625
+"Zotu1531","Zotu1531","Bacteria","Chloroflexi",NA,NA,NA,NA,NA,"Zotu1531",12.2916666666667
+"Zotu1535","Zotu1535","Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Roseomonas","uncultured bacterium","Zotu1535",11.5833333333333
+"Zotu1537","Zotu1537","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured",NA,"Zotu1537",10.7083333333333
+"Zotu15376","Zotu15376","Bacteria","Actinobacteria","Actinobacteria","Micromonosporales","Micromonosporaceae","Luedemannella","uncultured bacterium","Zotu15376",10.1666666666667
+"Zotu15394","Zotu15394","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Cystobacteraceae","Anaeromyxobacter","uncultured bacterium","Zotu15394",5.83333333333333
+"Zotu15453","Zotu15453","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae",NA,NA,"Zotu15453",8.45833333333333
+"Zotu1549","Zotu1549","Bacteria","Actinobacteria","Actinobacteria","Streptosporangiales","Thermomonosporaceae",NA,NA,"Zotu1549",32.5833333333333
+"Zotu1552","Zotu1552","Bacteria","Lentisphaerae","Oligosphaeria","Oligosphaerales","uncultured organism",NA,NA,"Zotu1552",6.5
+"Zotu1554","Zotu1554","Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","Fastidiosipila","uncultured bacterium","Zotu1554",10.7083333333333
+"Zotu1555","Zotu1555","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Bradyrhizobiaceae","Bradyrhizobium","uncultured bacterium","Zotu1555",9.875
+"Zotu15573","Zotu15573","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Gallionellaceae","Sideroxydans",NA,"Zotu15573",8.79166666666667
+"Zotu1559","Zotu1559","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Cystobacteraceae","Anaeromyxobacter","uncultured bacterium","Zotu1559",11.5833333333333
+"Zotu1562","Zotu1562","Bacteria","Acidobacteria","Acidobacteria","Subgroup 3","Unknown Family","Candidatus Solibacter","uncultured bacterium","Zotu1562",10.75
+"Zotu1575","Zotu1575","Bacteria","Proteobacteria","Deltaproteobacteria","Sh765B-TzT-29","uncultured bacterium",NA,NA,"Zotu1575",10.4166666666667
+"Zotu15758","Zotu15758","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","4-29","uncultured bacterium",NA,"Zotu15758",9.33333333333333
+"Zotu1585","Zotu1585","Bacteria","Proteobacteria","Betaproteobacteria","SC-I-84",NA,NA,NA,"Zotu1585",10.0833333333333
+"Zotu1588","Zotu1588","Bacteria","Verrucomicrobia","OPB35 soil group","uncultured bacterium",NA,NA,NA,"Zotu1588",9.41666666666667
+"Zotu1589","Zotu1589","Bacteria","Chlorobi","Chlorobia","Chlorobiales","SJA-28","uncultured bacterium",NA,"Zotu1589",9.95833333333333
+"Zotu1596","Zotu1596","Bacteria","Acidobacteria","Holophagae","TPD-58",NA,NA,NA,"Zotu1596",10.7083333333333
+"Zotu16","Zotu16","Bacteria","Fibrobacteres","Fibrobacteria","Fibrobacterales","possible family 01","uncultured microorganism",NA,"Zotu16",153.208333333333
+"Zotu160","Zotu160","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 1","uncultured bacterium","Zotu160",12.0833333333333
+"Zotu1604","Zotu1604","Bacteria","Proteobacteria","Deltaproteobacteria","Syntrophobacterales","Syntrophaceae","Desulfobacca","uncultured bacterium","Zotu1604",10.5416666666667
+"Zotu16045","Zotu16045","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Gallionellaceae","Ferriphaselus","uncultured bacterium","Zotu16045",17.9583333333333
+"Zotu1609","Zotu1609","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Polyangiaceae","Sorangium","uncultured bacterium","Zotu1609",9.54166666666667
+"Zotu161","Zotu161","Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales",NA,NA,NA,"Zotu161",116.375
+"Zotu1611","Zotu1611","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Xanthobacteraceae",NA,NA,"Zotu1611",11.5833333333333
+"Zotu16155","Zotu16155","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","P3OB-42",NA,NA,"Zotu16155",8.70833333333333
+"Zotu16172","Zotu16172","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales",NA,NA,NA,"Zotu16172",12.125
+"Zotu16255","Zotu16255","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Haliangiaceae","Haliangium",NA,"Zotu16255",4.91666666666667
+"Zotu1628","Zotu1628","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","Methylococcaceae","Methylocaldum","uncultured bacterium","Zotu1628",17.5416666666667
+"Zotu16324","Zotu16324","Bacteria","Bacteroidetes","Bacteroidetes vadinHA17",NA,NA,NA,NA,"Zotu16324",7.5
+"Zotu16462","Zotu16462","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured","uncultured bacterium","Zotu16462",8.08333333333333
+"Zotu1647","Zotu1647","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","uncultured",NA,"Zotu1647",9.04166666666667
+"Zotu16478","Zotu16478","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae",NA,NA,"Zotu16478",7.91666666666667
+"Zotu16487","Zotu16487","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","4-29","uncultured bacterium",NA,"Zotu16487",5.54166666666667
+"Zotu165","Zotu165","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","uncultured","uncultured bacterium","Zotu165",46.2916666666667
+"Zotu1652","Zotu1652","Bacteria","Actinobacteria","Thermoleophilia","Gaiellales","uncultured",NA,NA,"Zotu1652",9.70833333333333
+"Zotu1659","Zotu1659","Bacteria","Verrucomicrobia","OPB35 soil group","uncultured bacterium",NA,NA,NA,"Zotu1659",12.7916666666667
+"Zotu166","Zotu166","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Alcaligenaceae","uncultured","uncultured bacterium","Zotu166",125.208333333333
+"Zotu16601","Zotu16601","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Cystobacteraceae",NA,NA,"Zotu16601",5.79166666666667
+"Zotu16602","Zotu16602","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","P3OB-42",NA,NA,"Zotu16602",4.91666666666667
+"Zotu16605","Zotu16605","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Gallionellaceae","Sideroxydans","uncultured bacterium","Zotu16605",8.20833333333333
+"Zotu16621","Zotu16621","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","uncultured","uncultured bacterium","Zotu16621",53.125
+"Zotu1663","Zotu1663","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales",NA,NA,NA,"Zotu1663",12.5
+"Zotu16645","Zotu16645","Bacteria","Proteobacteria","Alphaproteobacteria","Caulobacterales","Caulobacteraceae","uncultured",NA,"Zotu16645",10.0416666666667
+"Zotu167","Zotu167","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu167",90.875
+"Zotu1671","Zotu1671","Bacteria","Verrucomicrobia","OPB35 soil group","uncultured bacterium",NA,NA,NA,"Zotu1671",9.95833333333333
+"Zotu16799","Zotu16799","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured","uncultured bacterium","Zotu16799",14.875
+"Zotu168","Zotu168","Bacteria","Proteobacteria","Betaproteobacteria","Methylophilales","Methylophilaceae",NA,NA,"Zotu168",122
+"Zotu1682","Zotu1682","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Xanthobacteraceae","Pseudolabrys","uncultured bacterium","Zotu1682",10.25
+"Zotu1683","Zotu1683","Bacteria","Proteobacteria","Betaproteobacteria","TRA3-20","uncultured beta proteobacterium",NA,NA,"Zotu1683",17.5
+"Zotu1685","Zotu1685","Bacteria","Acidobacteria","Holophagae","Subgroup 23",NA,NA,NA,"Zotu1685",8.625
+"Zotu169","Zotu169","Bacteria","Spirochaetae","Spirochaetes","Spirochaetales","Spirochaetaceae","uncultured","uncultured bacterium","Zotu169",21.0416666666667
+"Zotu1691","Zotu1691","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","Methylococcaceae","Methylobacter",NA,"Zotu1691",7.08333333333333
+"Zotu1692","Zotu1692","Bacteria","Spirochaetae","Spirochaetes","Spirochaetales","Spirochaetaceae","Treponema 2","uncultured bacterium","Zotu1692",7.75
+"Zotu1695","Zotu1695","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Cystobacteraceae",NA,NA,"Zotu1695",8.70833333333333
+"Zotu1696","Zotu1696","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Alcaligenaceae","uncultured","uncultured bacterium","Zotu1696",7.04166666666667
+"Zotu1698","Zotu1698","Bacteria","Acidobacteria","Acidobacteria","Subgroup 3","Unknown Family","Bryobacter","uncultured bacterium","Zotu1698",8.125
+"Zotu16987","Zotu16987","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","4-29","uncultured bacterium",NA,"Zotu16987",5.41666666666667
+"Zotu1700","Zotu1700","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales",NA,NA,NA,"Zotu1700",5.25
+"Zotu1706","Zotu1706","Bacteria","Proteobacteria","Betaproteobacteria","SC-I-84","uncultured bacterium",NA,NA,"Zotu1706",9.41666666666667
+"Zotu1707","Zotu1707","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","Methylococcaceae","Methylocaldum","uncultured bacterium","Zotu1707",8.79166666666667
+"Zotu1708","Zotu1708","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae",NA,NA,"Zotu1708",4.66666666666667
+"Zotu1729","Zotu1729","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured","uncultured beta proteobacterium","Zotu1729",10.0833333333333
+"Zotu173","Zotu173","Bacteria","Bacteroidetes","SB-5","uncultured bacterium",NA,NA,NA,"Zotu173",50.5416666666667
+"Zotu1734","Zotu1734","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured",NA,"Zotu1734",8.375
+"Zotu1737","Zotu1737","Bacteria","Acidobacteria","Subgroup 22","uncultured bacterium",NA,NA,NA,"Zotu1737",9.375
+"Zotu174","Zotu174","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","uncultured",NA,"Zotu174",10.2083333333333
+"Zotu1748","Zotu1748","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Oxalobacteraceae","Undibacterium",NA,"Zotu1748",10.5833333333333
+"Zotu1749","Zotu1749","Bacteria","Chloroflexi","Chloroflexia","Chloroflexales","Chloroflexaceae","Chloronema",NA,"Zotu1749",8.04166666666667
+"Zotu17509","Zotu17509","Bacteria","Actinobacteria","Thermoleophilia","Gaiellales","uncultured","uncultured bacterium",NA,"Zotu17509",8.875
+"Zotu1756","Zotu1756","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales",NA,NA,NA,"Zotu1756",9.04166666666667
+"Zotu1762","Zotu1762","Bacteria","Actinobacteria","Actinobacteria","Micrococcales","Intrasporangiaceae","Terrabacter","uncultured bacterium","Zotu1762",9
+"Zotu1769","Zotu1769","Bacteria","Proteobacteria","Betaproteobacteria","TRA3-20","uncultured bacterium",NA,NA,"Zotu1769",13.0416666666667
+"Zotu177","Zotu177","Bacteria","Firmicutes","Clostridia","Clostridiales","Peptostreptococcaceae",NA,NA,"Zotu177",43.5416666666667
+"Zotu1770","Zotu1770","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 12","uncultured bacterium","Zotu1770",19.7083333333333
+"Zotu1778","Zotu1778","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured","uncultured bacterium","Zotu1778",11.5833333333333
+"Zotu1779","Zotu1779","Bacteria","Verrucomicrobia","OPB35 soil group",NA,NA,NA,NA,"Zotu1779",10.125
+"Zotu178","Zotu178","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","4-29","uncultured bacterium",NA,"Zotu178",88.1666666666667
+"Zotu1786","Zotu1786","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","Methylococcaceae","Methylocaldum","uncultured bacterium","Zotu1786",6.95833333333333
+"Zotu1787","Zotu1787","Bacteria","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadales Incertae Sedis","uncultured",NA,"Zotu1787",10.375
+"Zotu1788","Zotu1788","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae",NA,NA,"Zotu1788",11.0833333333333
+"Zotu1792","Zotu1792","Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Coriobacteriaceae","uncultured","uncultured actinobacterium","Zotu1792",9.41666666666667
+"Zotu1795","Zotu1795","Bacteria","TA06","uncultured bacterium",NA,NA,NA,NA,"Zotu1795",13.7916666666667
+"Zotu1800","Zotu1800","Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Roseomonas",NA,"Zotu1800",9.91666666666667
+"Zotu1807","Zotu1807","Bacteria","Actinobacteria","Thermoleophilia","Gaiellales","uncultured",NA,NA,"Zotu1807",9.08333333333333
+"Zotu1809","Zotu1809","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Ramlibacter",NA,"Zotu1809",10
+"Zotu181","Zotu181","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","P3OB-42","uncultured bacterium",NA,"Zotu181",49.3333333333333
+"Zotu1810","Zotu1810","Bacteria","Proteobacteria","Deltaproteobacteria","GR-WP33-30",NA,NA,NA,"Zotu1810",8.375
+"Zotu182","Zotu182","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter","uncultured bacterium","Zotu182",53.5
+"Zotu1821","Zotu1821","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","Methylococcaceae","Methylocaldum","uncultured bacterium","Zotu1821",12.9166666666667
+"Zotu1836","Zotu1836","Bacteria","Verrucomicrobia","OPB35 soil group","uncultured bacterium",NA,NA,NA,"Zotu1836",8.45833333333333
+"Zotu184","Zotu184","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae",NA,NA,"Zotu184",38.2916666666667
+"Zotu1842","Zotu1842","Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Coriobacteriaceae","uncultured",NA,"Zotu1842",9.29166666666667
+"Zotu185","Zotu185","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Cystobacteraceae","Anaeromyxobacter","uncultured bacterium","Zotu185",60.375
+"Zotu1869","Zotu1869","Bacteria","Acidobacteria","Acidobacteria","Subgroup 3","AMGG11",NA,NA,"Zotu1869",11.9166666666667
+"Zotu187","Zotu187","Bacteria","Bacteroidetes","Bacteroidetes BD2-2","uncultured bacterium",NA,NA,NA,"Zotu187",20.7916666666667
+"Zotu1874","Zotu1874","Bacteria","Bacteroidetes","Cytophagia","Cytophagales","Cytophagaceae","uncultured","uncultured bacterium","Zotu1874",6.875
+"Zotu1876","Zotu1876","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales",NA,NA,NA,"Zotu1876",8.75
+"Zotu1879","Zotu1879","Bacteria","Proteobacteria","Deltaproteobacteria","Bdellovibrionales","Bacteriovoracaceae","uncultured","uncultured organism","Zotu1879",8.58333333333333
+"Zotu1887","Zotu1887","Bacteria","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas","uncultured bacterium","Zotu1887",8.20833333333333
+"Zotu1889","Zotu1889","Bacteria","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Novosphingobium",NA,"Zotu1889",12
+"Zotu1899","Zotu1899","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Beijerinckiaceae","uncultured","uncultured bacterium","Zotu1899",7.04166666666667
+"Zotu19","Zotu19","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae",NA,NA,"Zotu19",263.5
+"Zotu190","Zotu190","Bacteria","Spirochaetae","Spirochaetes","Spirochaetales","Leptospiraceae","uncultured","uncultured organism","Zotu190",9.25
+"Zotu191","Zotu191","Bacteria","Actinobacteria","Actinobacteria","Kineosporiales","Kineosporiaceae",NA,NA,"Zotu191",38.8333333333333
+"Zotu1914","Zotu1914","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales",NA,NA,NA,"Zotu1914",10.9583333333333
+"Zotu1920","Zotu1920","Bacteria","Lentisphaerae","WCHB1-41",NA,NA,NA,NA,"Zotu1920",8.54166666666667
+"Zotu1926","Zotu1926","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured",NA,"Zotu1926",10.75
+"Zotu193","Zotu193","Bacteria","Bacteroidetes","Bacteroidia","Bacteroidia Incertae Sedis","Prolixibacteraceae","Prolixibacter","uncultured bacterium","Zotu193",16.2916666666667
+"Zotu1934","Zotu1934","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","Methylococcaceae","Methylocaldum","uncultured bacterium","Zotu1934",7.375
+"Zotu194","Zotu194","Bacteria","Bacteroidetes","Bacteroidetes vadinHA17","uncultured bacterium",NA,NA,NA,"Zotu194",122.375
+"Zotu1945","Zotu1945","Bacteria","Acidobacteria","Acidobacteria","Subgroup 3","Unknown Family","Bryobacter","uncultured bacterium","Zotu1945",8
+"Zotu1949","Zotu1949","Bacteria","Acidobacteria","Subgroup 22","uncultured bacterium",NA,NA,NA,"Zotu1949",8.16666666666667
+"Zotu195","Zotu195","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Polyangiaceae","Byssovorax","uncultured bacterium","Zotu195",43.9166666666667
+"Zotu196","Zotu196","Bacteria","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae",NA,NA,"Zotu196",93.9583333333333
+"Zotu1979","Zotu1979","Bacteria","Actinobacteria","Thermoleophilia","Gaiellales",NA,NA,NA,"Zotu1979",8.625
+"Zotu1992","Zotu1992","Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","uncultured","uncultured bacterium","Zotu1992",17.75
+"Zotu2","Zotu2","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","P3OB-42",NA,NA,"Zotu2",607.166666666667
+"Zotu200","Zotu200","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","uncultured",NA,"Zotu200",36.2916666666667
+"Zotu2014","Zotu2014","Bacteria","Proteobacteria","Deltaproteobacteria","Sva0485","uncultured bacterium",NA,NA,"Zotu2014",9.58333333333333
+"Zotu2016","Zotu2016","Bacteria","Actinobacteria","Actinobacteria","Micrococcales","Cellulomonadaceae",NA,NA,"Zotu2016",10.5833333333333
+"Zotu203","Zotu203","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured","uncultured bacterium","Zotu203",109.875
+"Zotu2033","Zotu2033","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured","uncultured bacterium","Zotu2033",7.79166666666667
+"Zotu204","Zotu204","Bacteria","Bacteroidetes","Sphingobacteriia","Sphingobacteriales","Saprospiraceae","uncultured","uncultured bacterium","Zotu204",98.3333333333333
+"Zotu2049","Zotu2049","Bacteria","Acidobacteria","Holophagae","Subgroup 7","uncultured bacterium",NA,NA,"Zotu2049",10.1666666666667
+"Zotu2058","Zotu2058","Bacteria","Proteobacteria","Gammaproteobacteria","Xanthomonadales","uncultured",NA,NA,"Zotu2058",9.20833333333333
+"Zotu206","Zotu206","Bacteria","Chloroflexi","JG30-KF-CM66",NA,NA,NA,NA,"Zotu206",97.25
+"Zotu2074","Zotu2074","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu2074",5.91666666666667
+"Zotu208","Zotu208","Bacteria","Bacteroidetes","WCHB1-32","uncultured bacterium",NA,NA,NA,"Zotu208",31.25
+"Zotu209","Zotu209","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured","uncultured bacterium","Zotu209",19.9583333333333
+"Zotu2095","Zotu2095","Bacteria","Acidobacteria","Holophagae","Subgroup 10","ABS-19","uncultured bacterium",NA,"Zotu2095",8.91666666666667
+"Zotu21","Zotu21","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Gallionellaceae","Sideroxydans",NA,"Zotu21",272.708333333333
+"Zotu211","Zotu211","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Xanthobacteraceae","Variibacter","uncultured bacterium","Zotu211",87.25
+"Zotu2121","Zotu2121","Bacteria","Proteobacteria","Deltaproteobacteria","Bdellovibrionales","Bdellovibrionaceae","Bdellovibrio",NA,"Zotu2121",8.83333333333333
+"Zotu213","Zotu213","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured",NA,"Zotu213",62.2916666666667
+"Zotu2133","Zotu2133","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Gallionellaceae","uncultured","uncultured beta proteobacterium","Zotu2133",12.0416666666667
+"Zotu2135","Zotu2135","Bacteria","Bacteroidetes","Bacteroidetes vadinHA17","uncultured bacterium",NA,NA,NA,"Zotu2135",34.5833333333333
+"Zotu2136","Zotu2136","Bacteria","Proteobacteria","Deltaproteobacteria","Sva0485","uncultured bacterium",NA,NA,"Zotu2136",32.3333333333333
+"Zotu2143","Zotu2143","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Gallionellaceae",NA,NA,"Zotu2143",12.3333333333333
+"Zotu2157","Zotu2157","Bacteria","Actinobacteria","Actinobacteria","Propionibacteriales","Nocardioidaceae","Nocardioides","uncultured bacterium","Zotu2157",15
+"Zotu216","Zotu216","Bacteria","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas","uncultured bacterium","Zotu216",106.291666666667
+"Zotu217","Zotu217","Bacteria","Chloroflexi","S085","uncultured bacterium",NA,NA,NA,"Zotu217",97.3333333333333
+"Zotu2176","Zotu2176","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","Denitratisoma",NA,"Zotu2176",17.3333333333333
+"Zotu2186","Zotu2186","Bacteria","Chlorobi","Chlorobia","Chlorobiales","OPB56","uncultured bacterium",NA,"Zotu2186",7.75
+"Zotu219","Zotu219","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter",NA,"Zotu219",80.5
+"Zotu22","Zotu22","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Paucibacter",NA,"Zotu22",308.375
+"Zotu221","Zotu221","Bacteria","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadales Incertae Sedis",NA,NA,"Zotu221",118.25
+"Zotu222","Zotu222","Bacteria","Verrucomicrobia","OPB35 soil group","uncultured bacterium",NA,NA,NA,"Zotu222",75.3333333333333
+"Zotu2221","Zotu2221","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","Sulfuritalea","uncultured bacterium","Zotu2221",13.5833333333333
+"Zotu2224","Zotu2224","Bacteria","Proteobacteria","Betaproteobacteria","SC-I-84",NA,NA,NA,"Zotu2224",12.4583333333333
+"Zotu223","Zotu223","Bacteria","Proteobacteria","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Woodsholea","uncultured bacterium","Zotu223",73.4166666666667
+"Zotu2230","Zotu2230","Bacteria","Bacteroidetes","Bacteroidetes vadinHA17","uncultured bacterium",NA,NA,NA,"Zotu2230",21
+"Zotu2232","Zotu2232","Bacteria","Proteobacteria","Gammaproteobacteria","Xanthomonadales","uncultured","uncultured bacterium",NA,"Zotu2232",6.16666666666667
+"Zotu2259","Zotu2259","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Gallionellaceae","uncultured",NA,"Zotu2259",31.6666666666667
+"Zotu2260","Zotu2260","Bacteria","Proteobacteria","Gammaproteobacteria","Chromatiales","Ectothiorhodospiraceae","Spiribacter",NA,"Zotu2260",4.375
+"Zotu2266","Zotu2266","Bacteria","Verrucomicrobia","OPB35 soil group","uncultured bacterium",NA,NA,NA,"Zotu2266",7.45833333333333
+"Zotu228","Zotu228","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","4-29","uncultured bacterium",NA,"Zotu228",75.9583333333333
+"Zotu229","Zotu229","Bacteria","Proteobacteria","Gammaproteobacteria","KI89A clade","uncultured bacterium",NA,NA,"Zotu229",77.25
+"Zotu23","Zotu23","Bacteria","Firmicutes","Bacilli","Bacillales","Paenibacillaceae","Paenibacillus","uncultured bacterium","Zotu23",82.0416666666667
+"Zotu2304","Zotu2304","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Gallionellaceae","uncultured","uncultured beta proteobacterium","Zotu2304",6.58333333333333
+"Zotu232","Zotu232","Bacteria","Proteobacteria","Gammaproteobacteria","Aeromonadales","Aeromonadaceae","Aeromonas",NA,"Zotu232",10.5833333333333
+"Zotu233","Zotu233","Bacteria","Chlorobi","Ignavibacteria","Ignavibacteriales","BSV26",NA,NA,"Zotu233",79.1666666666667
+"Zotu237","Zotu237","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 12","uncultured bacterium","Zotu237",12.0416666666667
+"Zotu238","Zotu238","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","BVA59","uncultured bacterium",NA,"Zotu238",59.5416666666667
+"Zotu239","Zotu239","Bacteria","Proteobacteria","Gammaproteobacteria",NA,NA,NA,NA,"Zotu239",31.5
+"Zotu24","Zotu24","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae",NA,NA,"Zotu24",68.9583333333333
+"Zotu240","Zotu240","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Alcaligenaceae","uncultured","uncultured soil bacterium","Zotu240",91.75
+"Zotu241","Zotu241","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 1","uncultured bacterium","Zotu241",29.875
+"Zotu242","Zotu242","Bacteria","TA06","uncultured organism",NA,NA,NA,NA,"Zotu242",63.625
+"Zotu2436","Zotu2436","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales",NA,NA,NA,"Zotu2436",8.20833333333333
+"Zotu2439","Zotu2439","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Gallionellaceae",NA,NA,"Zotu2439",5.91666666666667
+"Zotu244","Zotu244","Bacteria","Actinobacteria","Actinobacteria","Micrococcales","Intrasporangiaceae","Intrasporangium",NA,"Zotu244",43.9583333333333
+"Zotu2460","Zotu2460","Bacteria","Proteobacteria","Gammaproteobacteria",NA,NA,NA,NA,"Zotu2460",6.79166666666667
+"Zotu248","Zotu248","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu248",47.4583333333333
+"Zotu250","Zotu250","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Methylocystaceae","Methylocystis",NA,"Zotu250",35.0416666666667
+"Zotu251","Zotu251","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales",NA,NA,NA,"Zotu251",87.6666666666667
+"Zotu252","Zotu252","Bacteria","Chlorobi","Ignavibacteria","Ignavibacteriales","BSV26",NA,NA,"Zotu252",72.2083333333333
+"Zotu253","Zotu253","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 1","uncultured bacterium","Zotu253",71.0416666666667
+"Zotu2548","Zotu2548","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacteriales","Enterobacteriaceae","Pantoea","uncultured bacterium","Zotu2548",127.375
+"Zotu255","Zotu255","Bacteria","Spirochaetae","Spirochaetes","Spirochaetales","Spirochaetaceae","Spirochaeta 2","uncultured bacterium","Zotu255",74.2916666666667
+"Zotu256","Zotu256","Bacteria","Chloroflexi","uncultured","uncultured bacterium",NA,NA,NA,"Zotu256",60.1666666666667
+"Zotu257","Zotu257","Bacteria","Proteobacteria","Alphaproteobacteria","Sphingomonadales",NA,NA,NA,"Zotu257",125.5
+"Zotu2589","Zotu2589","Bacteria","Bacteroidetes","Bacteroidetes vadinHA17",NA,NA,NA,NA,"Zotu2589",6
+"Zotu259","Zotu259","Bacteria","Actinobacteria","Actinobacteria","Micrococcales","Intrasporangiaceae",NA,NA,"Zotu259",58.875
+"Zotu26","Zotu26","Bacteria","Proteobacteria","Gammaproteobacteria","Chromatiales","Ectothiorhodospiraceae","Thioalkalispira","uncultured bacterium","Zotu26",494.708333333333
+"Zotu260","Zotu260","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured",NA,"Zotu260",87.2916666666667
+"Zotu2600","Zotu2600","Bacteria","Bacteroidetes","Bacteroidetes vadinHA17","uncultured Bacteroidales bacterium",NA,NA,NA,"Zotu2600",5.20833333333333
+"Zotu261","Zotu261","Bacteria","Proteobacteria","Betaproteobacteria","Hot Creek 32","uncultured bacterium",NA,NA,"Zotu261",68.7916666666667
+"Zotu263","Zotu263","Bacteria","Actinobacteria","Actinobacteria","Micrococcales","Micrococcaceae","Arthrobacter",NA,"Zotu263",29.2916666666667
+"Zotu265","Zotu265","Bacteria","Proteobacteria","Deltaproteobacteria","43F-1404R","uncultured Syntrophaceae bacterium",NA,NA,"Zotu265",55.375
+"Zotu2653","Zotu2653","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","Sulfuritalea",NA,"Zotu2653",9
+"Zotu27","Zotu27","Bacteria","Spirochaetae","Spirochaetes","Spirochaetales","Spirochaetaceae","Treponema",NA,"Zotu27",39.9166666666667
+"Zotu270","Zotu270","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter",NA,"Zotu270",53.5
+"Zotu271","Zotu271","Bacteria","Proteobacteria","Deltaproteobacteria","43F-1404R","uncultured delta proteobacterium",NA,NA,"Zotu271",68.125
+"Zotu272","Zotu272","Bacteria","Verrucomicrobia","OPB35 soil group",NA,NA,NA,NA,"Zotu272",78.0833333333333
+"Zotu273","Zotu273","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured","uncultured bacterium","Zotu273",40.5833333333333
+"Zotu2748","Zotu2748","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae",NA,NA,"Zotu2748",4.91666666666667
+"Zotu275","Zotu275","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured",NA,"Zotu275",50.4166666666667
+"Zotu276","Zotu276","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 1","uncultured bacterium","Zotu276",46.9166666666667
+"Zotu2768","Zotu2768","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured",NA,"Zotu2768",12.375
+"Zotu2774","Zotu2774","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae",NA,NA,"Zotu2774",6.70833333333333
+"Zotu278","Zotu278","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Oxalobacteraceae","Massilia","uncultured bacterium","Zotu278",8.125
+"Zotu279","Zotu279","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter",NA,"Zotu279",36.125
+"Zotu28","Zotu28","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae",NA,NA,"Zotu28",147.875
+"Zotu281","Zotu281","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu281",61.9583333333333
+"Zotu282","Zotu282","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured","uncultured bacterium","Zotu282",80.75
+"Zotu283","Zotu283","Bacteria","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured","uncultured bacterium","Zotu283",57.5
+"Zotu285","Zotu285","Bacteria","Proteobacteria","Betaproteobacteria","Methylophilales","Methylophilaceae","uncultured","uncultured bacterium","Zotu285",88
+"Zotu288","Zotu288","Bacteria","Proteobacteria","Deltaproteobacteria","Syntrophobacterales","Syntrophaceae","Desulfobacca","uncultured bacterium","Zotu288",65.4166666666667
+"Zotu2888","Zotu2888","Bacteria","Bacteroidetes","Bacteroidetes vadinHA17","uncultured Bacteroidetes bacterium",NA,NA,NA,"Zotu2888",8.70833333333333
+"Zotu289","Zotu289","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","uncultured","uncultured bacterium","Zotu289",46.7083333333333
+"Zotu29","Zotu29","Bacteria","Bacteroidetes","WCHB1-32","uncultured bacterium",NA,NA,NA,"Zotu29",158.791666666667
+"Zotu290","Zotu290","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Cystobacteraceae","Anaeromyxobacter","uncultured bacterium","Zotu290",22.4166666666667
+"Zotu291","Zotu291","Bacteria","Bacteroidetes","Bacteroidia","Bacteroidia Incertae Sedis","Draconibacteriaceae","uncultured",NA,"Zotu291",49.9583333333333
+"Zotu292","Zotu292","Bacteria","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","Gemmatimonas",NA,"Zotu292",63.8333333333333
+"Zotu297","Zotu297","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter","uncultured bacterium","Zotu297",34.3333333333333
+"Zotu3","Zotu3","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Gallionellaceae","Sideroxydans",NA,"Zotu3",1596.5
+"Zotu30","Zotu30","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Cystobacteraceae","Anaeromyxobacter","uncultured bacterium","Zotu30",50.75
+"Zotu300","Zotu300","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Xanthobacteraceae","uncultured","uncultured Hyphomicrobiaceae bacterium","Zotu300",59.375
+"Zotu303","Zotu303","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu303",50.0833333333333
+"Zotu304","Zotu304","Bacteria","Spirochaetae","Spirochaetes","Spirochaetales","Spirochaetaceae","Spirochaeta 2",NA,"Zotu304",15.1666666666667
+"Zotu305","Zotu305","Bacteria","Proteobacteria","Betaproteobacteria","SC-I-84","uncultured bacterium",NA,NA,"Zotu305",67.5
+"Zotu3061","Zotu3061","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae",NA,NA,"Zotu3061",5.70833333333333
+"Zotu307","Zotu307","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 12","uncultured bacterium","Zotu307",64.9166666666667
+"Zotu312","Zotu312","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae",NA,NA,"Zotu312",40.5
+"Zotu315","Zotu315","Bacteria","Bacteroidetes","Bacteroidetes BD2-2","uncultured bacterium",NA,NA,NA,"Zotu315",18.75
+"Zotu316","Zotu316","Bacteria","Aminicenantes","uncultured microorganism",NA,NA,NA,NA,"Zotu316",44.125
+"Zotu318","Zotu318","Bacteria","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured","uncultured bacterium","Zotu318",62.5416666666667
+"Zotu32","Zotu32","Bacteria","Proteobacteria","Deltaproteobacteria","43F-1404R","uncultured bacterium",NA,NA,"Zotu32",408
+"Zotu322","Zotu322","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfobacterales","Nitrospinaceae","uncultured","uncultured bacterium","Zotu322",55.0416666666667
+"Zotu323","Zotu323","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Hyphomicrobiaceae","Hyphomicrobium",NA,"Zotu323",9.66666666666667
+"Zotu325","Zotu325","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Cystobacteraceae","Anaeromyxobacter","uncultured bacterium","Zotu325",10.5
+"Zotu326","Zotu326","Bacteria","Chloroflexi","JG30-KF-CM66",NA,NA,NA,NA,"Zotu326",62.5833333333333
+"Zotu327","Zotu327","Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Porphyromonadaceae","uncultured","uncultured bacterium","Zotu327",6.125
+"Zotu3280","Zotu3280","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Ramlibacter","uncultured bacterium","Zotu3280",5.33333333333333
+"Zotu329","Zotu329","Bacteria","Acidobacteria","Holophagae","Subgroup 7","uncultured bacterium",NA,NA,"Zotu329",48.0833333333333
+"Zotu33","Zotu33","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","uncultured","Musa ABB Group","Zotu33",28.2083333333333
+"Zotu330","Zotu330","Bacteria","Actinobacteria","Actinobacteria","Micrococcales","Microbacteriaceae","Agromyces",NA,"Zotu330",31.9583333333333
+"Zotu331","Zotu331","Bacteria","TA06",NA,NA,NA,NA,NA,"Zotu331",56.0833333333333
+"Zotu332","Zotu332","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu332",46.8333333333333
+"Zotu333","Zotu333","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured","uncultured bacterium","Zotu333",59.2083333333333
+"Zotu334","Zotu334","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter",NA,"Zotu334",38.5833333333333
+"Zotu335","Zotu335","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter",NA,"Zotu335",60.625
+"Zotu336","Zotu336","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 1","uncultured bacterium","Zotu336",51.25
+"Zotu337","Zotu337","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Methylocystaceae","Pleomorphomonas","uncultured bacterium","Zotu337",26.8333333333333
+"Zotu339","Zotu339","Bacteria","Proteobacteria","Deltaproteobacteria","Syntrophobacterales","Syntrophaceae","uncultured","uncultured bacterium","Zotu339",56.625
+"Zotu3406","Zotu3406","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Ramlibacter","uncultured bacterium","Zotu3406",5.08333333333333
+"Zotu341","Zotu341","Bacteria","Bacteroidetes","Bacteroidetes vadinHA17","uncultured bacterium",NA,NA,NA,"Zotu341",16.0833333333333
+"Zotu342","Zotu342","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geothermobacter",NA,"Zotu342",64.2916666666667
+"Zotu343","Zotu343","Bacteria","Bacteroidetes","Bacteroidetes BD2-2","uncultured organism",NA,NA,NA,"Zotu343",29.375
+"Zotu344","Zotu344","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","P3OB-42",NA,NA,"Zotu344",19.0833333333333
+"Zotu3459","Zotu3459","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","Denitratisoma","uncultured bacterium","Zotu3459",6.83333333333333
+"Zotu346","Zotu346","Bacteria","Proteobacteria","Betaproteobacteria","SC-I-84","uncultured bacterium",NA,NA,"Zotu346",49.0833333333333
+"Zotu347","Zotu347","Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Rhodospirillales Incertae Sedis","Reyranella","uncultured bacterium","Zotu347",47.7083333333333
+"Zotu3473","Zotu3473","Bacteria","Actinobacteria","Actinobacteria","Micrococcales","Intrasporangiaceae",NA,NA,"Zotu3473",8.375
+"Zotu349","Zotu349","Bacteria","Proteobacteria","Deltaproteobacteria","Sva0485","uncultured bacterium",NA,NA,"Zotu349",50.4583333333333
+"Zotu35","Zotu35","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Oxalobacteraceae","Massilia",NA,"Zotu35",22.125
+"Zotu350","Zotu350","Bacteria","Chloroflexi","uncultured Bellilinea sp.",NA,NA,NA,NA,"Zotu350",58
+"Zotu351","Zotu351","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 5","uncultured bacterium","Zotu351",35.125
+"Zotu353","Zotu353","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured","uncultured bacterium","Zotu353",67.5833333333333
+"Zotu354","Zotu354","Bacteria","Bacteroidetes","Bacteroidetes vadinHA17","uncultured bacterium",NA,NA,NA,"Zotu354",46.75
+"Zotu36","Zotu36","Bacteria","Spirochaetae","Spirochaetes","Spirochaetales","Leptospiraceae","uncultured",NA,"Zotu36",75.7916666666667
+"Zotu360","Zotu360","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu360",36.5
+"Zotu361","Zotu361","Bacteria","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured","uncultured bacterium","Zotu361",46.125
+"Zotu362","Zotu362","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured","uncultured bacterium","Zotu362",57.2916666666667
+"Zotu364","Zotu364","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Gallionellaceae","Sideroxydans",NA,"Zotu364",38.8333333333333
+"Zotu365","Zotu365","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured",NA,"Zotu365",34.375
+"Zotu366","Zotu366","Bacteria","Proteobacteria","Betaproteobacteria","SC-I-84","uncultured bacterium",NA,NA,"Zotu366",49.9583333333333
+"Zotu3669","Zotu3669","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","Methylococcaceae","Methylocaldum","uncultured bacterium","Zotu3669",15.25
+"Zotu368","Zotu368","Bacteria","Proteobacteria","Gammaproteobacteria","Chromatiales","Ectothiorhodospiraceae","Thioalkalispira","uncultured bacterium","Zotu368",41.5833333333333
+"Zotu369","Zotu369","Bacteria","Acidobacteria","Acidobacteria","Subgroup 21","uncultured bacterium",NA,NA,"Zotu369",45.625
+"Zotu371","Zotu371","Bacteria","Latescibacteria","uncultured bacterium",NA,NA,NA,NA,"Zotu371",43.7083333333333
+"Zotu3722","Zotu3722","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured",NA,"Zotu3722",4.95833333333333
+"Zotu3724","Zotu3724","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae",NA,NA,"Zotu3724",16.7083333333333
+"Zotu373","Zotu373","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,"Zotu373",26.0416666666667
+"Zotu374","Zotu374","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 1","uncultured bacterium","Zotu374",22.375
+"Zotu376","Zotu376","Bacteria","Actinobacteria","Thermoleophilia","Gaiellales","uncultured","uncultured bacterium",NA,"Zotu376",49.7083333333333
+"Zotu377","Zotu377","Bacteria","Proteobacteria","Betaproteobacteria","Methylophilales","Methylophilaceae","Methylobacillus",NA,"Zotu377",53.2916666666667
+"Zotu380","Zotu380","Bacteria","GOUTA4","uncultured bacterium",NA,NA,NA,NA,"Zotu380",41.5
+"Zotu381","Zotu381","Bacteria","Bacteroidetes","Bacteroidetes BD2-2","uncultured bacterium",NA,NA,NA,"Zotu381",12.625
+"Zotu384","Zotu384","Bacteria","Acidobacteria","Holophagae","Subgroup 7","uncultured bacterium",NA,NA,"Zotu384",32.375
+"Zotu385","Zotu385","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu385",49.625
+"Zotu387","Zotu387","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae",NA,NA,"Zotu387",74.625
+"Zotu388","Zotu388","Bacteria","Chloroflexi","uncultured",NA,NA,NA,NA,"Zotu388",38.125
+"Zotu390","Zotu390","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu390",43.6666666666667
+"Zotu3932","Zotu3932","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales",NA,NA,NA,"Zotu3932",17.4583333333333
+"Zotu395","Zotu395","Bacteria","Proteobacteria","Deltaproteobacteria","SAR324 clade(Marine group B)","uncultured bacterium",NA,NA,"Zotu395",24.9583333333333
+"Zotu3954","Zotu3954","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured",NA,"Zotu3954",11.125
+"Zotu396","Zotu396","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter","uncultured bacterium","Zotu396",37.5
+"Zotu3979","Zotu3979","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales",NA,NA,NA,"Zotu3979",21.9166666666667
+"Zotu399","Zotu399","Bacteria","Chlorobi","Chlorobia","Chlorobiales","OPB56","uncultured bacterium",NA,"Zotu399",33.25
+"Zotu4","Zotu4","Bacteria","Proteobacteria","Betaproteobacteria","Hydrogenophilales","Hydrogenophilaceae","Thiobacillus","uncultured bacterium","Zotu4",2913.5
+"Zotu40","Zotu40","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Alcaligenaceae","uncultured","uncultured bacterium","Zotu40",395.416666666667
+"Zotu400","Zotu400","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Haliangiaceae","Haliangium",NA,"Zotu400",10.125
+"Zotu402","Zotu402","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Alcaligenaceae","uncultured","uncultured bacterium","Zotu402",43.7083333333333
+"Zotu403","Zotu403","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter","uncultured bacterium","Zotu403",18.9166666666667
+"Zotu404","Zotu404","Bacteria","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Erythrobacteraceae","Erythrobacter",NA,"Zotu404",54.5
+"Zotu405","Zotu405","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 10","uncultured bacterium","Zotu405",13.375
+"Zotu406","Zotu406","Bacteria","Proteobacteria","Gammaproteobacteria",NA,NA,NA,NA,"Zotu406",11.0416666666667
+"Zotu408","Zotu408","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Polyangiaceae","Sorangium","uncultured bacterium","Zotu408",62.4583333333333
+"Zotu4084","Zotu4084","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","BVA18","uncultured bacterium",NA,"Zotu4084",10.4583333333333
+"Zotu409","Zotu409","Bacteria","Proteobacteria","Betaproteobacteria","SC-I-84",NA,NA,NA,"Zotu409",45.0416666666667
+"Zotu410","Zotu410","Bacteria","Firmicutes","Clostridia","Clostridiales","Peptostreptococcaceae","Intestinibacter","uncultured bacterium","Zotu410",29.2916666666667
+"Zotu412","Zotu412","Bacteria","Proteobacteria","Betaproteobacteria","B1-7BS","uncultured bacterium",NA,NA,"Zotu412",43.375
+"Zotu415","Zotu415","Bacteria","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae","Stenotrophomonas","uncultured bacterium","Zotu415",27.4583333333333
+"Zotu417","Zotu417","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","BAL58 marine group",NA,"Zotu417",34.1666666666667
+"Zotu418","Zotu418","Bacteria","Proteobacteria","Betaproteobacteria","SC-I-84","uncultured bacterium",NA,NA,"Zotu418",45
+"Zotu419","Zotu419","Bacteria","Chloroflexi","uncultured","uncultured bacterium",NA,NA,NA,"Zotu419",38.5833333333333
+"Zotu421","Zotu421","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter","uncultured bacterium","Zotu421",34.3333333333333
+"Zotu423","Zotu423","Bacteria","Acidobacteria","Acidobacteria","Subgroup 3","Unknown Family","Candidatus Solibacter",NA,"Zotu423",41.0416666666667
+"Zotu425","Zotu425","Bacteria","Bacteroidetes","Sphingobacteriia","Sphingobacteriales","Saprospiraceae","uncultured","uncultured bacterium","Zotu425",45.1666666666667
+"Zotu427","Zotu427","Bacteria","Acidobacteria","Holophagae","TPD-58",NA,NA,NA,"Zotu427",37.2083333333333
+"Zotu4274","Zotu4274","Bacteria","Bacteroidetes","Sphingobacteriia","Sphingobacteriales","Chitinophagaceae","uncultured","uncultured bacterium","Zotu4274",20.7083333333333
+"Zotu428","Zotu428","Bacteria","Proteobacteria","Betaproteobacteria","TRA3-20","uncultured beta proteobacterium",NA,NA,"Zotu428",47.2083333333333
+"Zotu429","Zotu429","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","4-29","uncultured bacterium",NA,"Zotu429",32.9583333333333
+"Zotu43","Zotu43","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured",NA,"Zotu43",37.7916666666667
+"Zotu432","Zotu432","Bacteria","Actinobacteria","Actinobacteria","Micrococcales","Intrasporangiaceae","Intrasporangium",NA,"Zotu432",32.2916666666667
+"Zotu433","Zotu433","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Cystobacteraceae","Anaeromyxobacter","uncultured bacterium","Zotu433",36.6666666666667
+"Zotu436","Zotu436","Bacteria","Acidobacteria","Holophagae","Subgroup 10","ABS-19",NA,NA,"Zotu436",33.3333333333333
+"Zotu437","Zotu437","Bacteria","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadales Incertae Sedis","uncultured",NA,"Zotu437",45.7083333333333
+"Zotu438","Zotu438","Bacteria","Acidobacteria","Holophagae","Subgroup 7","uncultured bacterium",NA,NA,"Zotu438",52.625
+"Zotu439","Zotu439","Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Rhodospirillales Incertae Sedis","Reyranella",NA,"Zotu439",33.0416666666667
+"Zotu44","Zotu44","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Cystobacteraceae","Anaeromyxobacter","uncultured bacterium","Zotu44",48.7916666666667
+"Zotu444","Zotu444","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Cystobacteraceae","Anaeromyxobacter",NA,"Zotu444",7.625
+"Zotu4450","Zotu4450","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Hyphomicrobiaceae","Hyphomicrobium","uncultured bacterium","Zotu4450",20.0833333333333
+"Zotu447","Zotu447","Bacteria","Firmicutes","Clostridia","Clostridiales","Family XII","Acidaminobacter","uncultured bacterium","Zotu447",20.3333333333333
+"Zotu448","Zotu448","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","P3OB-42",NA,NA,"Zotu448",32.25
+"Zotu449","Zotu449","Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Roseomonas",NA,"Zotu449",32.875
+"Zotu454","Zotu454","Bacteria","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae",NA,NA,"Zotu454",42.0416666666667
+"Zotu456","Zotu456","Bacteria","Acidobacteria","Holophagae","Subgroup 10","ABS-19","uncultured prokaryote",NA,"Zotu456",37.75
+"Zotu457","Zotu457","Bacteria","Bacteroidetes","Bacteroidetes vadinHA17","uncultured soil bacterium",NA,NA,NA,"Zotu457",21.75
+"Zotu4577","Zotu4577","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Gallionellaceae","Gallionella",NA,"Zotu4577",6.66666666666667
+"Zotu458","Zotu458","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","BVA18",NA,NA,"Zotu458",29.75
+"Zotu459","Zotu459","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured",NA,"Zotu459",32.375
+"Zotu46","Zotu46","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured",NA,"Zotu46",103.041666666667
+"Zotu460","Zotu460","Bacteria","Latescibacteria","uncultured bacterium",NA,NA,NA,NA,"Zotu460",32.5
+"Zotu461","Zotu461","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfobacterales","Desulfobulbaceae","Desulfobulbus","uncultured bacterium","Zotu461",26.9583333333333
+"Zotu462","Zotu462","Bacteria","Proteobacteria","Deltaproteobacteria","GR-WP33-30","uncultured bacterium",NA,NA,"Zotu462",39.0416666666667
+"Zotu4621","Zotu4621","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae",NA,NA,"Zotu4621",18.8333333333333
+"Zotu463","Zotu463","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured Nitrospirae bacterium","Zotu463",41.6666666666667
+"Zotu464","Zotu464","Bacteria","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured","uncultured bacterium","Zotu464",30.0833333333333
+"Zotu465","Zotu465","Bacteria","Bacteroidetes","WCHB1-32","uncultured bacterium",NA,NA,NA,"Zotu465",11.375
+"Zotu466","Zotu466","Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","uncultured","uncultured bacterium","Zotu466",37.5416666666667
+"Zotu468","Zotu468","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","4-29","uncultured bacterium",NA,"Zotu468",30.9583333333333
+"Zotu469","Zotu469","Bacteria","Bacteroidetes","Bacteroidetes vadinHA17","uncultured bacterium",NA,NA,NA,"Zotu469",38.375
+"Zotu470","Zotu470","Bacteria","Acidobacteria","Acidobacteria","Subgroup 21","uncultured bacterium",NA,NA,"Zotu470",42.6666666666667
+"Zotu471","Zotu471","Bacteria","Firmicutes","Clostridia","Clostridiales","Peptostreptococcaceae","uncultured","uncultured bacterium","Zotu471",28.125
+"Zotu472","Zotu472","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu472",31.3333333333333
+"Zotu473","Zotu473","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales",NA,NA,NA,"Zotu473",9.375
+"Zotu474","Zotu474","Bacteria","Spirochaetae","Spirochaetes","Spirochaetales","Spirochaetaceae","uncultured","uncultured soil bacterium","Zotu474",6.70833333333333
+"Zotu477","Zotu477","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales",NA,NA,NA,"Zotu477",16.4583333333333
+"Zotu479","Zotu479","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Sandaracinaceae","uncultured","uncultured bacterium","Zotu479",30.625
+"Zotu48","Zotu48","Bacteria","Actinobacteria","Actinobacteria","Micrococcales","Intrasporangiaceae","Intrasporangium",NA,"Zotu48",230.916666666667
+"Zotu480","Zotu480","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured","uncultured bacterium","Zotu480",96
+"Zotu481","Zotu481","Bacteria","Proteobacteria","Deltaproteobacteria",NA,NA,NA,NA,"Zotu481",33.5416666666667
+"Zotu482","Zotu482","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfobacterales","Desulfobulbaceae","Desulfobulbus","uncultured bacterium","Zotu482",25.0833333333333
+"Zotu4826","Zotu4826","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured",NA,"Zotu4826",9.5
+"Zotu484","Zotu484","Bacteria","Proteobacteria","Betaproteobacteria","B1-7BS","uncultured bacterium",NA,NA,"Zotu484",33.25
+"Zotu486","Zotu486","Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Rhodospirillaceae","uncultured",NA,"Zotu486",16.375
+"Zotu487","Zotu487","Bacteria","Verrucomicrobia","OPB35 soil group","uncultured bacterium",NA,NA,NA,"Zotu487",41.5833333333333
+"Zotu489","Zotu489","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfarculales","Desulfarculaceae","Desulfatiglans","uncultured delta proteobacterium","Zotu489",22.8333333333333
+"Zotu49","Zotu49","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured",NA,"Zotu49",153.125
+"Zotu492","Zotu492","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured","uncultured bacterium","Zotu492",41.5416666666667
+"Zotu4929","Zotu4929","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 8","uncultured bacterium","Zotu4929",11.7083333333333
+"Zotu493","Zotu493","Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Coriobacteriaceae","uncultured","uncultured bacterium","Zotu493",42.6666666666667
+"Zotu494","Zotu494","Bacteria","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","Gemmatimonas",NA,"Zotu494",33.4583333333333
+"Zotu4944","Zotu4944","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","Sulfuritalea",NA,"Zotu4944",6.70833333333333
+"Zotu497","Zotu497","Bacteria","Acidobacteria","Acidobacteria","Subgroup 3","GOUTB8","uncultured soil bacterium",NA,"Zotu497",35.8333333333333
+"Zotu499","Zotu499","Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Rhodospirillaceae","uncultured",NA,"Zotu499",10.9166666666667
+"Zotu5","Zotu5","Bacteria","Firmicutes","Bacilli","Lactobacillales","Carnobacteriaceae","Trichococcus",NA,"Zotu5",399.583333333333
+"Zotu50","Zotu50","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Oxalobacteraceae","Massilia","uncultured bacterium","Zotu50",16.6666666666667
+"Zotu500","Zotu500","Bacteria","Firmicutes","Clostridia","Clostridiales","Peptostreptococcaceae","Intestinibacter","uncultured bacterium","Zotu500",21.9583333333333
+"Zotu503","Zotu503","Bacteria","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured","uncultured bacterium","Zotu503",30.7916666666667
+"Zotu504","Zotu504","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured","uncultured bacterium","Zotu504",25.25
+"Zotu5042","Zotu5042","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter",NA,"Zotu5042",14.4583333333333
+"Zotu506","Zotu506","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","4-29","uncultured bacterium",NA,"Zotu506",32.8333333333333
+"Zotu509","Zotu509","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales",NA,NA,NA,"Zotu509",23.4583333333333
+"Zotu51","Zotu51","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter",NA,"Zotu51",124.291666666667
+"Zotu510","Zotu510","Bacteria","Spirochaetae","Spirochaetes","Spirochaetales","Spirochaetaceae","Spirochaeta 2","uncultured bacterium","Zotu510",21.5833333333333
+"Zotu5109","Zotu5109","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured","uncultured bacterium","Zotu5109",5
+"Zotu516","Zotu516","Bacteria","Planctomycetes","Phycisphaerae","Phycisphaerales","Phycisphaeraceae","SM1A02","uncultured bacterium","Zotu516",33.5833333333333
+"Zotu5163","Zotu5163","Bacteria","Proteobacteria","Betaproteobacteria","Hydrogenophilales","Hydrogenophilaceae","Thiobacillus","uncultured proteobacterium","Zotu5163",28.375
+"Zotu517","Zotu517","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Cystobacteraceae",NA,NA,"Zotu517",16.8333333333333
+"Zotu518","Zotu518","Bacteria","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Novosphingobium",NA,"Zotu518",50.25
+"Zotu519","Zotu519","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfarculales","Desulfarculaceae","Desulfatiglans",NA,"Zotu519",29.75
+"Zotu52","Zotu52","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Rhizobiaceae","Rhizobium","uncultured bacterium","Zotu52",82.625
+"Zotu520","Zotu520","Bacteria","Actinobacteria","Actinobacteria","Micrococcales","Microbacteriaceae","Cryobacterium",NA,"Zotu520",7.04166666666667
+"Zotu521","Zotu521","Bacteria","Bacteroidetes","Bacteroidetes BD2-2","uncultured bacterium",NA,NA,NA,"Zotu521",8.33333333333333
+"Zotu523","Zotu523","Bacteria","Bacteroidetes","Bacteroidia","Bacteroidia Incertae Sedis","Prolixibacteraceae","Prolixibacter","uncultured bacterium","Zotu523",16.1666666666667
+"Zotu5265","Zotu5265","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Desulfuromonadaceae","Pelobacter",NA,"Zotu5265",33.875
+"Zotu529","Zotu529","Bacteria","Proteobacteria","Deltaproteobacteria","Sh765B-TzT-29",NA,NA,NA,"Zotu529",30.9166666666667
+"Zotu531","Zotu531","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured","uncultured beta proteobacterium","Zotu531",33.0416666666667
+"Zotu532","Zotu532","Bacteria","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadales Incertae Sedis","uncultured","uncultured gamma proteobacterium","Zotu532",46.375
+"Zotu535","Zotu535","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales",NA,NA,NA,"Zotu535",39.625
+"Zotu54","Zotu54","Bacteria","Bacteroidetes","Bacteroidetes vadinHA17","uncultured bacterium",NA,NA,NA,"Zotu54",299.666666666667
+"Zotu540","Zotu540","Bacteria","TA06","uncultured bacterium",NA,NA,NA,NA,"Zotu540",21.2916666666667
+"Zotu542","Zotu542","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","Denitratisoma","uncultured bacterium","Zotu542",30.5833333333333
+"Zotu544","Zotu544","Bacteria","Proteobacteria","Deltaproteobacteria","Syntrophobacterales","Syntrophobacteraceae","uncultured","uncultured bacterium","Zotu544",30.25
+"Zotu545","Zotu545","Bacteria","Verrucomicrobia","OPB35 soil group","uncultured bacterium",NA,NA,NA,"Zotu545",32.3333333333333
+"Zotu547","Zotu547","Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Rhodospirillales Incertae Sedis","Reyranella","uncultured bacterium","Zotu547",28.0416666666667
+"Zotu548","Zotu548","Bacteria","Verrucomicrobia","OPB35 soil group","uncultured bacterium",NA,NA,NA,"Zotu548",32.75
+"Zotu549","Zotu549","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Hyphomicrobiaceae","uncultured","uncultured bacterium","Zotu549",26.5833333333333
+"Zotu552","Zotu552","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfobacterales","Desulfobacteraceae","Sva0081 sediment group","uncultured bacterium","Zotu552",31.9583333333333
+"Zotu554","Zotu554","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured","uncultured bacterium","Zotu554",19.0416666666667
+"Zotu557","Zotu557","Bacteria","Verrucomicrobia","OPB35 soil group",NA,NA,NA,NA,"Zotu557",31.3333333333333
+"Zotu558","Zotu558","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","Methylococcaceae","Methylomonas","uncultured bacterium","Zotu558",16.9166666666667
+"Zotu559","Zotu559","Bacteria","Firmicutes","Clostridia","Clostridiales","Ruminococcaceae","uncultured","uncultured Firmicutes bacterium","Zotu559",14.9166666666667
+"Zotu56","Zotu56","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae",NA,NA,"Zotu56",47.25
+"Zotu561","Zotu561","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured",NA,"Zotu561",26.0416666666667
+"Zotu565","Zotu565","Bacteria","Chloroflexi","Chloroflexia","Chloroflexales","Roseiflexaceae","Roseiflexus","uncultured bacterium","Zotu565",14.3333333333333
+"Zotu567","Zotu567","Bacteria","Chloroflexi","Chloroflexia","Chloroflexales","Roseiflexaceae","Roseiflexus","uncultured bacterium","Zotu567",33.125
+"Zotu568","Zotu568","Bacteria","Proteobacteria","Alphaproteobacteria","Caulobacterales","Caulobacteraceae","Asticcacaulis",NA,"Zotu568",14.2916666666667
+"Zotu569","Zotu569","Bacteria","Proteobacteria","Deltaproteobacteria","43F-1404R","uncultured bacterium",NA,NA,"Zotu569",19.5
+"Zotu570","Zotu570","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured","uncultured bacterium","Zotu570",35.625
+"Zotu572","Zotu572","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","P3OB-42","uncultured bacterium",NA,"Zotu572",5.20833333333333
+"Zotu573","Zotu573","Bacteria","Bacteroidetes","Bacteroidetes vadinHA17","uncultured bacterium",NA,NA,NA,"Zotu573",86.75
+"Zotu576","Zotu576","Bacteria","Proteobacteria","Deltaproteobacteria","Sva0485",NA,NA,NA,"Zotu576",31.4166666666667
+"Zotu579","Zotu579","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae",NA,NA,"Zotu579",28.1666666666667
+"Zotu58","Zotu58","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter",NA,"Zotu58",170.875
+"Zotu580","Zotu580","Bacteria","Acidobacteria","Holophagae","Subgroup 23","uncultured bacterium",NA,NA,"Zotu580",30.625
+"Zotu581","Zotu581","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","Methylococcaceae","Methylocaldum","uncultured bacterium","Zotu581",32.6666666666667
+"Zotu582","Zotu582","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Bradyrhizobiaceae","Bradyrhizobium",NA,"Zotu582",23.875
+"Zotu583","Zotu583","Bacteria","Bacteroidetes","Bacteroidetes vadinHA17","uncultured bacterium",NA,NA,NA,"Zotu583",31.2083333333333
+"Zotu588","Zotu588","Bacteria","Proteobacteria","Gammaproteobacteria","Chromatiales","Ectothiorhodospiraceae","Thioalkalispira","uncultured bacterium","Zotu588",28
+"Zotu589","Zotu589","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 8","uncultured bacterium","Zotu589",19.125
+"Zotu59","Zotu59","Bacteria","Proteobacteria","Gammaproteobacteria","Chromatiales","Ectothiorhodospiraceae","Acidiferrobacter",NA,"Zotu59",49.25
+"Zotu590","Zotu590","Bacteria","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured",NA,"Zotu590",19.875
+"Zotu591","Zotu591","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Rhizobacter","uncultured bacterium","Zotu591",5.83333333333333
+"Zotu592","Zotu592","Bacteria","Chlorobi","Ignavibacteria","Ignavibacteriales","BSV26","uncultured bacterium",NA,"Zotu592",27
+"Zotu5944","Zotu5944","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured","uncultured bacterium","Zotu5944",11.5
+"Zotu595","Zotu595","Bacteria","Actinobacteria","Acidimicrobiia","Acidimicrobiales",NA,NA,NA,"Zotu595",25.1666666666667
+"Zotu596","Zotu596","Bacteria","Bacteroidetes","Sphingobacteriia","Sphingobacteriales","WCHB1-69","uncultured Bacteroidetes bacterium",NA,"Zotu596",17.8333333333333
+"Zotu597","Zotu597","Bacteria","Spirochaetae","Spirochaetes","Spirochaetales","Spirochaetaceae","Spirochaeta 2","uncultured bacterium","Zotu597",25.625
+"Zotu598","Zotu598","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu598",32.0416666666667
+"Zotu600","Zotu600","Bacteria","Chlorobi","Chlorobia","Chlorobiales","OPB56","uncultured bacterium",NA,"Zotu600",17.125
+"Zotu604","Zotu604","Bacteria","Spirochaetae","Spirochaetes","Spirochaetales","Leptospiraceae","Turneriella",NA,"Zotu604",11.4166666666667
+"Zotu605","Zotu605","Bacteria","Proteobacteria","Alphaproteobacteria","Caulobacterales","Caulobacteraceae",NA,NA,"Zotu605",33.0416666666667
+"Zotu608","Zotu608","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales",NA,NA,NA,"Zotu608",14.875
+"Zotu609","Zotu609","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Bradyrhizobiaceae","Bradyrhizobium",NA,"Zotu609",23.2083333333333
+"Zotu61","Zotu61","Bacteria","Firmicutes","Clostridia","Clostridiales","Family XIII","uncultured",NA,"Zotu61",174.458333333333
+"Zotu610","Zotu610","Bacteria","Verrucomicrobia","OPB35 soil group",NA,NA,NA,NA,"Zotu610",23.875
+"Zotu611","Zotu611","Bacteria","Proteobacteria","Betaproteobacteria","Methylophilales","Methylophilaceae","uncultured","uncultured bacterium","Zotu611",40.6666666666667
+"Zotu612","Zotu612","Bacteria","Lentisphaerae","Oligosphaeria","Oligosphaerales","uncultured bacterium",NA,NA,"Zotu612",16.5416666666667
+"Zotu614","Zotu614","Bacteria","Bacteroidetes","Bacteroidetes BD2-2","uncultured Cytophagales bacterium",NA,NA,NA,"Zotu614",13.9583333333333
+"Zotu618","Zotu618","Bacteria","Chloroflexi","Chloroflexia","Chloroflexales","Chloroflexaceae",NA,NA,"Zotu618",11.9583333333333
+"Zotu62","Zotu62","Bacteria","Actinobacteria","Actinobacteria","Micrococcales","Micrococcaceae","Arthrobacter",NA,"Zotu62",112.458333333333
+"Zotu6206","Zotu6206","Bacteria","Proteobacteria","Betaproteobacteria","Hydrogenophilales","Hydrogenophilaceae","uncultured","uncultured bacterium","Zotu6206",352.25
+"Zotu621","Zotu621","Bacteria","Actinobacteria","Actinobacteria","Micrococcales","Intrasporangiaceae",NA,NA,"Zotu621",29.375
+"Zotu623","Zotu623","Bacteria","TA06","uncultured bacterium",NA,NA,NA,NA,"Zotu623",23.625
+"Zotu6248","Zotu6248","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","Georgfuchsia","uncultured bacterium","Zotu6248",5.875
+"Zotu625","Zotu625","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Xanthobacteraceae","Variibacter","uncultured bacterium","Zotu625",24.2083333333333
+"Zotu626","Zotu626","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Acidovorax","uncultured bacterium","Zotu626",10.9583333333333
+"Zotu629","Zotu629","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","Nitrospira","uncultured bacterium","Zotu629",28
+"Zotu63","Zotu63","Bacteria","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae","Lysobacter","uncultured bacterium","Zotu63",154.208333333333
+"Zotu631","Zotu631","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales",NA,NA,NA,"Zotu631",15.875
+"Zotu632","Zotu632","Bacteria","Chlorobi","Chlorobia","Chlorobiales","OPB56","uncultured bacterium",NA,"Zotu632",21.5
+"Zotu633","Zotu633","Bacteria","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured","uncultured bacterium","Zotu633",30.2083333333333
+"Zotu636","Zotu636","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1",NA,NA,"Zotu636",26.0833333333333
+"Zotu639","Zotu639","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured",NA,"Zotu639",9.375
+"Zotu64","Zotu64","Bacteria","Firmicutes","Bacilli","Bacillales","Family XII","Exiguobacterium","uncultured bacterium","Zotu64",20.0416666666667
+"Zotu640","Zotu640","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 12","uncultured bacterium","Zotu640",26.0833333333333
+"Zotu641","Zotu641","Bacteria","Firmicutes","Clostridia","Clostridiales","Family XII","Acidaminobacter","uncultured bacterium","Zotu641",25.5
+"Zotu643","Zotu643","Bacteria","Verrucomicrobia","OPB35 soil group","uncultured bacterium",NA,NA,NA,"Zotu643",26.4583333333333
+"Zotu645","Zotu645","Bacteria","Acidobacteria","Holophagae","TPD-58",NA,NA,NA,"Zotu645",25.4583333333333
+"Zotu646","Zotu646","Bacteria","Firmicutes","Clostridia","Clostridiales","Christensenellaceae","Christensenellaceae R-7 group","uncultured bacterium","Zotu646",32.0833333333333
+"Zotu6476","Zotu6476","Bacteria","Acidobacteria","Holophagae","Holophagae Incertae Sedis","Unknown Family","Thermoanaerobaculum","uncultured prokaryote","Zotu6476",18.9166666666667
+"Zotu648","Zotu648","Bacteria","Bacteroidetes","WCHB1-32","uncultured bacterium",NA,NA,NA,"Zotu648",19.2083333333333
+"Zotu649","Zotu649","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Caenimonas",NA,"Zotu649",31.5833333333333
+"Zotu652","Zotu652","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae",NA,NA,"Zotu652",26.125
+"Zotu653","Zotu653","Bacteria","Acidobacteria","Acidobacteria","Subgroup 3","Unknown Family","Candidatus Solibacter",NA,"Zotu653",23.8333333333333
+"Zotu654","Zotu654","Bacteria","Proteobacteria","Betaproteobacteria","SC-I-84","uncultured bacterium",NA,NA,"Zotu654",27.5
+"Zotu655","Zotu655","Bacteria","Proteobacteria","Betaproteobacteria","SC-I-84","uncultured bacterium",NA,NA,"Zotu655",26.7916666666667
+"Zotu657","Zotu657","Bacteria","Proteobacteria","Deltaproteobacteria","Syntrophobacterales","Syntrophobacteraceae","Syntrophobacter","uncultured bacterium","Zotu657",60.0833333333333
+"Zotu658","Zotu658","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Gallionellaceae","uncultured","uncultured beta proteobacterium","Zotu658",77.5
+"Zotu659","Zotu659","Bacteria","Acidobacteria","Acidobacteria","Subgroup 21","uncultured bacterium",NA,NA,"Zotu659",24.875
+"Zotu66","Zotu66","Bacteria","Proteobacteria","Deltaproteobacteria","43F-1404R",NA,NA,NA,"Zotu66",241.958333333333
+"Zotu660","Zotu660","Bacteria","Acidobacteria","Holophagae","Subgroup 7","uncultured bacterium",NA,NA,"Zotu660",19
+"Zotu662","Zotu662","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales",NA,NA,NA,"Zotu662",31.125
+"Zotu663","Zotu663","Bacteria","Actinobacteria","MB-A2-108","uncultured bacterium",NA,NA,NA,"Zotu663",32.6666666666667
+"Zotu665","Zotu665","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu665",31.7916666666667
+"Zotu666","Zotu666","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfarculales","Desulfarculaceae","Desulfatiglans",NA,"Zotu666",24.5
+"Zotu67","Zotu67","Bacteria","Proteobacteria","Deltaproteobacteria","43F-1404R",NA,NA,NA,"Zotu67",235.333333333333
+"Zotu671","Zotu671","Bacteria","Latescibacteria","uncultured bacterium",NA,NA,NA,NA,"Zotu671",25.1666666666667
+"Zotu672","Zotu672","Bacteria","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured",NA,"Zotu672",27
+"Zotu673","Zotu673","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","BIrii41",NA,NA,"Zotu673",30
+"Zotu675","Zotu675","Bacteria","Proteobacteria","Deltaproteobacteria","Sva0485",NA,NA,NA,"Zotu675",30.7083333333333
+"Zotu677","Zotu677","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu677",19.3333333333333
+"Zotu678","Zotu678","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter","uncultured bacterium","Zotu678",20.5
+"Zotu679","Zotu679","Bacteria","Bacteroidetes","Bacteroidetes BD2-2","uncultured bacterium",NA,NA,NA,"Zotu679",16.75
+"Zotu68","Zotu68","Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Porphyromonadaceae","uncultured","uncultured bacterium","Zotu68",36.125
+"Zotu683","Zotu683","Bacteria","Proteobacteria","Epsilonproteobacteria","Campylobacterales","Helicobacteraceae","uncultured","uncultured epsilon proteobacterium","Zotu683",6.875
+"Zotu689","Zotu689","Bacteria","Proteobacteria","Deltaproteobacteria","Sva0485","uncultured bacterium",NA,NA,"Zotu689",24.1666666666667
+"Zotu691","Zotu691","Bacteria","Verrucomicrobia","Verrucomicrobia Incertae Sedis","Unknown Order","Unknown Family","Candidatus Methylacidiphilum","uncultured bacterium","Zotu691",12.5416666666667
+"Zotu693","Zotu693","Bacteria","Proteobacteria","Gammaproteobacteria","Xanthomonadales","uncultured",NA,NA,"Zotu693",37.375
+"Zotu694","Zotu694","Bacteria","Bacteroidetes","SB-5",NA,NA,NA,NA,"Zotu694",10.75
+"Zotu695","Zotu695","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","Methylococcaceae","Methylomonas","uncultured bacterium","Zotu695",15.8333333333333
+"Zotu697","Zotu697","Bacteria","Acidobacteria","Acidobacteria","Subgroup 3","Unknown Family",NA,NA,"Zotu697",28.3333333333333
+"Zotu699","Zotu699","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter",NA,"Zotu699",17.0416666666667
+"Zotu7","Zotu7","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Cystobacteraceae",NA,NA,"Zotu7",298.416666666667
+"Zotu70","Zotu70","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","4-29","uncultured bacterium",NA,"Zotu70",45.4166666666667
+"Zotu700","Zotu700","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","Denitratisoma","uncultured bacterium","Zotu700",34.1666666666667
+"Zotu701","Zotu701","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Methylocystaceae","Methylocystis","uncultured bacterium","Zotu701",25.125
+"Zotu702","Zotu702","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfobacterales","Desulfobulbaceae","Desulfobulbus","uncultured bacterium","Zotu702",15.4583333333333
+"Zotu703","Zotu703","Bacteria","Actinobacteria","Coriobacteriia","Coriobacteriales","Coriobacteriaceae","uncultured",NA,"Zotu703",30.25
+"Zotu706","Zotu706","Bacteria","Actinobacteria","Actinobacteria","Micrococcales","Microbacteriaceae","Agromyces",NA,"Zotu706",14
+"Zotu709","Zotu709","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales",NA,NA,NA,"Zotu709",14.0833333333333
+"Zotu710","Zotu710","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","Crenotrichaceae","Crenothrix",NA,"Zotu710",22.5
+"Zotu711","Zotu711","Bacteria","Firmicutes","Clostridia","Clostridiales","Family XII","Acidaminobacter","uncultured bacterium","Zotu711",13.0833333333333
+"Zotu714","Zotu714","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae",NA,NA,"Zotu714",24.0833333333333
+"Zotu715","Zotu715","Bacteria","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas","uncultured bacterium","Zotu715",33.7916666666667
+"Zotu7167","Zotu7167","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","uncultured",NA,"Zotu7167",5.91666666666667
+"Zotu718","Zotu718","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales",NA,NA,NA,"Zotu718",19.2916666666667
+"Zotu72","Zotu72","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 1","uncultured bacterium","Zotu72",80.75
+"Zotu720","Zotu720","Bacteria","Acidobacteria","Acidobacteria","Subgroup 3","Unknown Family",NA,NA,"Zotu720",21.9583333333333
+"Zotu722","Zotu722","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","4-29","uncultured bacterium",NA,"Zotu722",18.75
+"Zotu723","Zotu723","Bacteria","Proteobacteria","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Rhodobacter",NA,"Zotu723",25.4583333333333
+"Zotu724","Zotu724","Bacteria","Bacteroidetes","SB-5",NA,NA,NA,NA,"Zotu724",4.79166666666667
+"Zotu729","Zotu729","Bacteria","Proteobacteria","Gammaproteobacteria","Chromatiales","Ectothiorhodospiraceae","Thioalkalispira","uncultured bacterium","Zotu729",21.5
+"Zotu73","Zotu73","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","P3OB-42","uncultured soil bacterium",NA,"Zotu73",5.79166666666667
+"Zotu730","Zotu730","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter",NA,"Zotu730",15.5
+"Zotu735","Zotu735","Bacteria","Proteobacteria","Deltaproteobacteria","Sva0485",NA,NA,NA,"Zotu735",22.2083333333333
+"Zotu737","Zotu737","Bacteria","Actinobacteria","Acidimicrobiia","Acidimicrobiales","Acidimicrobiales Incertae Sedis","Aciditerrimonas","uncultured bacterium","Zotu737",20.25
+"Zotu739","Zotu739","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Methylocystaceae","Methylocystis",NA,"Zotu739",23.8333333333333
+"Zotu74","Zotu74","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","Denitratisoma","uncultured bacterium","Zotu74",94.125
+"Zotu740","Zotu740","Bacteria","Spirochaetae","Spirochaetes","Spirochaetales","Spirochaetaceae","Spirochaeta 2","uncultured bacterium","Zotu740",25.125
+"Zotu741","Zotu741","Bacteria","Proteobacteria","Betaproteobacteria","SC-I-84","uncultured bacterium",NA,NA,"Zotu741",22.6666666666667
+"Zotu745","Zotu745","Bacteria","Actinobacteria","Thermoleophilia","Gaiellales","uncultured","uncultured bacterium",NA,"Zotu745",24.2916666666667
+"Zotu746","Zotu746","Bacteria","Proteobacteria","Deltaproteobacteria","Sva0485","uncultured delta proteobacterium",NA,NA,"Zotu746",22.6666666666667
+"Zotu747","Zotu747","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu747",25.7083333333333
+"Zotu749","Zotu749","Bacteria","Bacteroidetes","Sphingobacteriia","Sphingobacteriales","Saprospiraceae","uncultured","uncultured bacterium","Zotu749",18.7916666666667
+"Zotu7497","Zotu7497","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Gallionellaceae",NA,NA,"Zotu7497",5.125
+"Zotu750","Zotu750","Bacteria","Acidobacteria","Acidobacteria","Subgroup 3","Unknown Family","Bryobacter","uncultured bacterium","Zotu750",22.7916666666667
+"Zotu751","Zotu751","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured","uncultured bacterium","Zotu751",22.75
+"Zotu7563","Zotu7563","Bacteria","Proteobacteria","Deltaproteobacteria","Deltaproteobacteria Incertae Sedis","Syntrophorhabdaceae","Syntrophorhabdus","uncultured bacterium","Zotu7563",42.625
+"Zotu757","Zotu757","Bacteria","Chlorobi","Ignavibacteria","Ignavibacteriales","BSV26","uncultured bacterium",NA,"Zotu757",11.5
+"Zotu758","Zotu758","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 12","uncultured bacterium","Zotu758",18.5833333333333
+"Zotu759","Zotu759","Bacteria","Proteobacteria","Deltaproteobacteria","43F-1404R","uncultured Syntrophaceae bacterium",NA,NA,"Zotu759",24.0833333333333
+"Zotu760","Zotu760","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","Methylococcaceae","Methylocaldum","uncultured bacterium","Zotu760",32.2083333333333
+"Zotu764","Zotu764","Bacteria","Proteobacteria","Deltaproteobacteria","Deltaproteobacteria Incertae Sedis","Syntrophorhabdaceae","Syntrophorhabdus","uncultured bacterium","Zotu764",21.9583333333333
+"Zotu765","Zotu765","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Rhizobiaceae","Rhizobium","uncultured bacterium","Zotu765",9.91666666666667
+"Zotu766","Zotu766","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Haliangiaceae","Haliangium","uncultured bacterium","Zotu766",19.125
+"Zotu767","Zotu767","Bacteria","Proteobacteria","Betaproteobacteria","TRA3-20","uncultured beta proteobacterium",NA,NA,"Zotu767",17.2916666666667
+"Zotu77","Zotu77","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter",NA,"Zotu77",135.208333333333
+"Zotu774","Zotu774","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 1","uncultured bacterium","Zotu774",10.5833333333333
+"Zotu775","Zotu775","Bacteria","Firmicutes","Clostridia","Clostridiales","Peptostreptococcaceae","Sporacetigenium",NA,"Zotu775",15.7083333333333
+"Zotu776","Zotu776","Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Roseomonas",NA,"Zotu776",26.5416666666667
+"Zotu777","Zotu777","Bacteria","Proteobacteria","Deltaproteobacteria","Syntrophobacterales","Syntrophaceae","Syntrophus","uncultured bacterium","Zotu777",27.375
+"Zotu778","Zotu778","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu778",24.2083333333333
+"Zotu779","Zotu779","Bacteria","Acidobacteria","Holophagae","Subgroup 10","ABS-19",NA,NA,"Zotu779",20.7083333333333
+"Zotu78","Zotu78","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Oxalobacteraceae","Massilia",NA,"Zotu78",10.5
+"Zotu781","Zotu781","Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Roseomonas","uncultured bacterium","Zotu781",24.375
+"Zotu783","Zotu783","Bacteria","Bacteroidetes","Bacteroidetes BD2-2","uncultured bacterium",NA,NA,NA,"Zotu783",9.54166666666667
+"Zotu785","Zotu785","Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","AKYH478","uncultured bacterium",NA,"Zotu785",21.375
+"Zotu786","Zotu786","Bacteria","Proteobacteria","Gammaproteobacteria","Xanthomonadales",NA,NA,NA,"Zotu786",25.875
+"Zotu789","Zotu789","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu789",20.4583333333333
+"Zotu79","Zotu79","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","P3OB-42","uncultured bacterium",NA,"Zotu79",36.4583333333333
+"Zotu791","Zotu791","Bacteria","Bacteroidetes","Bacteroidetes vadinHA17","uncultured bacterium",NA,NA,NA,"Zotu791",19.4166666666667
+"Zotu795","Zotu795","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1",NA,NA,"Zotu795",17.9166666666667
+"Zotu799","Zotu799","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 12","uncultured bacterium","Zotu799",10.6666666666667
+"Zotu80","Zotu80","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured",NA,"Zotu80",131.5
+"Zotu800","Zotu800","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Rhodobiaceae",NA,NA,"Zotu800",19.3333333333333
+"Zotu802","Zotu802","Bacteria","Bacteroidetes","Bacteroidetes BD2-2","uncultured bacterium",NA,NA,NA,"Zotu802",13.9166666666667
+"Zotu8030","Zotu8030","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Methylocystaceae","Pleomorphomonas",NA,"Zotu8030",23.1666666666667
+"Zotu807","Zotu807","Bacteria","Actinobacteria","Actinobacteria","Propionibacteriales","Nocardioidaceae","Nocardioides",NA,"Zotu807",14.7916666666667
+"Zotu808","Zotu808","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Rhodobiaceae",NA,NA,"Zotu808",20.3333333333333
+"Zotu809","Zotu809","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured",NA,"Zotu809",26.5416666666667
+"Zotu81","Zotu81","Bacteria","Proteobacteria","Betaproteobacteria","SC-I-84",NA,NA,NA,"Zotu81",236.541666666667
+"Zotu811","Zotu811","Bacteria","Proteobacteria","Deltaproteobacteria","43F-1404R","uncultured Syntrophaceae bacterium",NA,NA,"Zotu811",19.7083333333333
+"Zotu812","Zotu812","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu812",24.2916666666667
+"Zotu813","Zotu813","Bacteria","Proteobacteria","Betaproteobacteria","SC-I-84",NA,NA,NA,"Zotu813",19
+"Zotu814","Zotu814","Bacteria","Bacteroidetes","Sphingobacteriia","Sphingobacteriales","Saprospiraceae","uncultured","uncultured bacterium","Zotu814",28.875
+"Zotu815","Zotu815","Bacteria","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","Gemmatimonas",NA,"Zotu815",16.75
+"Zotu817","Zotu817","Bacteria","Verrucomicrobia","OPB35 soil group","uncultured bacterium",NA,NA,NA,"Zotu817",19.6666666666667
+"Zotu82","Zotu82","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","4-29","uncultured bacterium",NA,"Zotu82",198.083333333333
+"Zotu820","Zotu820","Bacteria","Planctomycetes","Phycisphaerae","Phycisphaerales","Phycisphaeraceae","SM1A02","uncultured bacterium","Zotu820",17.125
+"Zotu822","Zotu822","Bacteria","Verrucomicrobia","OPB35 soil group","uncultured bacterium",NA,NA,NA,"Zotu822",23.375
+"Zotu8276","Zotu8276","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","P3OB-42","uncultured soil bacterium",NA,"Zotu8276",15.1666666666667
+"Zotu829","Zotu829","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","UASB-TL25","uncultured bacterium",NA,"Zotu829",19.125
+"Zotu8300","Zotu8300","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae",NA,NA,"Zotu8300",3.95833333333333
+"Zotu832","Zotu832","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured",NA,"Zotu832",25.9166666666667
+"Zotu835","Zotu835","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Polyangiaceae",NA,NA,"Zotu835",19
+"Zotu837","Zotu837","Bacteria","Fibrobacteres","Fibrobacteria","Fibrobacterales","possible family 01",NA,NA,"Zotu837",5.33333333333333
+"Zotu838","Zotu838","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","alphaI cluster","uncultured bacterium",NA,"Zotu838",18.2916666666667
+"Zotu84","Zotu84","Bacteria","Latescibacteria","uncultured bacterium",NA,NA,NA,NA,"Zotu84",177.916666666667
+"Zotu841","Zotu841","Bacteria","Proteobacteria","Deltaproteobacteria","Sva0485","uncultured bacterium",NA,NA,"Zotu841",19.9166666666667
+"Zotu844","Zotu844","Bacteria","Proteobacteria","Deltaproteobacteria","Sva0485","uncultured bacterium",NA,NA,"Zotu844",25.1666666666667
+"Zotu845","Zotu845","Bacteria","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadales Incertae Sedis","uncultured",NA,"Zotu845",31.75
+"Zotu85","Zotu85","Bacteria","Bacteroidetes","SB-5","uncultured bacterium",NA,NA,NA,"Zotu85",90.4166666666667
+"Zotu850","Zotu850","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Cystobacteraceae","Anaeromyxobacter",NA,"Zotu850",18.875
+"Zotu852","Zotu852","Bacteria","Acidobacteria","Holophagae","Subgroup 7","uncultured bacterium",NA,NA,"Zotu852",28.1666666666667
+"Zotu853","Zotu853","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","UASB-TL25","uncultured bacterium",NA,"Zotu853",20.0833333333333
+"Zotu854","Zotu854","Bacteria","Chloroflexi","uncultured","uncultured bacterium",NA,NA,NA,"Zotu854",12.6666666666667
+"Zotu856","Zotu856","Bacteria","Chloroflexi","Anaerolineae","Anaerolineales","Anaerolineaceae","uncultured","uncultured bacterium","Zotu856",12.375
+"Zotu857","Zotu857","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","P3OB-42","uncultured bacterium",NA,"Zotu857",9.25
+"Zotu858","Zotu858","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae",NA,NA,"Zotu858",5.25
+"Zotu86","Zotu86","Bacteria","Acidobacteria","Acidobacteria","Subgroup 3","Unknown Family","Bryobacter","uncultured bacterium","Zotu86",190.083333333333
+"Zotu861","Zotu861","Bacteria","Proteobacteria","Deltaproteobacteria","Sva0485",NA,NA,NA,"Zotu861",20.5
+"Zotu864","Zotu864","Bacteria","Gemmatimonadetes","Gemmatimonadetes","S0134 terrestrial group","uncultured Gemmatimonadetes bacterium",NA,NA,"Zotu864",11.5833333333333
+"Zotu866","Zotu866","Bacteria","Acidobacteria","Acidobacteria","Acidobacteriales","Acidobacteriaceae (Subgroup 1)","uncultured",NA,"Zotu866",18.75
+"Zotu868","Zotu868","Bacteria","Proteobacteria","Deltaproteobacteria","Sva0485","uncultured bacterium",NA,NA,"Zotu868",17.2916666666667
+"Zotu87","Zotu87","Bacteria","Bacteroidetes","Sphingobacteriia","Sphingobacteriales","WCHB1-69",NA,NA,"Zotu87",142.333333333333
+"Zotu870","Zotu870","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured","uncultured bacterium","Zotu870",22.0833333333333
+"Zotu871","Zotu871","Bacteria","Bacteroidetes","Bacteroidetes vadinHA17","uncultured bacterium",NA,NA,NA,"Zotu871",16.5833333333333
+"Zotu874","Zotu874","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter",NA,"Zotu874",13.5833333333333
+"Zotu875","Zotu875","Bacteria","Planctomycetes","Phycisphaerae","KCLunmb-38-53",NA,NA,NA,"Zotu875",16.9583333333333
+"Zotu876","Zotu876","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales",NA,NA,NA,"Zotu876",34.1666666666667
+"Zotu877","Zotu877","Bacteria","Actinobacteria","Thermoleophilia","Gaiellales","uncultured","uncultured bacterium",NA,"Zotu877",19.8333333333333
+"Zotu88","Zotu88","Bacteria","Chlorobi","Ignavibacteria","Ignavibacteriales","BSV26",NA,NA,"Zotu88",137
+"Zotu882","Zotu882","Bacteria","Acidobacteria","Acidobacteria","Subgroup 3","Unknown Family","Bryobacter","uncultured bacterium","Zotu882",18.7916666666667
+"Zotu883","Zotu883","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales",NA,NA,NA,"Zotu883",25.7916666666667
+"Zotu884","Zotu884","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Xanthobacteraceae","Variibacter",NA,"Zotu884",16.25
+"Zotu887","Zotu887","Bacteria","Actinobacteria","Thermoleophilia","Gaiellales","Gaiellaceae","Gaiella","uncultured bacterium","Zotu887",12.7916666666667
+"Zotu888","Zotu888","Bacteria","Proteobacteria","Gammaproteobacteria","Xanthomonadales",NA,NA,NA,"Zotu888",21.9166666666667
+"Zotu889","Zotu889","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","4-29","uncultured bacterium",NA,"Zotu889",14.5833333333333
+"Zotu89","Zotu89","Bacteria","Chloroflexi","S085","uncultured bacterium",NA,NA,NA,"Zotu89",181.541666666667
+"Zotu890","Zotu890","Bacteria","Chloroflexi","uncultured Bellilinea sp.",NA,NA,NA,NA,"Zotu890",20.7083333333333
+"Zotu893","Zotu893","Bacteria","Acidobacteria","Subgroup 22","uncultured bacterium",NA,NA,NA,"Zotu893",19.5833333333333
+"Zotu896","Zotu896","Bacteria","Proteobacteria","Deltaproteobacteria","Sva0485",NA,NA,NA,"Zotu896",26.6666666666667
+"Zotu898","Zotu898","Bacteria","Gemmatimonadetes","Gemmatimonadetes","S0134 terrestrial group","uncultured bacterium",NA,NA,"Zotu898",15.1666666666667
+"Zotu9","Zotu9","Bacteria","Proteobacteria","Alphaproteobacteria","Rhizobiales","Bradyrhizobiaceae","Bradyrhizobium",NA,"Zotu9",207.666666666667
+"Zotu900","Zotu900","Bacteria","Chloroflexi","SHA-26",NA,NA,NA,NA,"Zotu900",20.375
+"Zotu902","Zotu902","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter","uncultured bacterium","Zotu902",9.91666666666667
+"Zotu903","Zotu903","Bacteria","Bacteroidetes","SB-5","uncultured bacterium",NA,NA,NA,"Zotu903",9.625
+"Zotu907","Zotu907","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae",NA,NA,"Zotu907",26.25
+"Zotu9076","Zotu9076","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","Candidatus Accumulibacter",NA,"Zotu9076",7
+"Zotu908","Zotu908","Bacteria","Chlorobi","Ignavibacteria","Ignavibacteriales","BSV26","uncultured bacterium",NA,"Zotu908",12.25
+"Zotu909","Zotu909","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae 1","Clostridium sensu stricto 1",NA,"Zotu909",13.1666666666667
+"Zotu91","Zotu91","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","Denitratisoma",NA,"Zotu91",68.8333333333333
+"Zotu910","Zotu910","Bacteria","Chlorobi","Ignavibacteria","Ignavibacteriales","BSV26","uncultured bacterium",NA,"Zotu910",17.5416666666667
+"Zotu911","Zotu911","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfobacterales","Desulfobulbaceae","Desulfocapsa","uncultured bacterium","Zotu911",14.5416666666667
+"Zotu912","Zotu912","Bacteria","Proteobacteria","Betaproteobacteria","Nitrosomonadales","Nitrosomonadaceae","uncultured","uncultured soil bacterium","Zotu912",23.0416666666667
+"Zotu919","Zotu919","Bacteria","Acidobacteria","Holophagae","Subgroup 7","uncultured bacterium",NA,NA,"Zotu919",20.3333333333333
+"Zotu92","Zotu92","Bacteria","Spirochaetae","Spirochaetes","Spirochaetales","Leptospiraceae","Turneriella","uncultured organism","Zotu92",57.5
+"Zotu921","Zotu921","Bacteria","Chloroflexi","TK10","uncultured Chloroflexi bacterium",NA,NA,NA,"Zotu921",21.9583333333333
+"Zotu922","Zotu922","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu922",13.5
+"Zotu924","Zotu924","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Sandaracinaceae","uncultured","uncultured bacterium","Zotu924",15.5
+"Zotu9243","Zotu9243","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured","uncultured bacterium","Zotu9243",21.1666666666667
+"Zotu925","Zotu925","Bacteria","Latescibacteria","uncultured bacterium",NA,NA,NA,NA,"Zotu925",18.6666666666667
+"Zotu926","Zotu926","Bacteria","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadales Incertae Sedis","uncultured","uncultured gamma proteobacterium","Zotu926",22.25
+"Zotu928","Zotu928","Bacteria","Verrucomicrobia","OPB35 soil group","uncultured bacterium",NA,NA,NA,"Zotu928",17.7916666666667
+"Zotu93","Zotu93","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","4-29","uncultured bacterium",NA,"Zotu93",113.833333333333
+"Zotu931","Zotu931","Bacteria","Chloroflexi","uncultured bacterium",NA,NA,NA,NA,"Zotu931",18.4583333333333
+"Zotu933","Zotu933","Bacteria","Chloroflexi","uncultured","uncultured bacterium",NA,NA,NA,"Zotu933",11.375
+"Zotu934","Zotu934","Bacteria","Proteobacteria","Deltaproteobacteria","Syntrophobacterales","Syntrophaceae","uncultured",NA,"Zotu934",15.5
+"Zotu935","Zotu935","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","UASB-TL25","uncultured bacterium",NA,"Zotu935",15.6666666666667
+"Zotu937","Zotu937","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu937",17.7916666666667
+"Zotu939","Zotu939","Bacteria","TA06","uncultured bacterium",NA,NA,NA,NA,"Zotu939",14.1666666666667
+"Zotu94","Zotu94","Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","BIrii41",NA,NA,"Zotu94",21.5416666666667
+"Zotu941","Zotu941","Bacteria","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured","uncultured bacterium","Zotu941",15.0416666666667
+"Zotu942","Zotu942","Bacteria","Chlorobi","Ignavibacteria","Ignavibacteriales","BSV26","uncultured bacterium",NA,"Zotu942",9.125
+"Zotu944","Zotu944","Bacteria","Acidobacteria","Acidobacteria","Subgroup 3","Unknown Family","Bryobacter",NA,"Zotu944",16.7916666666667
+"Zotu945","Zotu945","Bacteria","Actinobacteria","Actinobacteria","Frankiales","Geodermatophilaceae",NA,NA,"Zotu945",19.4583333333333
+"Zotu946","Zotu946","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfobacterales","Desulfobulbaceae","Desulfobulbus",NA,"Zotu946",14.375
+"Zotu948","Zotu948","Bacteria","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured","uncultured bacterium","Zotu948",15.2083333333333
+"Zotu9486","Zotu9486","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","uncultured","uncultured bacterium","Zotu9486",5
+"Zotu949","Zotu949","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfobacterales","Desulfobulbaceae","Desulfobulbus","uncultured bacterium","Zotu949",11.625
+"Zotu95","Zotu95","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","Denitratisoma",NA,"Zotu95",52.2083333333333
+"Zotu952","Zotu952","Bacteria","Chloroflexi","uncultured","uncultured bacterium",NA,NA,NA,"Zotu952",15.4166666666667
+"Zotu956","Zotu956","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","Methylococcaceae","Methylomicrobium","uncultured bacterium","Zotu956",18.4583333333333
+"Zotu957","Zotu957","Bacteria","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured",NA,"Zotu957",15.625
+"Zotu96","Zotu96","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Oxalobacteraceae","Massilia",NA,"Zotu96",12.7083333333333
+"Zotu963","Zotu963","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Variovorax","uncultured soil bacterium","Zotu963",14
+"Zotu966","Zotu966","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter",NA,"Zotu966",12.5416666666667
+"Zotu967","Zotu967","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales",NA,NA,NA,"Zotu967",26.375
+"Zotu970","Zotu970","Bacteria","Acidobacteria","Acidobacteria","Subgroup 3","Unknown Family","Candidatus Solibacter",NA,"Zotu970",16.9166666666667
+"Zotu971","Zotu971","Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae",NA,NA,"Zotu971",16.0833333333333
+"Zotu974","Zotu974","Bacteria","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","uncultured","uncultured bacterium","Zotu974",12.0833333333333
+"Zotu975","Zotu975","Bacteria","Chloroflexi","uncultured",NA,NA,NA,NA,"Zotu975",12.625
+"Zotu980","Zotu980","Bacteria","Actinobacteria","Thermoleophilia","Gaiellales","Gaiellaceae","Gaiella","uncultured bacterium","Zotu980",12.9583333333333
+"Zotu981","Zotu981","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Desulfuromonadaceae","Desulfuromonas",NA,"Zotu981",15.9583333333333
+"Zotu983","Zotu983","Bacteria","Verrucomicrobia","OPB35 soil group","uncultured bacterium",NA,NA,NA,"Zotu983",16.2916666666667
+"Zotu9875","Zotu9875","Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","uncultured","uncultured bacterium","Zotu9875",64.5833333333333
+"Zotu988","Zotu988","Bacteria","Bacteroidetes","SB-5",NA,NA,NA,NA,"Zotu988",6.91666666666667
+"Zotu990","Zotu990","Bacteria","Proteobacteria","Gammaproteobacteria","Methylococcales","Methylococcaceae",NA,NA,"Zotu990",10.1666666666667
+"Zotu9905","Zotu9905","Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales",NA,NA,NA,"Zotu9905",9.79166666666667
+"Zotu992","Zotu992","Bacteria","Chlorobi","Ignavibacteria","Ignavibacteriales","BSV26","uncultured bacterium",NA,"Zotu992",18.5
+"Zotu993","Zotu993","Bacteria","Bacteroidetes","Flavobacteriia","Flavobacteriales","Flavobacteriaceae","Flavobacterium","uncultured bacterium","Zotu993",15.3333333333333
+"Zotu997","Zotu997","Bacteria","Proteobacteria","Betaproteobacteria","Methylophilales","Methylophilaceae",NA,NA,"Zotu997",11.9166666666667
